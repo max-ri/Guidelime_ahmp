@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N12-20DS_AS]
-[NX20-22.5AS/ST]
+[N12-20DS/AS]
+[NX20-23AS/ST]
 [G36.6,45.6Darkshore]Accept [QA3524 Washed Ashore p1] 
 [G36.8,44.3Darkshore]Turn in [QT6342 Flight to Auberdine] 
 [G36.8,44.3Darkshore]Accept [QA6343 Return to Nessa] 

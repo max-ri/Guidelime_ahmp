@@ -1,9 +1,25 @@
 ## Title: Guidelime_ahmp
 ## Author: ahmp, Borick of Arthas(EU)
-## Version: 0.001-Beta
+## Version: 0.002-Beta
 ## Interface: 11302
-## Dependencies: Guidelime-master
-## Notes: ahmp's 12-60 guide
+## Dependencies: Guidelime
+## Notes: ahmp's 1-60 guide
 
-DS_AS 12-20.lua
 Teldrassil Trio Launch 1-12.lua
+DS_AS 12-20.lua
+AS_ST 20-23.lua
+RR_DW 23-26.lua
+WL 26-27.75.lua
+Ashenvale 27.75-29.5.lua
+WL 2 29.5-30.25.lua
+DW 30.25-32.lua
+1kN 32-33.lua
+DW_STV 33-34.lua
+Hillsbrad_Arathi_Cities 34-35.5.lua
+Desolace 35.5-37.3.lua
+STV_SOS 37.3-39.3.lua
+Dustwallow Marsh 39.3-39.8.lua
+Arathi_Alterac 39.8-40.75.lua
+Badlands 40.75-41.5.lua
+STV Mid_Late 1 41.5-42.75.lua
+Tanaris_Feralas 42.75-45.25.lua

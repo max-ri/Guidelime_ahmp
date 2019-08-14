@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA NightElf]
 [N1-12Teldrassil Trio Launch]
-[NX12-20DS_AS]
+[NX12-20DS/AS]
 [G58.7,44.3Teldrassil]Accept [QA456 The Balance of Nature p1] 
 [G61.1,43.4Teldrassil]Kill [QC456,1 Young Nightsaber] Kill everything to level 2[O]
 Kill [QC456 Young Thistle Boar] 
@@ -13,10 +13,10 @@ Accept [QA458 The Woodland Protector p1]
 [G58.7,44.3Teldrassil]Turn in [QT456 The Balance of Nature p1] 
 [G58.7,44.3Teldrassil]Accept [QA457 The Balance of Nature p2] 
 [G57.8,45.2Teldrassil]Turn in [QT458 The Woodland Protector p1] 
-[G57.8,45.2Teldrassil]Accept [QA459 The Woodland Protector p2] moss
+[G57.8,45.2Teldrassil]Accept [QA459 The Woodland Protector p2] 
 Kill [QC459,1 Grellkin] [OC]
 Kill Young Thistle Boar[OC]
-Kill Webwood Spider
+Kill Webwood Spider[OC]
 [G54.6,33Teldrassil]Turn in [QT4495 A Good Friend] 
 [G54.6,33Teldrassil]Accept [QA3519 A Friend in Need] 
 HS Shadowglen
