@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N29.5-30.25WL 2]
-[NX30.25-32DW]
+[N29-30Wetlands 2]
+[NX30-32Duskwood]
 [G10.9,59.7Wetlands]Accept [QA290 Lifting the Curse] 
 Set HS Menethil Harbor
 [G15.4,23.6Wetlands]Kill [QC290,1 Captain Halyndor] 
@@ -22,7 +22,7 @@ Kill [QC474,1 Chieftain Nek'rosh] Mountain climb up the back of his camp and res
 [G49.9,18.2Wetlands]Accept [QA633 The Thandol Span p3] 
 [G43.2,92.6Arathi Highlands]Accept [QA647 MacKreel's Moonshine] 
 [G44.3,92.9Arathi Highlands]Accept [QA637 Sully Balloo's Letter] Underwater by dwarf corpse
-[G48.8,88Arathi Highlands]Complete [QC633 The Thandol Span p3]
+[G48.8,88Arathi Highlands]Complete [QC633,1 The Thandol Span] 
 [G49.9,18.2Wetlands]Turn in [QT633 The Thandol Span p3] 
 [G49.9,18.2Wetlands]Accept [QA634 Plea To The Alliance] 
 [G45.8,47.6Arathi Highlands]Turn in [QT634 Plea To The Alliance] 

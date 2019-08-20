@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N34-35.5Hillsbrad/Arathi/Cities]
-[NX35.5-37.3Desolace]
+[N34-35Hillsbrad_Arathi]
+[NX35-37Desolace]
 [F]Fly Refuge Pointe
 [G46.7,47Arathi Highlands]Turn in [QT690 Malin's Request p1] 
 [G46.2,47.8Arathi Highlands]Accept [QA691 Worth Its Weight in Gold] 
@@ -21,7 +21,7 @@ Accept [QA540 Preserving Knowledge]
 [G93.4,90.3Silverpine Forest]Accept [QA505 Syndicate Assassins] 
 [G55.4,52Alterac Mountains]Kill [QC564,2 Hulking Mountain Lion] Go north west (1 notch west of yeti cave) (33,91 side)[OC]
 Kill [QC564,1 Mountain Lion] [OC]
-[G40,94.8Alterac Mountains]Complete [QC689 A King's Tribute p2]
+[G40,94.8Alterac Mountains]Complete [QC658,1 Hints of a New Plague?] 
 [G55.4,52Alterac Mountains]Kill [QC564,2 Hulking Mountain Lion] Check above yeti cave for respawns[O]
 Kill [QC564,1 Mountain Lion] [O]
 [G53.1,75.4Alterac Mountains]Kill [QC505,2 Syndicate Thief] [O]
@@ -29,7 +29,7 @@ Kill [QC564,1 Mountain Lion] [O]
 [G58.3,67.9Alterac Mountains]Accept [QA510 Foreboding Plans] [O]
 [G54.5,72.3Alterac Mountains]Kill [QC505,1 Syndicate Footpad] Finish at the camp nearest to horde AV, then go due north towards ogres
 [G49.1,45.4Alterac Mountains]Kill [QC500,1 Crushridge Brute] [O]
-Grind until 5 books, hold onto these [QC540 Preserving Knowledge]
+Grind until 5 books, hold onto these [QC540 Preserving Knowledge] 
 Get FP Chillwind Camp
 [F]Fly Southshore
 [G94.4,90Silverpine Forest]Turn in [QT500 Crushridge Bounty] 
@@ -47,7 +47,7 @@ Kill [QC658 Forsaken Courier] Nice people kill the guards so it respawns
 Accept [QA657 Hints of a New Plague? p3] 
 [G60.2,53.9Arathi Highlands]Turn in [QT657 Hints of a New Plague? p3] 
 [G60.2,53.9Arathi Highlands]Accept [QA660 Hints of a New Plague? p4] Before accepting, clear 5-6 orcs along the path (windmills to far house) to be safe
-Complete [QC660 Hints of a New Plague? p4]
+Complete [QC660 Hints of a New Plague? p4] 
 [G60.2,53.8Arathi Highlands]Turn in [QT660 Hints of a New Plague? p4] 
 [G60.2,53.8Arathi Highlands]Accept [QA661 Hints of a New Plague? p5] 
 [G68.4,75.4Arathi Highlands]Kill [QC691,1 Witherbark Headhunter] [O]

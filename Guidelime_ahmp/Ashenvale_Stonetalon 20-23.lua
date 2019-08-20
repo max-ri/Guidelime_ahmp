@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N20-23AS/ST]
-[NX23-26RR/DW]
+[N20-23Ashenvale/Stonetalon]
+[NX23-26Redridge/Duskwood]
 [G34.4,48Ashenvale]Get FP Astranaar
 [G34.7,48.8Ashenvale]Accept [QA1008 The Zoram Strand] 
 [G34.9,49.8Ashenvale]Accept [QA1070 On Guard in Stonetalon p1] 
@@ -43,23 +43,23 @@ Take eggs out of bank
 [G23.7,64.5Teldrassil]Turn in [QT741 The Absent Minded Prospector p3] 
 [G23.7,64.5Teldrassil]Accept [QA942 The Absent Minded Prospector p4] 
 [F]Fly Astranaar
-[G46.3,45.9Ashenvale]Complete [QC1033 Elune's Tear]
+[G46.3,45.9Ashenvale]Complete [QC1033,1 Elune's Tear] 
 [G37.7,34.7Ashenvale]Kill [QC1054,1 Dal Bloodclaw] Kill wildlife to create a kite path, then pull him from east side of village and run towards town
 [G36.6,49.6Ashenvale]Turn in [QT1054 Culling the Threat] 
 [G37.4,51.8Ashenvale]Turn in [QT1033 Elune's Tear] 
 [G37.4,51.8Ashenvale]Accept [QA1034 The Ruins of Stardust] 
-[G33.1,68.6Ashenvale]Careful of mobs in water [QC1034 The Ruins of Stardust]
+[G33.1,68.6Ashenvale]Complete [QC1034,1 The Ruins of Stardust] 
 Climb the ramp looking mountain NE towards demons
 [G25.3,60.7Ashenvale]Kill [QC973 Ilkrud Magthrull] Use Restoring Balm and Healing Potion, Freezing trap the succubus after 5s (conc shot pull off pet)
 [G26.2,38.7Ashenvale]Turn in [QT973 The Tower of Althalaxx p5] 
 [G26.2,38.7Ashenvale]Accept [QA981 The Tower of Althalaxx p6] 
 [G20.3,42.3Ashenvale]Turn in [QT991 Raene's Cleansing p1] 
 [G20.3,42.3Ashenvale]Accept [QA1023 Raene's Cleansing p2] 
-[G20.6,42.5 ]Keep all Murloc Fin [QC1023 Raene's Cleansing p2]
+[G20.6,42.5 ]Keep all Murloc Fin [QC1023 Raene's Cleansing p2] 
 [G14.8,31.3Ashenvale]Accept [QA1007 The Ancient Statuette] 
 [G14.4,21.6Ashenvale]Kill [QC1008,1 Wrathtail Wave Rider] [OC]
 [G10.2,26.4Ashenvale]Kill [QC1008,1 Wrathtail Sea Witch] [OC]
-[G14.2,20.6Ashenvale]Complete [QC1007 The Ancient Statuette]
+[G14.2,20.6Ashenvale]Complete [QC1007,1 The Ancient Statuette] 
 [G14.8,31.3Ashenvale]Turn in [QT1007 The Ancient Statuette] 
 [G14.8,31.3Ashenvale]Accept [QA1009 Ruuzel] 
 [G14.4,21.6Ashenvale]Kill [QC1008,1 Wrathtail Wave Rider] [O]
@@ -77,7 +77,7 @@ Get FP Menethil Harbor
 [G10.9,59.7Wetlands]Accept [QA463 The Greenwarden] 
 [G10.9,59.7Wetlands]Accept [QA288 The Third Fleet] 
 [G10.7,61Wetlands][V]Buy 20 Mutton Chop/20 Melon Juice
-[G10.7,61Wetlands]Complete [QC288 The Third Fleet]
+[G10.7,61Wetlands]Kill [QC288 Innkeeper Helbrek] 
 [G10.8,60.4Wetlands]Turn in [QT942 The Absent Minded Prospector p4] 
 [G10.9,59.7Wetlands]Turn in [QT288 The Third Fleet] 
 [G10.7,56.8Wetlands]Check bronze tube insdide Menethil Keep

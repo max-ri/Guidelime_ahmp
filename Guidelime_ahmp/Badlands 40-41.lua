@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N40.75-41.5Badlands]
-[NX41.5-42.75STV Mid/Late 1]
+[N40-41Badlands]
+[NX41-42STV Mid/Late 1]
 Set HS Loch Modan
 Stable Pet[OC]
 [G97.8,46.3Dun Morogh]Accept [QA2500 Badlands Reagent Run] 
@@ -16,7 +16,7 @@ Tame Brokentooth + HS and swap back to owl[OC]
 [G52.9,33.4Badlands]Kill [QC719,1 Shadowforge Darkweaver] [O]
 Accept [QA720 A Sign of Hope p1] Crumpled Map on the ground
 [G56.2,61.6Badlands]Kill [QC2500,1 Buzzard] Don't have quest yet but start working on it[OC]
-[G66.9,23.5Badlands]Complete [QC718 ]
+[G66.9,23.5Badlands]Complete [QC718,1 Mirages] 
 [G61.9,54.3Badlands]Accept [QA732 Tremors of the Earth p1] Blood elf
 [G53.8,43.3Badlands]Turn in [QT718 Mirages] 
 [G53.8,43.3Badlands]Accept [QA733 Scrounging] 
@@ -36,7 +36,7 @@ Check rare near Theldrun
 Kill [QC2500 Feral Crag Coyote] [OC]
 [G50.5,68.4Badlands]Kill [QC1108,1 Stonevault Bonesnapper] [O]
 [G49.6,66.3Badlands]Kill [QC739,1 Murdaloc] [O]
-[G50.5,68.4Badlands]Grind Troggs until 10/10 Indurium Flake [QC1108 Indurium]
+[G50.5,68.4Badlands]Complete [QC1108,1 Indurium] 
 [G35.2,69.4Badlands]Kill [QC2500,3 Rock Elemental] 
 [G25.9,44.9Badlands]Turn in [QT711 Study of the Elements: Rock p2] 
 [G25.9,44.9Badlands]Accept [QA712 Study of the Elements: Rock p3] 

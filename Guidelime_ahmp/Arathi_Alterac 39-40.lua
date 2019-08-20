@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N39.8-40.75Arathi/Alterac]
-[NX40.75-41.5Badlands]
+[N39-40Arathi/Alterac]
+[NX40-41Badlands]
  Set HS
 [G96,89.7Silverpine Forest]Turn in [QT1052 Down the Scarlet Path p2] upstairs
 [G93.4,90.3Silverpine Forest]Turn in [QT525 Further Mysteries] 
@@ -14,7 +14,7 @@ Guidelime.registerGuide([[
 Go East to get onto mountains and enter Ogre Keep
 [G39.1,51.2Alterac Mountains]Kill [QC543 Grel'borg the Miser] Melee mob, can reset any adds
 Sneak around to the town hall by hugging the mountain and jump to the other side
-[G38.4,46.4Alterac Mountains]Freezing trap + pet tank and loot bookcase [QC540 Preserving Knowledge]
+[G38.4,46.4Alterac Mountains]Loot [QC540 Worn Leather Book] 
 [G39.7,17.3Alterac Mountains]Kill [QC512,1 Syndicate Enforcer] [O]
 Kill [QC512 Syndicate Assassin] Stealth mobs careful[O]
 [G39.2,14.3Alterac Mountains]Kill [QC537,2 Nagaz] 
@@ -34,9 +34,9 @@ Discover Hammerfall
 [G78.9,38.3Arathi Highlands]Kill [QC642,1 Drywhisker Kobold] kill ones outside first al of them
 [G84.3,31Arathi Highlands]Turn in [QT642 The Princess Trapped] 
 [G84.3,31Arathi Highlands]Accept [QA651 Stones of Binding] 
-[G66.7,29.7Arathi Highlands]Complete [QC651 Stones of Binding][O]
-[G52,50.7Arathi Highlands]Complete [QC651 Stones of Binding][O]
-[G25.5,30.1Arathi Highlands]Eyes open for Fozruk [QC651 Stones of Binding]
+[G66.7,29.7Arathi Highlands]Complete [QC651,2 Stones of Binding] [O]
+[G52,50.7Arathi Highlands]Complete [QC651,3 Stones of Binding] [O]
+[G25.5,30.1Arathi Highlands]Complete [QC651,1 Stones of Binding] 
 Go to Aerie Peak
 [G96.8,6.3Hillsbrad Foothills]Turn in [QT1449 To The Hinterlands] 
 [G96.8,6.3Hillsbrad Foothills]Accept [QA1450 Gryphon Master Talonaxe] 
@@ -46,9 +46,9 @@ Get FP Aerie Peak
 [G97.6,62.9Alterac Mountains]Accept [QA2988 Witherbark Cages] 
 [G26.9,48.6The Hinterlands]Turn in [QT1451 Rhapsody Shindigger] 
 [G26.9,48.6The Hinterlands]Accept [QA1452 Rhapsody's Kalimdor Kocktail] 
-[G32,57.3The Hinterlands]Check Third cage [QC2988 Witherbark Cages][O]
-[G23.3,58.8The Hinterlands]Check First cage [QC2988 Witherbark Cages][O]
-[G23.1,58.8The Hinterlands]Check Second cage [QC2988 Witherbark Cages]
+[G32,57.3The Hinterlands]Complete [QC2988,3 Witherbark Cages] [O]
+[G23.3,58.8The Hinterlands]Complete [QC2988,1 Witherbark Cages] [O]
+[G23.1,58.8The Hinterlands]Complete [QC2988,2 Witherbark Cages] 
 [G97.6,62.9Alterac Mountains]Turn in [QT2988 Witherbark Cages] 
 [F]Fly Refuge Pointe
 [G36.2,57.4Arathi Highlands]Turn in [QT651 Stones of Binding] 
@@ -64,11 +64,11 @@ Go to Thandol Span and swim to Pirate Alcove
 Mini escort
 [G33.9,80.4Arathi Highlands]Turn in [QT665 Sunken Treasure p1] 
 [G33.9,80.4Arathi Highlands]Accept [QA666 Sunken Treasure p2] 
-[G24.9,89.4Arathi Highlands]Loot gems first to start respawn [QC666 Sunken Treasure p2][O]
-[G23.4,85.1Arathi Highlands]In a box middle floor near back of ship [QC662 Deep Sea Salvage][O]
-[G23,84.5Arathi Highlands]mid floor on platform where mast would be [QC662 Deep Sea Salvage][O]
-[G20.7,85.1Arathi Highlands]Bottom floor on the ground [QC662 Deep Sea Salvage][O]
-[G20.5,85.6Arathi Highlands]mid floor on box near front of ship [QC662 Deep Sea Salvage][O]
+[G24.9,89.4Arathi Highlands]Complete [QC666,1 Sunken Treasure] [O]
+[G23.4,85.1Arathi Highlands]Complete [QC662,2 Deep Sea Salvage] [O]
+[G23,84.5Arathi Highlands]Complete [QC662,1 Deep Sea Salvage] [O]
+[G20.7,85.1Arathi Highlands]Complete [QC662,4 Deep Sea Salvage] [O]
+[G20.5,85.6Arathi Highlands]Complete [QC662,3 Deep Sea Salvage] [O]
 [G22.1,87.1Arathi Highlands]Kill [QC664,1 Daggerspine Raider] [O]
 [G21.7,86.4Arathi Highlands]Kill [QC664,2 Daggerspine Sorceress] 
 [G32.8,81.5Arathi Highlands]Turn in [QT662 Deep Sea Salvage] 

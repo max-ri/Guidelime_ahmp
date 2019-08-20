@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N37.3-39.3STV/SOS]
-[NX39.3-39.8Dustwallow Marsh]
+[N37-39STV/Swamp]
+[NX39-39Dustwallow Marsh]
 [G27.1,77.2Stranglethorn Vale]Accept [QA605 Singing Blue Shards] 
 [G26.9,77.2Stranglethorn Vale]Accept [QA1116 Dream Dust in the Swamp] 
 [G27,77.1Stranglethorn Vale]Accept [QA189 Bloodscalp Ears] 
@@ -27,20 +27,20 @@ go towards north troll camp
 [G22,11.3Stranglethorn Vale]Grind until level 38 on the upper level save silk cloth and pages
 [G22,11.3Stranglethorn Vale]Kill [QC189,1 Bloodscalp Witch Doctor] [OC]
 1  ,4  ,6  ,8 10,11,14,16 18,20,21,24 25,26,27
-[G24.7,8.9Stranglethorn Vale]Upper platform [QC207 ]
-[G22.9,12Stranglethorn Vale]Near STV Raptor p1 quest [QC207 ]
+[G24.7,8.9Stranglethorn Vale]Complete [QC207,4 Kurzen's Mystery] 
+[G22.9,12Stranglethorn Vale]Complete [QC207,3 Kurzen's Mystery] 
 [G20.9,23.3Stranglethorn Vale]Kill [QC601,1 Lesser Water Elemental] 
-[G24.8,23Stranglethorn Vale]Use a Water Breathing, pet tank + freezing trap  [QC207 ]
+[G24.8,23Stranglethorn Vale]Complete [QC207,2 Kurzen's Mystery] 
 [G34.6,13.7Stranglethorn Vale]Kill [QC605,1 Crystal Spine Basilisk] Try to finish now[OC]
 [G30,19.2Stranglethorn Vale]Kill [QC189,1 Bloodscalp Shaman] [OC]
-[G29.5,19.1Stranglethorn Vale]Complete [QC207 ]
+[G29.5,19.1Stranglethorn Vale]Complete [QC207,1 Kurzen's Mystery] 
 [G32.2,17.4Stranglethorn Vale]Kill [QC188,1 Sin'Dall] 
 Kill [QC195,1 Lashtail Raptor] 
 [G40.3,23.5Stranglethorn Vale]Kill [QC577,1 Snapjaw Crocolisk] kill up river
 [G42.9,19.1Stranglethorn Vale]Kill [QC213,1 Venture Co. Geologist] grind to panthers[OC][OC]
 [G47,21Stranglethorn Vale]Kill [QC192,1 Shadowmaw Panther] Kill 3-5 shadowmaw panthers then go back[OC]
 [G47,21Stranglethorn Vale]Kill [QC1182 Foreman Cozzle] Loot Cozzle's Key
-[G43.3,20.3Stranglethorn Vale]Complete [QC1182 Goblin Sponsorship p4][O]
+[G43.3,20.3Stranglethorn Vale]Complete [QC1182,1 Goblin Sponsorship] [O]
 [G42.9,19.1Stranglethorn Vale]Kill [QC213,1 Venture Co. Geologist] 
 [G47,21Stranglethorn Vale]Kill [QC192,1 Shadowmaw Panther] Finish panthers then go to Kurzen cave
 Kill [QC605,1 Crystal Spine Basilisk] Above cave in mountains
@@ -70,7 +70,7 @@ Go to Sentinel Hill, Westfall
 [G20.3,39.4Elwynn Forest]Accept [QA1364 Mazen's Behest] 
 [T]Train 38 + Pet skills, tram to
 [G29.4,22.7Elwynn Forest]Accept [QA1448 In Search of The Temple] 
-[F]Fly Darkshore
+[F]Fly Darkshire
 Go to Swamp of Sorrows
 [G39.2,0.8Blasted Lands]Kill [QC1116,1 Adolescent Whelp] Clear whelps to start respawns[OC]
 [G67.9,40.4Deadwind Pass]Kill [QC1116,1 Dreaming Whelp] [OC]
@@ -78,7 +78,7 @@ Go to Swamp of Sorrows
 [G83.7,25.1Deadwind Pass]Kill [QC1396,1 Young Sawtooth Crocolisk] [OC]
 [G84.8,26.5Deadwind Pass]Kill [QC1396,2 Sorrow Spinner] [OC]
 [G87.1,25.7Deadwind Pass]Kill [QC1396,3 Swamp Jaguar] [OC]
-[G64,50Swamp of Sorrows]Complete [QC1448 In Search of The Temple]
+[G64,50Swamp of Sorrows]Complete [QC1448 In Search of The Temple] 
 [G39.2,0.8Blasted Lands]Kill [QC1116,1 Adolescent Whelp] Clear whelps to start respawns[OC]
 [G67.9,40.4Deadwind Pass]Kill [QC1116,1 Dreaming Whelp] [OC]
 Accept [QA1389 Draenethyst Crystals] 
@@ -93,8 +93,8 @@ Accept [QA1389 Draenethyst Crystals]
 [G98.8,20.9Deadwind Pass]Kill [QC1392 Noboru the Cudgel] He drops the quest item[O]
 Accept [QA1392 Noboru the Cudgel] 
 [G97.8,96.9Redridge Mountains]Accept [QA1423 The Lost Supplies] Loot Scattered Crate if you find one, will start this quest[OC]
-[G98.5,96.2Redridge Mountains]Complete [QC1389 Draenethyst Crystals][O]
-[G98.2,91.6Redridge Mountains]In the broken cart, ignore caged man [QC1421 The Lost Caravan]
+[G98.5,96.2Redridge Mountains]Complete [QC1389,1 Draenethyst Crystals] [O]
+[G98.2,91.6Redridge Mountains]Complete [QC1421,1 The Lost Caravan] 
 [G79.4,14.1Deadwind Pass]Turn in [QT1389 Draenethyst Crystals] 
 Turn in [QT1392 Noboru the Cudgel] 
 [G80.1,40.1Deadwind Pass]Turn in [QT1421 The Lost Caravan] 

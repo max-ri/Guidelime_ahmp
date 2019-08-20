@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N32-331kN]
-[NX33-34DW_STV]
+[N32-33Thousand Needles]
+[NX33-34Duskwood_STV]
 [G27.7,39.5Elwynn Forest]Turn in [QT1245 The Missing Diplomat p6] In Stormwind
 [G27.7,39.5Elwynn Forest]Accept [QA1246 The Missing Diplomat p7] 
 [G21.1,45.8Elwynn Forest]Turn in [QT1078 Retrieval for Mauren] 
@@ -17,7 +17,7 @@ Guidelime.registerGuide([[
 [G33.1,26.4Elwynn Forest]Accept [QA543 The Perenolde Tiara] 
 [G31.8,32Elwynn Forest]Turn in [QT1246 The Missing Diplomat p7] 
 [G31.8,32Elwynn Forest]Accept [QA1447 The Missing Diplomat p8] 
-Complete [QC1447 The Missing Diplomat p8]
+Complete [QC1447 The Missing Diplomat p8] 
 [G31.8,32Elwynn Forest]Turn in [QT1447 The Missing Diplomat p8] 
 [G31.8,32Elwynn Forest]Accept [QA1247 The Missing Diplomat p9] 
 [G27.7,39.5Elwynn Forest]Turn in [QT1247 The Missing Diplomat p9] 
@@ -27,7 +27,7 @@ HS Menethil Harbor
 [G10.6,60.6Wetlands]Accept [QA321 Lightforge Iron] 
 [G10.6,60.8Wetlands]Turn in [QT1248 The Missing Diplomat p10] 
 [G10.6,60.8Wetlands]Accept [QA1249 The Missing Diplomat p11] 
-Ignore adds [QC1249 The Missing Diplomat p11]
+Ignore adds [QC1249 The Missing Diplomat p11] 
 [G54.7,1.2Dun Morogh]Turn in [QT321 Lightforge Iron] Broken ship
 [G54.7,1.2Dun Morogh]Accept [QA324 The Lost Ingots] 
 [G17.4,45.2Wetlands]Kill [QC324,1 Bluegill Raider] 
@@ -49,7 +49,7 @@ Set HS Theramore
 [G70.8,79.1The Barrens]Turn in [QT1282 They Call Him Smiling Jim] [OC]
 [G70.7,79.2The Barrens]Turn in [QT1264 The missing Diplomat p13] 
 [G70.7,79.2The Barrens]Accept [QA1265 The missing Diplomat p14] 
-[G59,41Dustwallow Marsh]Complete [QC1265 The missing Diplomat p14]
+[G59,41Dustwallow Marsh]Complete [QC1265 The missing Diplomat p14] 
 [G59,41Dustwallow Marsh]Turn in [QT1265 The missing Diplomat p14] 
 [G59,41Dustwallow Marsh]Accept [QA1266 The missing Diplomat p15] 
 [G58.9,66.7The Barrens]Turn in [QT1266 The missing Diplomat p15] 
@@ -78,7 +78,7 @@ Check south west for 32 salt flats vulture
 [G77.8,87.7Thousand Needles]Kill [QC1175,3 Saltstone Gazer] [OC]
 [G79.6,75.3Thousand Needles]Kill [QC1175,2 Saltstone Crystalhide] [OC]
 [G78.9,77.2Thousand Needles]Kill [QC1104,1 Scorpid Terror] [OC]
-Complete [QC1110 Rocket Car Parts][OC]
+Complete [QC1110 Rocket Car Parts] [OC]
 scout south east for 32 salt flats vulture
 Get FP Gadgetzan
 Stable pet and tame level 32 vulture, attack until you learn screech rank 2
@@ -107,10 +107,10 @@ Get FP Ratchet
 [G74.7,60.2Thousand Needles]Kill [QC1175,1 Saltstone Basilisk] [O]
 [G79.6,75.3Thousand Needles]Kill [QC1175,2 Saltstone Crystalhide] [O]
 [G77.8,87.7Thousand Needles]Kill [QC1175,3 Saltstone Gazer] [O]
-[G81.4,63.9Thousand Needles]Clear vultures North East then go North West and loop back [QC1176 Load Lightening][O]
-[G76.6,62.2Thousand Needles]Complete [QC1104 Salt Flat Venom][O]
-[G76.4,58.2Thousand Needles]Make sure to have 10 Turtle Meat before going back [QC1105 Hardened Shells][O]
-[G71.4,57.1Thousand Needles]Loot while low hp/mana to regen [QC1110 Rocket Car Parts]
+[G81.4,63.9Thousand Needles]Complete [QC1176,1 Load Lightening] [O]
+[G76.6,62.2Thousand Needles]Complete [QC1104,1 Salt Flat Venom] [O]
+[G76.4,58.2Thousand Needles]Complete [QC1105,1 Hardened Shells] [O]
+[G71.4,57.1Thousand Needles]Complete [QC1110,1 Rocket Car Parts] 
 [G81.6,78Thousand Needles]Turn in [QT1175 A Bump in the Road] 
 [G80.2,75.9Thousand Needles]Turn in [QT1176 Load Lightening] 
 [G80.2,75.9Thousand Needles]Accept [QA1178 Goblin Sponsorship p1] 

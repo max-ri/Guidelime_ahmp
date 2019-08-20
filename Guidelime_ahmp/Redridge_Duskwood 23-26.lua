@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N23-26RR/DW]
-[NX26-27.75WL]
+[N23-26Redridge/Duskwood]
+[NX26-27Wetlands]
 [T]Train level 22 (no pet skills)
 [G22.1,29.5Elwynn Forest]Accept [QA343 Speaking of Fortitude] 
 [G21.1,45.8Elwynn Forest]Turn in [QT1075 A Scroll from Mauren] 
@@ -27,7 +27,7 @@ Accept [QA347 Rethban Ore]
 Set HS Lakeshire
 [G26.7,44.3Redridge Mountains]Accept [QA129 A Free Lunch] 
 [G47.4,50.7Redridge Mountains]Kill [QC127,1 Murloc Scout] [OC]
-[G41.5,54.7Redridge Mountains]Complete [QC125 The Lost Tools]
+[G41.5,54.7Redridge Mountains]Complete [QC125,1 The Lost Tools] 
 [G32.1,48.6Redridge Mountains]Turn in [QT125 The Lost Tools] 
 [G32.1,48.6Redridge Mountains]Accept [QA89 The Everstill Bridge] 
 [G74,72.2Elwynn Forest]Turn in [QT129 A Free Lunch] While running to Duskwood
@@ -164,11 +164,11 @@ run along North coast
 [G7.8,34.1Duskwood]Accept [QA323 Proving Your Worth] 
 [G43.8,51.4Duskwood]Kill [QC156,1 Skeletal Horror] [O]
 [G19.9,44.2Duskwood]Kill [QC156,1 Skeletal Fiend] [O]
-Complete [QC156 Gather Rot Blossoms]
+Complete [QC156 Gather Rot Blossoms] 
 Go Goldshire
 [G43.8,65.8Elwynn Forest]Turn in [QT69 The Legend of Stalvan p4] 
 [G43.8,65.8Elwynn Forest]Accept [QA70 The Legend of Stalvan p5] 
-[G44.3,65.8Elwynn Forest]Complete [QC70 The Legend of Stalvan p5]
+[G44.3,65.8Elwynn Forest]Complete [QC70,1 The Legend of Stalvan] 
 [G49.6,40.4Elwynn Forest]Turn in [QT347 Rethban Ore] in Northshire Valley
 [G49.6,40.4Elwynn Forest]Accept [QA346 Return to Kristoff] 
 [G21.1,45.8Elwynn Forest]Turn in [QT1076 Devils in Westfall] in Stormwind

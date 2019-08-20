@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N27.75-29.5Ashenvale]
-[NX29.5-30.25WL 2]
+[N27-29Ashenvale]
+[NX29-30Wetlands 2]
 In Auberdine
 [G38.3,43Darkshore]Turn in [QT3765 The Corruption Abroad] 
 [F]Fly to Stonetalon Peak
@@ -28,8 +28,8 @@ Get FP Nijel's Point
 [G53.5,46.2Ashenvale]Turn in [QT1024 Raene's Cleansing p3] Go north run over mountains to dryad moonwell
 [G53.5,46.2Ashenvale]Accept [QA1026 Raene's Cleansing p4] 
 [G59.4,39.2Ashenvale]Kill [QC1026 Crazed Ancient] Acquire the Wooden Key
-[G54.4,35.4Ashenvale]Complete [QC1026 Raene's Cleansing p4]
-[G50.5,39.1Ashenvale]Complete [QC1022 The Howling Vale]
+[G54.4,35.4Ashenvale]Complete [QC1026,1 Raene's Cleansing] 
+[G50.5,39.1Ashenvale]Complete [QC1022,1 The Howling Vale] 
 Grind towards Forest Song (East)[OC]
 [G78.3,44.8Ashenvale]Turn in [QT1021 Vile Satyr! Dryads in Danger!] 
 [G78.3,44.8Ashenvale]Accept [QA1031 The Branch of Cenarius] 
@@ -48,7 +48,7 @@ HS Astranaar
 [G53.3,62.5Ashenvale]Kill [QC1025,4 Foulweald Warrior] [OC]
 [G49.8,67.2Ashenvale]Accept [QA1016 Elemental Bracers] 
 [G49,70.4Ashenvale]Kill [QC1016 Befouled Water Elemental] for 5 intact Elemental Bracers
-Use Divining Scroll [QC1016 Elemental Bracers]
+Use Divining Scroll [QC1016 Elemental Bracers] 
 [G49.8,67.2Ashenvale]Turn in [QT1016 Elemental Bracers] 
 [G52.2,60.8Ashenvale]Kill [QC1025,2 Foulweald Ursa] [O]
 [G52.3,60.9Ashenvale]Kill [QC1025,1 Foulweald Den Watcher] [O]
@@ -56,13 +56,13 @@ Use Divining Scroll [QC1016 Elemental Bracers]
 [G53.3,62.5Ashenvale]Kill [QC1025,4 Foulweald Warrior] 
 [G3.5,8.3Durotar]Kill [QC1035,1 Shadethicket Oracle] 
 [G11.3,0Durotar]Kill [QC1027 Rotting Slime] Loot the boxes
-[G75.3,71.9Ashenvale]Beware of stealth mobs [QC1011 Forsaken Diseases]
+[G75.3,71.9Ashenvale]Complete [QC1011,1 Forsaken Diseases] 
 Go to north satyr camp, discover Felfire Hill and Warsong Lumber Camp
 [G80.9,50.2Ashenvale]Kill [QC1032,1 Bleakheart Hellcaller] Clear satyrs to the back and up ramp to turn in[OC]
-[G81.6,48.6Ashenvale]Rune on the ground [QC981 The Tower of Althalaxx p6]
+[G81.6,48.6Ashenvale]
 [G85.2,44.7Ashenvale]Turn in [QT1011 Forsaken Diseases] 
 [G67.1,54.3Ashenvale]Kill [QC1032,1 Felmusk Felsworn] 
-[G66.6,57Ashenvale]Rune on the ground [QC981 The Tower of Althalaxx p6]
+[G66.6,57Ashenvale]
 [G53.5,46.2Ashenvale]Turn in [QT1027 Raene's Cleansing p5] At the moonwell
 [G53.5,46.2Ashenvale]Accept [QA1028 Raene's Cleansing p6] 
 [G56.4,49.2Ashenvale]Turn in [QT1028 Raene's Cleansing p6] Head out of moonwell area and head east, up mountain path
@@ -89,7 +89,7 @@ Deathwarp to Astranaar
 [F]Fly Darnassus
 [G30,55.1Teldrassil]Turn in [QT1037 Velinde Starsong] 
 [G30,55.1Teldrassil]Accept [QA1038 Velinde's Effects] 
-[G30.2,64.3Teldrassil]Complete [QC1038 Velinde's Effects]
+[G30.2,64.3Teldrassil]Complete [QC1038,1 Velinde's Effects] 
 [G30,55.1Teldrassil]Turn in [QT1038 Velinde's Effects] 
 [G30,55.1Teldrassil]Accept [QA1039 The Barrens Port] 
 [F]Fly Auberdine

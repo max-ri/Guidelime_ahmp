@@ -2,8 +2,8 @@ local addonName, addon = ...
 Guidelime.registerGuide([[
 [D*ahmp*'s 12-60 guide]
 [GA Alliance]
-[N33-34DW_STV]
-[NX34-35.5Hillsbrad/Arathi/Cities]
+[N33-34Duskwood_STV]
+[NX34-35Hillsbrad_Arathi]
 Booty bay
 [G26.3,73.6Stranglethorn Vale]Turn in [QT1180 Goblin Sponsorship p2] 
 [G26.3,73.6Stranglethorn Vale]Accept [QA1181 Goblin Sponsorship p3] 
@@ -27,7 +27,7 @@ Get FP Booty Bay
 [G14.7,43.9Deadwind Pass]Accept [QA1043 The Scythe of Elune] 
 [G6.1,77.8Deadwind Pass]Kill [QC222 Nightbane Tainted One] At the mine camp[OC]
 [G9,70.3Deadwind Pass]Kill [QC222 Nightbane Vile Fang] [OC]
-[G73.5,79.1Duskwood]Back of cave dirt mound [QC1043 The Scythe of Elune]
+[G73.5,79.1Duskwood]Back of cave dirt mound [QC1043 The Scythe of Elune] 
 [G6.1,77.8Deadwind Pass]Kill [QC222 Nightbane Tainted One] At mountain camp   [O]
 [G9,70.3Deadwind Pass]Kill [QC222 Nightbane Vile Fang] 
 Go STV
@@ -56,8 +56,8 @@ Kill [QC185,1 Young Stranglethorn Tiger]
 [G43.7,9.4Stranglethorn Vale]Accept [QA328 The Hidden Key] 
 [G44.9,10.2Stranglethorn Vale]Kill [QC203,1 Kurzen Jungle Fighter] [O]
 [G44.7,10.1Stranglethorn Vale]Kill [QC204,1 Kurzen Medicine Man] [O]
-[G44.1,9.5Stranglethorn Vale]Complete [QC204 Bad Medicine][O]
-Kill Stranglethorn TigerEast of Kurzen camp
+[G44.1,9.5Stranglethorn Vale]Complete [QC204,2 Bad Medicine] [O]
+Kill [QC186 Stranglethorn Tiger] East of Kurzen camp
 [G38.5,88.5Duskwood]Turn in [QT204 Bad Medicine] 
 [G38.5,88.5Duskwood]Turn in [QT203 The Second Rebellion] 
 [G37.8,88.5Duskwood]Accept [QA210 Krazek's Cookery] 
@@ -67,7 +67,7 @@ Kill Stranglethorn TigerEast of Kurzen camp
 [G35.6,10.6Stranglethorn Vale]Accept [QA187 Tiger Mastery p3] 
 [G31.6,12.6Stranglethorn Vale]Kill [QC191,1 Panther] [O]
 [G25.8,16.1Stranglethorn Vale]Kill [QC194,1 Stranglethorn Raptor] 
-[G21,21.5Stranglethorn Vale]Complete [QC578 The Stone of the Tides]
+[G21,21.5Stranglethorn Vale]Complete [QC578 The Stone of the Tides] 
 [G33.4,18.5Stranglethorn Vale]Kill [QC187,1 Elder Stranglethorn Tiger] 
 [G35.6,10.5Stranglethorn Vale]Turn in [QT191 Panther Mastery p2] 
 [G35.7,10.8Stranglethorn Vale]Turn in [QT194 Raptor Mastery p1] 
