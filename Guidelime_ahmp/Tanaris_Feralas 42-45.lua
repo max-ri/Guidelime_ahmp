@@ -129,12 +129,4 @@ Withdraw 15 SILK CLOTH from bank
 [F]Fly to Auberdine
 Boat Menethil
 [F]Fly Loch Modan
-HS Feathermoon Stronghold
-Accept [QA3445 The Sunken Temple] 
-[F]Fly Thalanaar
-Accept [QA4281 Thalanaar Delivery] Undelivered Parcel in bags
-[G33.7,90.8The Barrens]Turn in [QT4281 Thalanaar Delivery] 
-[G17.4,90.2The Barrens]Accept [QA3841 An Orphan Looking For a Home] At Grimtotems, then go back thalanaar
-[F]Fly Gadget
-Hinterlands>Loch>Searing Gorge> IF > Menethil > Auberdine > Darnassus > Felwood 1 > Azshara > ratchet > BB > Blasted Lands >  
 ]],GetAddOnMetadata(addonName, "title"))
