@@ -80,7 +80,7 @@ Mini escort
 [G36.2,57.4Arathi Highlands]Turn in [QT652 Breaking the Keystone] Freezing trap down before turning in
 [G36.2,57.4Arathi Highlands]Accept [QA653 Myzrael's Allies] Run from elite
 [G46.7,47Arathi Highlands]Turn in [QT693 Wand over Fist] 
-[F]Fly Loch Modan
+[F]Fly Ironforge
 [G59.2,22Dun Morogh]Turn in [QT653 Myzrael's Allies] 
 [G59.2,22Dun Morogh]Accept [QA687 Theldurin the Lost] 
 [G62,23.9Dun Morogh]Turn in [QT1457 The Karnitol Shipwreck p4] 

@@ -89,7 +89,7 @@ Go to Goldshire
 [G74.2,51Redridge Mountains]Kill [QC91,1 Rabid Shadowhide Gnoll] 
 [G33.5,49Redridge Mountains]Turn in [QT20 Blackrock Menace] 
 [G31,47.3Redridge Mountains]Turn in [QT122 Underbelly Scales] 
-[G31,47.3Redridge Mountains]Turn in [QT124 A Baying of Gnolls] 
+[G31,47.3Redridge Mountains]Turn in [QT126 Howling in the Hills] 
 [G29.7,44.3Redridge Mountains]Turn in [QT91 Solomon's Law] 
 [G30,44.5Redridge Mountains]Turn in [QT180 Wanted: Lieutenant Fangore] 
 [G27.7,47.4Redridge Mountains]Turn in [QT127 Selling Fish] 
@@ -109,7 +109,6 @@ Go to Goldshire
 [G11.7,41.6Deadwind Pass]Turn in [QT66 The Legend of Stalvan p1] 
 [G11.7,41.6Deadwind Pass]Accept [QA67 The Legend of Stalvan p2] 
 [G43.8,51.4Duskwood]Kill [QC57,2-][QC101,3 Skeletal Horror] [OC]
-[G15.2,39.9Deadwind Pass]Accept [QA149 Ghost Hair Thread] 
 [G4.1,9.6Blasted Lands]Turn in [QT149 Ghost Hair Thread] 
 [G4.1,9.6Blasted Lands]Accept [QA154 Return the Comb] 
 [G4.1,9.6Blasted Lands]Turn in [QT175 Look To The Stars p2] 
@@ -172,6 +171,7 @@ Go Goldshire
 [G49.6,40.4Elwynn Forest]Turn in [QT347 Rethban Ore] [H]in Northshire Valley
 [G49.6,40.4Elwynn Forest]Accept [QA346 Return to Kristoff] 
 [G21.1,45.8Elwynn Forest]Turn in [QT1076 Devils in Westfall] in Stormwind
+[G21.1,45.8Elwynn Forest]Accept [QA1078 Retrieval for Mauren] 
 [G14.7,45.1Elwynn Forest]Accept [QA335 A Noble Brew p1] 
 [G15.9,38.6Elwynn Forest]Turn in [QT70 The Legend of Stalvan p5] 
 [G15.9,38.6Elwynn Forest]Accept [QA72 The Legend of Stalvan p6] 

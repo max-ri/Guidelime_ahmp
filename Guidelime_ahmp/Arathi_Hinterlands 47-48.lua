@@ -5,6 +5,8 @@ Guidelime.registerGuide([[
 [N47-48Arathi/Hinterlands]
 [NX48-49Searing Gorge]
 Optional princess/pirates in arathi (not entirely worth for xp but okay for items)[OC]
+Turn in [QT670 Sunken Treasure] [OC]
+Turn in [QT656 Summoning the Princess] [OC]
 [F]Fly Aerie Peak
 [G97.6,62.9Alterac Mountains]Accept [QA2989 The Altar of Zul] 
 jump down carefully and enter right

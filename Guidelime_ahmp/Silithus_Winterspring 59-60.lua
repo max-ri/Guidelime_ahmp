@@ -10,6 +10,7 @@ Boat Ratchet
 [F]Fly Gadgetzan
 Scare Sprinkle [QC5163 Are We There, Yeti? p3] [OC]
 [G51.5,28.8Tanaris]Turn in [QT5538 Mold Rhymes With...] completely optional doesnt increase leveling speed, but nice to get key for later if have 2 bars already[OC]
+[G51.5,28.8Tanaris]Accept [QA5801 Fire Plume Forged] [OC]
 [G70,49Tanaris]past pirates, Eridan's Supplies [QC4005 Aquementas] 
 [F]Fly Marshal's Refuge
 [G13.3,70.5Thousand Needles]Turn in [QT4005 Aquementas] 
@@ -39,6 +40,7 @@ Check Cenarion Hold quests
 [G69.6,38.3Winterspring]Kill [QC5121,1 High Chief Winterfall] 
 Accept [QA5123 The Final Piece] 
 grind timbermaw mobs to  xp value 144050 w/o purity or  137450 w/ purity
+[G60.9,37.6Winterspring]Turn in [QT5163 Are We There, Yeti? p3] 
 [S]Set HS Everlook
 [G83.6,44.4Darkshore]Turn in [QT5121 High Chief Winterfall] 6400
 [G83.6,44.4Darkshore]Turn in [QT5123 The Final Piece] 3200

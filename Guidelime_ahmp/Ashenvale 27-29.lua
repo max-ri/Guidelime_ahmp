@@ -8,7 +8,7 @@ In Auberdine
 [G38.3,43Darkshore]Turn in [QT3765 The Corruption Abroad] 
 [F]Fly to Stonetalon Peak
 [G4.6,52.6Ashenvale]Accept [QA1057 Reclaiming the Charred Vale] 
-[G10,15.3The Barrens]If unlucky on drops then abandon [QC1078 Scorched Basilisk] [OC]
+[G10,15.3The Barrens]Kill [QC1078,1 Scorched Basilisk] If unlucky on drops then abandon[OC]
 [G9.9,9.6The Barrens]Kill [QC1057,1 Bloodfury Harpy] [O]
 [G9.2,10.7The Barrens]Kill [QC1057,2 Bloodfury Ambusher] [O]
 [G9.5,14The Barrens]Kill [QC1057,3 Bloodfury Slayer] [O]
@@ -59,10 +59,10 @@ Use Divining Scroll [QC1016 Elemental Bracers]
 [G75.3,71.9Ashenvale]Beware of stealth mobs [QC1011,1 Forsaken Diseases] 
 Go to north satyr camp, discover Felfire Hill and Warsong Lumber Camp
 [G80.9,50.2Ashenvale]Kill [QC1032,1 Bleakheart Hellcaller] Clear satyrs to the back and up ramp to turn in[OC]
-[G81.6,48.6Ashenvale]Rune on the ground
+[G81.6,48.6Ashenvale]Rune on the ground [QC1140,2 The Tower of Althalaxx] 
 [G85.2,44.7Ashenvale]Turn in [QT1011 Forsaken Diseases] 
 [G67.1,54.3Ashenvale]Kill [QC1032,1 Felmusk Felsworn] 
-[G66.6,57Ashenvale]Rune on the ground
+[G66.6,57Ashenvale]Rune on the ground [QC1140,1 The Tower of Althalaxx] 
 [G53.5,46.2Ashenvale]Turn in [QT1027 Raene's Cleansing p5] At the moonwell
 [G53.5,46.2Ashenvale]Accept [QA1028 Raene's Cleansing p6] 
 [G56.4,49.2Ashenvale]Turn in [QT1028 Raene's Cleansing p6] Head out of moonwell area and head east, up mountain path
@@ -76,15 +76,13 @@ Accept [QA1030 Raene's Cleansing p9]
 [G37.4,51.8Ashenvale]Turn in [QT1035 Fallen Sky Lake] 
 Run to east side of Fallen Sky Lake
 Turn in [QT1030 Raene's Cleansing p9] Use Dartol's Rod of Transformation
-Accept [QA1030 Raene's Cleansing p9] 
-Kill [QC1030 Bloodtooth Guard] 
-Loot skull [QC1030 Ran Bloodtooth] 
-Turn in [QT1030 Raene's Cleansing p9] Use Dartol's Rod of Transformation
 Accept [QA1045 Raene's Cleansing p10] 
+Kill [QC1045 Bloodtooth Guard] 
+Loot skull [QC1045 Ran Bloodtooth] 
 Deathwarp to Astranaar
 Turn in [QT1045 Raene's Cleansing p10] Can skip this turnin if you want to keep furbolg changer
 [G22,52Ashenvale]Turn in [QT1032 Satyr Slaying!] South West dryad area
-[G26.2,38.7Ashenvale]Turn in [QT981 The Tower of Althalaxx p6] 
+[G26.2,38.7Ashenvale]Turn in [QT1140 The Tower of Althalaxx p6] 
 Deathwarp to Astranaar
 [F]Fly Darnassus
 [G30,55.1Teldrassil]Turn in [QT1037 Velinde Starsong] 

@@ -17,6 +17,7 @@ Bank the following Items: Recovered Tome, Karnitol's Satchel, Leftwitch's Packag
 [G34,99.4Elwynn Forest]Turn in [QT231 A Daughter's Love] 
 [G7.8,34.1Duskwood]Accept [QA55 Morbent Fel] 
 [G16.9,33.4Duskwood]Kill [QC55,1 Morbent Fel] Use item 'Morbent's Bane'
+[G7.8,34.1Duskwood]Turn in [QT55 Morbent Fel] 
 [G38.5,88.5Duskwood]Accept [QA574 Special Forces] [V]Buy a LOT of arrows, grinding for 45 mins+ full loop
 [G38,89.1Duskwood]Accept [QA207 Kurzen's Mystery] 
 Kill [QC605,1 Stone Maw Basilisk] [OC]
@@ -91,7 +92,6 @@ Accept [QA1389 Draenethyst Crystals]
 [G80.1,40.1Deadwind Pass]Turn in [QT1396 Encroaching Wildlife] 
 [G80.1,40.1Deadwind Pass]Accept [QA1421 The Lost Caravan] 
 [G98.8,20.9Deadwind Pass]He drops the quest item [QC1392 Noboru the Cudgel] [O]
-Accept [QA1392 Noboru the Cudgel] 
 [G97.8,96.9Redridge Mountains]Accept [QA1423 The Lost Supplies] Loot Scattered Crate if you find one, will start this quest[OC]
 [G98.5,96.2Redridge Mountains]Complete [QC1389,1 Draenethyst Crystals] [O]
 [G98.2,91.6Redridge Mountains]In the broken cart, ignore caged man [QC1421,1 The Lost Caravan] 
@@ -100,7 +100,7 @@ Turn in [QT1392 Noboru the Cudgel]
 [G80.1,40.1Deadwind Pass]Turn in [QT1421 The Lost Caravan] 
 Go Blasted Lands
 [G67.6,19.2Blasted Lands]Turn in [QT1364 Mazen's Behest] 
-[G66.5,21.4Blasted Lands]Turn in [QT1364 The Lost Supplies] 
+[G66.5,21.4Blasted Lands]Turn in [QT1423 The Lost Supplies] 
 Get FP Nethergarde Keep
 [H]HS Booty Bay
 [G27.1,77.2Stranglethorn Vale]Turn in [QT605 Singing Blue Shards] 

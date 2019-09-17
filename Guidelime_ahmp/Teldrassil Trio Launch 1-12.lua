@@ -32,6 +32,7 @@ Loot while moving to grells, try to find close mushrooms [QC3521 Iverron's Antid
 [G58.7,44.3Teldrassil]Turn in [QT457 The Balance of Nature p2] 250 xp
 [G58.7,44.3Teldrassil]Accept [QA3117 Etched Sigil] 40 xp
 [G57.8,41.7Teldrassil]Accept [QA916 Webwood Venom] 
+[G58.7,44.3Teldrassil]Turn in [QT3117 Etched Sigil] 
 [T]Train level 4
 [G56.9,28.9Teldrassil]Kill [QC3521,3-][QC916,1 Webwood Spider] 
 deathwarp or grind back if mobs
@@ -65,7 +66,6 @@ deathwarp or grind back if mobs
 [S]Set HS
 [G56.1,61.7Teldrassil]Turn in [QT928 Crown of the Earth p2] [T]Train 6
 [G56.1,61.7Teldrassil]Accept [QA929 Crown of the Earth p3] 
-[G56.1,61.7Teldrassil]Accept [QA997 Denalan's Earth] 
 [G60.9,68.5Teldrassil]Turn in [QT997 Denalan's Earth] 
 [G60.9,68.5Teldrassil]Accept [QA918 Timberling Seeds] 
 [G60.9,68.5Teldrassil]Accept [QA919 Timberling Sprouts] 
@@ -160,11 +160,11 @@ Use Sathrah's Sacrifice in water [QC2520 Sathrah's Sacrifice]
 [G56,57.3Teldrassil]Turn in [QT486 Ursal the Mauler] 
 [G56.7,59.5Teldrassil]Accept [QA6063 Taming the Beast] [T]Train 10
 Tame spider [QC6063 Taming the Beast] 
-[G60.4,56.1Teldrassil]Turn in [QT6063 Seek Redemption!] [OC]
+[G60.4,56.1Teldrassil]Turn in [QT489 Seek Redemption!] [OC]
 [G56.7,59.5Teldrassil]Turn in [QT6063 Taming the Beast] 
 [G56.7,59.5Teldrassil]Accept [QA6101 Taming the Beast] 
-[G57.1,61.3Teldrassil]Accept [QA6101 Recipe of the Kaldorei] [T]Train Cooking
-[G57.1,61.3Teldrassil]Turn in [QT6101 Recipe of the Kaldorei] Keep recipe if some extra spider legs
+[G57.1,61.3Teldrassil]Accept [QA4161 Recipe of the Kaldorei] [T]Train Cooking
+[G57.1,61.3Teldrassil]Turn in [QT4161 Recipe of the Kaldorei] Keep recipe if some extra spider legs
 [G56.1,61.7Teldrassil]Turn in [QT934 Crown of the Earth p5] 
 [G56.1,61.7Teldrassil]Accept [QA935 Crown of the Earth p6] 
 [G60.9,68.5Teldrassil]Turn in [QT2498 Return to Denalan] 
@@ -191,6 +191,9 @@ Deathwarp dolanaar
 [G31.9,56.4Teldrassil]Accept [QA6344 Nessa Shadowsong] 
 [S]SET HS IN DARNASSUS
 [G25.6,48.7Teldrassil]Turn in [QT6103 Taming the Beast] 
+[G24.5,48.9Teldrassil]Turn in [QT940 Teldrassil] 
+[G24.5,48.9Teldrassil]Turn in [QT935 Crown of the Earth p6] 
+[G24.5,48.9Teldrassil]Accept [QA952 Grove of the Ancients] 
 [G56.3,92.4Teldrassil]Turn in [QT6344 Nessa Shadowsong] 
 [G56.3,92.4Teldrassil]Accept [QA6341 The Bounty of Teldrassil] 
 [G58.4,94Teldrassil]Turn in [QT6341 The Bounty of Teldrassil] 

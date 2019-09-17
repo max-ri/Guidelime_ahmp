@@ -103,7 +103,6 @@ If still no book, then grind lvl 29-30 ogres until it drops
 [G12.8,41.6Deadwind Pass]Accept [QA229 The Daughter Who Lived] 
 [G13.8,40.8Deadwind Pass]Turn in [QT229 The Daughter Who Lived] 
 [G13.8,40.8Deadwind Pass]Accept [QA231 A Daughter's Love] 
-[G11,41.1Deadwind Pass]Turn in [QT253 Bride of the Embalmer] 
 [G15.1,42.4Deadwind Pass]Turn in [QT221 Worgen in the Woods p2] 
 [G15.1,42.4Deadwind Pass]Accept [QA222 Worgen in the Woods p3] 
 [F]Fly Stormwind

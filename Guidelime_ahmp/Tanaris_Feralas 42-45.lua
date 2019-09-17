@@ -23,10 +23,12 @@ Guidelime.registerGuide([[
 [G62.7,29.3Tanaris]Kill [QC1690,2-][QC1707,1 Wastewander Thief] [OC]
 [G62.8,29.2Tanaris]Kill [QC1690,1-][QC1707,1 Wastewander Bandit] [OC]
 [G67.1,24Tanaris]Turn in [QT2872 Stoley's Debt] 
+[G67,22.4Tanaris]Accept [QA3520 Screecher Spirit] 
 [G62.7,29.3Tanaris]Kill [QC1690,2-][QC1707,1 Wastewander Thief] [O]
 [G62.8,29.2Tanaris]Kill [QC1690,1-][QC1707,1 Wastewander Bandit] 
 [G52.5,28.4Tanaris]Turn in [QT1707 Water Pouch Bounty p1] 
 [G52.5,28.5Tanaris]Turn in [QT1690 Wastewander Justice] 
+[G52.4,27Tanaris]Accept [QA2741 The Super Egg-O-Matic] 
 Accept [QA3022 Handle With Care] 
 [G50.2,27.5Tanaris]Accept [QA992 Gadgetzan Water Survey] 
 [G48.9,32.4Tanaris]Kill [QC1452,1 Roc] Kill on the way to pool[O]
@@ -96,7 +98,7 @@ Turn in [QT2969 Freedom for All Creatures]
 [G59.8,64.7Feralas]Kill [QC2982,1 Gordunni Warlock] [O]
 [G60.8,67.8Feralas]Kill [QC2982,2 Gordunni Shaman] [O]
 Kill [QC1452,3 Groddoc Ape] [O]
-[G58.6,75.5Feralas]Fill on wildlife and egg collection while waiting for ogre respawns [QC2741 Hippogryph Egg] [O]
+[G58.6,75.5Feralas]Fill on wildlife and egg collection while waiting for ogre respawns [QC2741,1 The Super Egg-O-Matic] [O]
 [G12.2,99The Barrens]Use Yeh'kinya's Bramble on corpse [QC3520 Vale Screecher] 
 [G9.6,97.8The Barrens]Kill [QC2821,1 Feral Scar Yeti] [O]
 Kill [QC2821,1 Enraged Feral Scar] 
@@ -111,7 +113,7 @@ Accept [QA2766 Find OOX-22/FE!] If grinding was 55k+ xp/hr then skip the escort 
 [G31.9,45.1Feralas]Turn in [QT4265 Freed from the Hive] 
 [G31.9,45.1Feralas]Accept [QA4266 A Hero's Welcome] 
 [G30.3,46.2Feralas]Turn in [QT4266 A Hero's Welcome] staff
-[G30.3,46.2Feralas]Accept [QA162 Rise of the Silithid p1] 
+[G30.3,46.2Feralas]Accept [QA4267 Rise of the Silithid] 
 While grinding try to find gold loan for mount 90g total
 [G26.4,67.6Feralas][H]Grind nagas to ~45.25 then HS to Feathermoon when it's up
 [F]fly darnassus
@@ -122,7 +124,7 @@ Turn in [QT3022 Handle With Care]
 [G55.4,92.2Teldrassil]Turn in [QT2940 Feralas: A History] 
 [G55.4,92.2Teldrassil]Accept [QA2941 The Borrower] 
 Temple of the moon, circle left
-[G25.9,64.7Teldrassil]Turn in [QT162 Rise of the Silithid p1] 
+[G25.9,64.7Teldrassil]Turn in [QT4267 Rise of the Silithid] 
 [G25.3,63.9Teldrassil]Turn in [QT2972 Doling Justice p2] 
 Withdraw 15 SILK CLOTH from bank
 [T]Train and BUY MOUNT, acquire Elixir of Fortitude

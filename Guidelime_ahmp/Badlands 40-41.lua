@@ -46,6 +46,7 @@ Kill [QC2500 Feral Crag Coyote] [OC]
 [G10.3,79.2Badlands]Kill [QC733,1 Dustbelcher Shaman] [O]
 [G12.6,75.5Badlands]Kill [QC732,1 Boss Tho'grun] He patrols East along South mountains
 [G42.2,52.7Badlands]Turn in [QT1108 Indurium] 
+[G42.2,52.7Badlands]Accept [QA1137 News for Fizzle] 
 [G25.9,44.9Badlands]Turn in [QT712 Study of the Elements: Rock p3] 
 [G42.4,52.9Badlands]Accept [QA703 Barbecued Buzzard Wings] 
 [G42.4,52.9Badlands]Turn in [QT703 Barbecued Buzzard Wings] 

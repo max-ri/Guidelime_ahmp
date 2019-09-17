@@ -85,6 +85,7 @@ Get FP Moonglade
 [G1.6,93.7The Barrens]use item on coooldown, don't need to complete yet [QC7003 Deep Strider] [OC]
 [G2.5,93.7The Barrens]Kill [QC7721,1 Sea Spray] 
 [G8.8,80.7The Barrens]Kill [QC7733,1 Ferocious Rage Scar] 
+[G3.1,76.4The Barrens]Accept [QA4041 The Videre Elixir p2] 
 [G3.1,76.4The Barrens][V]Buy bait
 [G1.3,74The Barrens]Accept [QA2844 The Giant Guardian] 
 [G39.7,22.7Feralas]Use item on CD and fill with wildlife/craft [QC7003 Cliff Giant] 
@@ -93,7 +94,7 @@ Get FP Moonglade
 [G39.9,9.4Feralas]Complete [QC2879 Imbel Essence] 
 [G40.5,12.7Feralas]conveniently placed jump puzzle [QC2879 Samha Essence] 
 Go to evoroot, use bait if working
-[G2.7,65.8The Barrens]Complete [QC4041 Evoroot] 
+[G2.7,65.8The Barrens]Complete [QC4041,1 The Videre Elixir] 
 Grind harpies to 52 if not yet
 [G38.2,10.3Feralas]Turn in [QT2844 The Giant Guardian] back in harpy ruins
 [G38.3,10.3Feralas]

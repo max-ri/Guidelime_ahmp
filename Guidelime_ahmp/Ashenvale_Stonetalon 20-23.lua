@@ -52,7 +52,7 @@ Take eggs out of bank
 Climb the ramp looking mountain NE towards demons
 [G25.3,60.7Ashenvale]Kill [QC973,1 Ilkrud Magthrull] Use Restoring Balm and Healing Potion, Freezing trap the succubus after 5s (conc shot pull off pet)
 [G26.2,38.7Ashenvale]Turn in [QT973 The Tower of Althalaxx p5] 
-[G26.2,38.7Ashenvale]Accept [QA981 The Tower of Althalaxx p6] 
+[G26.2,38.7Ashenvale]Accept [QA1140 The Tower of Althalaxx p6] 
 [G20.3,42.3Ashenvale]Turn in [QT991 Raene's Cleansing p1] 
 [G20.3,42.3Ashenvale]Accept [QA1023 Raene's Cleansing p2] 
 [G20.6,42.5 ]Keep all Murloc Fin [QC1023 Raene's Cleansing p2] 
@@ -79,6 +79,7 @@ Get FP Menethil Harbor
 [G10.7,61Wetlands][V]Buy 20 Mutton Chop/20 Melon Juice
 [G10.7,61Wetlands]Complete [QC288 Innkeeper Helbrek] 
 [G10.8,60.4Wetlands]Turn in [QT942 The Absent Minded Prospector p4] 
+[G10.8,60.4Wetlands]Accept [QA943 The Absent Minded Prospector p5] 
 [G10.9,59.7Wetlands]Turn in [QT288 The Third Fleet] 
 [G10.7,56.8Wetlands]Check bronze tube insdide Menethil Keep
 [G15.5,40.1Wetlands]Kill [QC279,1 Bluegill Murloc] Keep Murloc Fin[O]

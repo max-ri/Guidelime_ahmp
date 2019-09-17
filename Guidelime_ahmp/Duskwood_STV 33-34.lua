@@ -75,6 +75,7 @@ East of Kurzen camp [QC186 Stranglethorn Tiger]
 [H]HS Booty Bay
 [G26.9,77.2Stranglethorn Vale]Turn in [QT210 Krazek's Cookery] 
 [G26.9,77.2Stranglethorn Vale]Turn in [QT201 Investigate the Camp] 
+[G27.2,76.9Stranglethorn Vale]Turn in [QT578 The Stone of the Tides] 
 Bank any pages
 [G28.3,77.6Stranglethorn Vale]Turn in [QT575 Supply and Demand] Abandon any Booty bay pickups, will be back
 [F]Fly Darkshire

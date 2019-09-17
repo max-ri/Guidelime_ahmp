@@ -55,7 +55,7 @@ Get FP Theramore
 [G58.9,66.7The Barrens]Turn in [QT1266 The missing Diplomat p15] 
 [G58.9,66.7The Barrens]Accept [QA1324 The missing Diplomat p16] 
 [G45.2,24.6Dustwallow Marsh]Turn in [QT1324 The missing Diplomat p16] 
-[G45.2,24.6Dustwallow Marsh]Turn in [QT1267 The missing Diplomat p17] 
+[G45.2,24.6Dustwallow Marsh]Accept [QA1267 The missing Diplomat p17] 
 [G50.9,78.6The Barrens]Accept [QA1284 Suspicious Hoofprints] [O]
 [G50.9,79.1The Barrens]Accept [QA1253 The Black Shield p1] [O]
 [G51,79The Barrens]Accept [QA1252 Lieutenant Paval Reethe p1] 
@@ -64,7 +64,7 @@ Run to 1k needles, discover RFD and RFK by hugging mountain
 Discover Camp E'thok[OC]
 Get FP Thalanaar
 [G33.7,90.8The Barrens]Turn in [QT1100 Lonebrow's Journal] TURN IN FIRST IMPORTANT
-[G33.7,90.8The Barrens]Turn in [QT1057 Reclaiming the Charred Vale] 
+[G33.7,90.8The Barrens]Turn in [QT1059 Reclaiming the Charred Vale] 
 [G35.7,98.9The Barrens]Kill [QC1135,1 Highperch Wyvern] 
 Discover Screeching Canyon, then go to road and discover the rest of the way to Shimmering
 Check south west for 32 salt flats vulture
@@ -85,6 +85,7 @@ Stable pet and tame level 32 vulture, attack until you learn screech rank 2
 [H]HS Theramore
 [G69.9,77.6The Barrens]Turn in [QT1135 Highperch Venom] 
 Abandon vulture and unstable owl, teach screech rank 2
+[G66.3,49Dustwallow Marsh]Turn in [QT1267 The Missing Diplomat p17] 
 [G70.8,79.1The Barrens]Turn in [QT1284 Suspicious Hoofprints] 
 [G70.8,79.1The Barrens]Turn in [QT1253 The Black Shield p1] 
 [G70.8,79.1The Barrens]Accept [QA1319 The Black Shield p2] 
@@ -114,7 +115,7 @@ Get FP Ratchet
 [G81.6,78Thousand Needles]Turn in [QT1175 A Bump in the Road] 
 [G80.2,75.9Thousand Needles]Turn in [QT1176 Load Lightening] 
 [G80.2,75.9Thousand Needles]Accept [QA1178 Goblin Sponsorship p1] 
-Accept [QA5762 Hemet Nesingwary] 
+[G77.8,77.3Thousand Needles]Accept [QA5762 Hemet Nesingwary] 
 [G77.8,77.3Thousand Needles]Turn in [QT1112 Parts for Kravel] 
 [G78.1,77.1Thousand Needles]Turn in [QT1105 Hardened Shells] 
 [G78.1,77.1Thousand Needles]Turn in [QT1104 Salt Flat Venom] 
@@ -123,7 +124,7 @@ Accept [QA5762 Hemet Nesingwary]
 [G77.8,77.3Thousand Needles]Accept [QA1114 Delivery to the Gnomes] 
 [G78.1,77.1Thousand Needles]Turn in [QT1114 Delivery to the Gnomes] 
 [G77.8,77.3Thousand Needles]Accept [QA1115 The Rumormonger] 
-[G77.8,77.3Thousand Needles]Accept [QA5762 Hemet Nesingwary] [H]Grind on basilisks until hearthstone is up, or tame a vulture if there was no level 32 earlier
+[H]Grind on basilisks until hearthstone is up, or tame a vulture if there was no level 32 earlier [QS5762 Hemet Nesingwary]
 [H]HS ratchet
 Bank Fizzle Brassbolts' Letter
 [G33.4,75Durotar]Turn in [QT1178 Goblin Sponsorship p1] 

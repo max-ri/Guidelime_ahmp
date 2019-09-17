@@ -98,8 +98,8 @@ Kill [QC2138,1 Rabid Thistle Bear]
 [G25.4,55.7Teldrassil]Bank all your small eggs
 [G30.6,61.8Teldrassil][V]Buy 20 Haunch of Meat for pet :)[O]
 [G30.4,60.7Teldrassil][V]Buy Reinforced Bow + Heavy Recurve Bow
-[G23.7,64.5Teldrassil]Accept [QA4733 Trouble In Darkshore?] 
-[G56.3,92.4Teldrassil]Turn in [QT4733 Return to Nessa] 
+[G23.7,64.5Teldrassil]Accept [QA730 Trouble In Darkshore?] 
+[G56.3,92.4Teldrassil]Turn in [QT6343 Return to Nessa] 
 [F]Fly to Darkshore
 [G36.6,45.6Darkshore]Turn in [QT4731 Beached Sea Creature] 
 [G36.6,45.6Darkshore]Turn in [QT4732 Beached Sea Turtle] 
