@@ -27,16 +27,16 @@ Boat Menethil
 [G94.8,68.2Tirisfal Glades]Turn in [QT5021 Better Late Than Never p1] 
 [G94.8,68.2Tirisfal Glades]Accept [QA5022 Better Late Than Never p2] 
 Grind to 52 if not yet[OC]
-HS Auberdine
+[H]HS Auberdine
 [F]Fly Rut'Theran Village
 [G55.5,92Teldrassil]Accept [QA978 Moontouched Wildkin] 
 [F]Fly Moonglade
 [G83.6,44.4Darkshore]Turn in [QT3909 The Videre Elixir p1] 
 [G83.6,44.4Darkshore]Accept [QA3912 Meet at the Grave] 
-[G90.7,45Darkshore]Complete [QC978,1 Moontouched Wildkin] 
+[G90.7,45Darkshore]Feathers around lake where Donova is, and south of road to furbolgs [QC978,1 Moontouched Wildkin] 
 Get FP Everlook
 [F]Fly Ratchet
-[G33.1,79.4Durotar]Loot [QC3444 Stone Circle] 
+[G33.1,79.4Durotar]Complete [QC3444,1 The Stone Circle] 
 [G33,79.8Durotar]Accept [QA4502 Volcanic Activity] 
 [G39.4,89.5Durotar]Turn in [QT5158 Seeking Spiritual Aid] 
 [G39.4,89.5Durotar]Accept [QA5159 Cleansed Water Returns to Felwood] 

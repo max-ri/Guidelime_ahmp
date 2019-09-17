@@ -12,21 +12,21 @@ Guidelime.registerGuide([[
 [G20.1,61.9Azshara]Kill [QC5536,2 Haldarr Trickster] [O]
 [G19.8,61.7Azshara]Kill [QC5536,3 Haldarr Felsworn] 
 Grind north along the mountain overlook[OC][OC]
-[G53.5,21.8Azshara]Accept [QA3601 Kim'jael Indeed!] Grinding hippogryphs when seen
+[G53.5,21.8Azshara]Accept [QA3601 Kim'jael Indeed!] [H]Grinding hippogryphs when seen
 Go around the blood elf camps and loot all the boxes [QC3601 Kim'jael Indeed!] 
-[G53.5,21.8Azshara]Turn in [QT3601 Kim'jael Indeed!] Grinding hippogryphs when seen
+[G53.5,21.8Azshara]Turn in [QT3601 Kim'jael Indeed!] [H]Grinding hippogryphs when seen
 [G53.5,21.8Azshara]Accept [QA5534 Kim'jael's "Missing" Equipment] 
 [G46.5,53.6Azshara]Kill [QC5534,1 Spitelash Myrmidon] 
-[G53.5,21.8Azshara]Turn in [QT5534 Kim'jael's "Missing" Equipment] Grinding hippogryphs when seen
+[G53.5,21.8Azshara]Turn in [QT5534 Kim'jael's "Missing" Equipment] [H]Grinding hippogryphs when seen
 if good grind then grind as much as possible[OC]
-[G39.6,50.3Azshara]Loot [QC3449 Rubbing: Rune of Jin'yael] [O]
-[G36.9,53.2Azshara]Loot [QC3449 Rubbing: Rune of Beth'Amara] [O]
-[G39.4,55.5Azshara]Loot [QC3449 Rubbing: Rune of Markri] 
-[G42.4,64.1Azshara]Loot [QC3449 Rubbing: Rune of Sael'hai] 
+[G39.6,50.3Azshara]First rune 39,50 [QC3449,2 Arcane Runes] [O]
+[G36.9,53.2Azshara]head south to center of town [QC3449,1 Arcane Runes] [O]
+[G39.4,55.5Azshara]East center of town [QC3449,3 Arcane Runes] 
+[G42.4,64.1Azshara]South east extremity of town [QC3449,4 Arcane Runes] 
 Waterwalking elixir if have any, run to helipad[OC]
 [G77,91Azshara]Turn in [QT3449 Arcane Runes] Use flare gun
 [G77,91Azshara]Accept [QA3461 Return to Tymor] 
-HS Ratchet
+[H]HS Ratchet
 [F]Fly Talrendis Point
 [G96.3,51.4Ashenvale]Turn in [QT5535 Spiritual Unrest] 
 [G96.3,51.4Ashenvale]Turn in [QT5536 A Land Filled with Hatred] 
@@ -40,12 +40,12 @@ Abandon owl and tame 49 Ironbeak Owl for new screech [OC]
 [G49.3,27.1Ashenvale]Kill [QC6131 Deadwood Warrior] 
 Grind furbolgs until 2850/3000 hated
 Test satyr grind, if better than hippo then grind a little bit[OC]
-[G55.3,88.6Darkshore]Kill [QC4512 Cursed Ooze] open box w/ ooze jars and use
+[G55.3,88.6Darkshore]open box w/ ooze jars and use [QC4512 Cursed Ooze] 
 [G51.9,86.5Darkshore]Kill [QC4421,3 Jadefire Rogue] [O]
 [G57.2,44.4Darkshore]Kill [QC4421 Jadefire Trickster] [O]
 [G54.5,97.4Darkshore]Kill [QC4421,1 Jadefire Felsworn] [O]
 [G48.1,86.4Darkshore]Kill [QC4421,4 Xavathras] 
-[G55.4,72.8Darkshore]Kill [QC4512 Tainted Ooze] Use Tainted Ooze Jar
+[G55.4,72.8Darkshore]Use Tainted Ooze Jar [QC4512 Tainted Ooze] 
 [G52.5,80.8Darkshore]Kill [QC5155,1 Jaedenar Hound] [O]
 [G52.8,80.9Darkshore]Kill [QC5155,3 Jaedenar Adept] [O]
 [G52.6,81.1Darkshore]Kill [QC5155,4 Jaedenar Cultist] [O]
@@ -67,7 +67,7 @@ Get FP Talonbranch Glade
 [G83.6,44.4Darkshore]Accept [QA3909 The Videre Elixir p1] 
 Get FP Moonglade
 [F]Fly Auberdine
-Set HS Auberdine
+[S]Set HS Auberdine
 [F]Fly Rut'theran Village
 [G55.5,92Teldrassil]Turn in [QT3661 Favored of Elune?] 
 [G55.4,92.2Teldrassil]Turn in [QT2944 The Super Snapper FX] 
@@ -75,25 +75,25 @@ Set HS Auberdine
 [G25.9,64.7Teldrassil]Turn in [QT162 Rise of the Silithid p1] 
 [G25.9,64.7Teldrassil]Accept [QA4493 March of the Silithid] 
 [G25.2,63.8Teldrassil]Turn in [QT3378 Prayer to Elune p2] 
-HS Auberdine
+[H]HS Auberdine
 [F]Fly Feathermoon Stronghold
 [G30.6,42.7Feralas]Accept [QA7733 Improved Quality A] 
 [G31.8,45.5Feralas]Turn in [QT2943 Return to Troyas] 
 [G31.8,45.5Feralas]Accept [QA2879 The Stave of Equinex] 
 [G2.9,88.7The Barrens]Accept [QA7721 Fuel for the Zapping] Across the pool
 [G2.9,88.7The Barrens]Accept [QA7003 Zapped Giants] 
-[G1.6,93.7The Barrens]Kill [QC7003 Deep Strider] use item on coooldown, don't need to complete yet[OC]
+[G1.6,93.7The Barrens]use item on coooldown, don't need to complete yet [QC7003 Deep Strider] [OC]
 [G2.5,93.7The Barrens]Kill [QC7721,1 Sea Spray] 
 [G8.8,80.7The Barrens]Kill [QC7733,1 Ferocious Rage Scar] 
 [G3.1,76.4The Barrens][V]Buy bait
 [G1.3,74The Barrens]Accept [QA2844 The Giant Guardian] 
-[G39.7,22.7Feralas]Kill [QC7003 Cliff Giant] Use item on CD and fill with wildlife/craft
-[G38.5,15.8Feralas]Loot [QC2879 Byltan Essence] [O]
-[G37.8,12.2Feralas]Loot [QC2879 Lahassa Essence] [O]
-[G39.9,9.4Feralas]Loot [QC2879 Imbel Essence] 
-[G40.5,12.7Feralas]Loot [QC2879 Samha Essence] 
+[G39.7,22.7Feralas]Use item on CD and fill with wildlife/craft [QC7003 Cliff Giant] 
+[G38.5,15.8Feralas]Loot all of the essence for staff [QC2879 Byltan Essence] [O]
+[G37.8,12.2Feralas]Complete [QC2879 Lahassa Essence] [O]
+[G39.9,9.4Feralas]Complete [QC2879 Imbel Essence] 
+[G40.5,12.7Feralas]conveniently placed jump puzzle [QC2879 Samha Essence] 
 Go to evoroot, use bait if working
-[G2.7,65.8The Barrens]Loot [QC4041 Evoroot] 
+[G2.7,65.8The Barrens]Complete [QC4041 Evoroot] 
 Grind harpies to 52 if not yet
 [G38.2,10.3Feralas]Turn in [QT2844 The Giant Guardian] back in harpy ruins
 [G38.3,10.3Feralas]
@@ -106,5 +106,5 @@ Grind harpies to 52 if not yet
 [G2.9,88.7The Barrens]Turn in [QT7721 Fuel for the Zapping] 
 [G31.8,45.5Feralas]Turn in [QT2942 The Morrow Stone] 
 [G30.6,42.7Feralas]Turn in [QT7733 Improved Quality A] drop quest maybe too
-HS Auberdine
+[H]HS Auberdine
 ]],GetAddOnMetadata(addonName, "title"))

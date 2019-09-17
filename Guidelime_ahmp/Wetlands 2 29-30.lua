@@ -5,11 +5,11 @@ Guidelime.registerGuide([[
 [N29-30Wetlands 2]
 [NX30-32Duskwood]
 [G10.9,59.7Wetlands]Accept [QA290 Lifting the Curse] 
-Set HS Menethil Harbor
+[S]Set HS Menethil Harbor
 [G15.4,23.6Wetlands]Kill [QC290,1 Captain Halyndor] 
 [G14.4,24Wetlands]Turn in [QT290 Lifting the Curse] 
 [G14.4,24Wetlands]Accept [QA292 The Eye of Paleth] 
-[G35.7,33.2Wetlands]Kill [QC275 Fen Creeper] 
+[G35.7,33.2Wetlands]Kill [QC275,1 Fen Creeper] 
 [G47.5,47Wetlands]Turn in [QT465 Nek'rosh's Gambit] Pull orcs back to solo pull from catapult
 [G47.5,47Wetlands]Accept [QA474 Defeat Nek'rosh] 
 Kill [QC474,1 Chieftain Nek'rosh] Mountain climb up the back of his camp and reset the rest adds, kite to greenwarden
@@ -30,7 +30,7 @@ Get FP Refuge Pointe
 [G27,58.8Arathi Highlands][V]Buy first aid books in Stromgarde
 North just slightly to discover Durnholde Keep[OC]
 South to discover Dun Garok/Nethander[OC]
-Get FP Southshore
+[H]Get FP Southshore
 [G96.5,90Silverpine Forest]Turn in [QT647 MacKreel's Moonshine] 
 [G96,89.7Silverpine Forest]Accept [QA536 Down the Coast] 
 [G95.1,90.2Silverpine Forest]Accept [QA659 Hints of a New Plague? p1] 
@@ -49,7 +49,7 @@ Kill [QC559 Torn Fin Murlocs]
 [G57.3,68.7Hillsbrad Foothills]Kill [QC562,2 Daggerspine Siren] 
 [G96,89.7Silverpine Forest]Turn in [QT562 Stormwind Ho!] 
 [G96,89.7Silverpine Forest]Accept [QA563 Reassignment] 
-HS Menethil
+[H]HS Menethil
 [G10.6,60.6Wetlands]Turn in [QT292 The Eye of Paleth] 
 [G10.6,60.6Wetlands]Accept [QA293 Cleansing the Eye] 
 [G9.9,57.5Wetlands]Turn in [QT474 Defeat Nek'rosh] 

@@ -22,7 +22,7 @@ Complete [QC1447 The Missing Diplomat p8]
 [G31.8,32Elwynn Forest]Accept [QA1247 The Missing Diplomat p9] 
 [G27.7,39.5Elwynn Forest]Turn in [QT1247 The Missing Diplomat p9] 
 [G27.7,39.5Elwynn Forest]Accept [QA1248 The Missing Diplomat p10] 
-HS Menethil Harbor
+[H]HS Menethil Harbor
 [G10.6,60.6Wetlands]Turn in [QT270 The Doomed Fleet] 
 [G10.6,60.6Wetlands]Accept [QA321 Lightforge Iron] 
 [G10.6,60.8Wetlands]Turn in [QT1248 The Missing Diplomat p10] 
@@ -44,7 +44,7 @@ Get FP Theramore
 [G70.7,79.8The Barrens][V]Buy Dense Shortbow (if weaving broken)
 [G69.8,77.8The Barrens]Accept [QA1282 They Call Him Smiling Jim] [OC]
 [G69.9,77.6The Barrens]Accept [QA1135 Highperch Venom] 
-Set HS Theramore
+[S]Set HS Theramore
 [G70.7,79The Barrens]Turn in [QT1302 James Hyal p2] 
 [G70.8,79.1The Barrens]Turn in [QT1282 They Call Him Smiling Jim] [OC]
 [G70.7,79.2The Barrens]Turn in [QT1264 The missing Diplomat p13] 
@@ -82,7 +82,7 @@ Complete [QC1110 Rocket Car Parts] [OC]
 scout south east for 32 salt flats vulture
 Get FP Gadgetzan
 Stable pet and tame level 32 vulture, attack until you learn screech rank 2
-HS Theramore
+[H]HS Theramore
 [G69.9,77.6The Barrens]Turn in [QT1135 Highperch Venom] 
 Abandon vulture and unstable owl, teach screech rank 2
 [G70.8,79.1The Barrens]Turn in [QT1284 Suspicious Hoofprints] 
@@ -97,7 +97,7 @@ Abandon vulture and unstable owl, teach screech rank 2
 [G70.8,79.1The Barrens]Turn in [QT1285 Daelin's Men] 
 [G70.8,79.1The Barrens]Turn in [QT1320 The Black Shield p3] 
 Run to Ratchet
-Set HS Ratchet
+[S]Set HS Ratchet
 [G34.7,79.3Durotar]Turn in [QT1111 Wharfmaster Dizzywig] 
 [G34.7,79.3Durotar]Accept [QA1112 Parts for Kravel] 
 [G34.7,79.3Durotar]Turn in [QT1039 The Barrens Port] 
@@ -107,10 +107,10 @@ Get FP Ratchet
 [G74.7,60.2Thousand Needles]Kill [QC1175,1 Saltstone Basilisk] [O]
 [G79.6,75.3Thousand Needles]Kill [QC1175,2 Saltstone Crystalhide] [O]
 [G77.8,87.7Thousand Needles]Kill [QC1175,3 Saltstone Gazer] [O]
-[G81.4,63.9Thousand Needles]Complete [QC1176,1 Load Lightening] [O]
+[G81.4,63.9Thousand Needles]Clear vultures North East then go North West and loop back [QC1176,1 Load Lightening] [O]
 [G76.6,62.2Thousand Needles]Complete [QC1104,1 Salt Flat Venom] [O]
-[G76.4,58.2Thousand Needles]Complete [QC1105,1 Hardened Shells] [O]
-[G71.4,57.1Thousand Needles]Complete [QC1110,1 Rocket Car Parts] 
+[G76.4,58.2Thousand Needles]Make sure to have 10 Turtle Meat before going back [QC1105,1 Hardened Shells] [O]
+[G71.4,57.1Thousand Needles]Loot while low hp/mana to regen [QC1110,1 Rocket Car Parts] 
 [G81.6,78Thousand Needles]Turn in [QT1175 A Bump in the Road] 
 [G80.2,75.9Thousand Needles]Turn in [QT1176 Load Lightening] 
 [G80.2,75.9Thousand Needles]Accept [QA1178 Goblin Sponsorship p1] 
@@ -124,7 +124,7 @@ Accept [QA5762 Hemet Nesingwary]
 [G78.1,77.1Thousand Needles]Turn in [QT1114 Delivery to the Gnomes] 
 [G77.8,77.3Thousand Needles]Accept [QA1115 The Rumormonger] 
 [G77.8,77.3Thousand Needles]Accept [QA5762 Hemet Nesingwary] [H]Grind on basilisks until hearthstone is up, or tame a vulture if there was no level 32 earlier
-HS ratchet
+[H]HS ratchet
 Bank Fizzle Brassbolts' Letter
 [G33.4,75Durotar]Turn in [QT1178 Goblin Sponsorship p1] 
 [G33.4,75Durotar]Accept [QA1180 Goblin Sponsorship p2] 

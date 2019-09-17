@@ -9,14 +9,14 @@ Guidelime.registerGuide([[
 [G81.5,59.8Eastern Plaguelands]Accept [QA5211 Defenders of Darrowshire] 
 [G81.5,59.8Eastern Plaguelands]Accept [QA5168 Heroes of Darrowshire] 
 Turn in [QT6021 Zaeldarr the Outcast] 
-[G71.3,34Eastern Plaguelands]Loot [QC5845 Symbol of Lost Honor] 
-[G70.7,16.5Eastern Plaguelands]Kill [QC6024 Infiltrator Hameya] in zombie troll area, avoid graves
+[G71.3,34Eastern Plaguelands]Complete [QC5845,1 Of Lost Honor] 
+[G70.7,16.5Eastern Plaguelands]Kill [QC6024,1 Infiltrator Hameya] in zombie troll area, avoid graves
 [G51.1,49.9Eastern Plaguelands]Complete [QC5181,1 Villains of Darrowshire] 
-[G60.6,69.2Eastern Plaguelands]Kill [QC5211 Gibbering Ghoul] free 5-10 darrowshire spirits (based on spawns) [OC]
+[G60.6,69.2Eastern Plaguelands]free 5-10 darrowshire spirits (based on spawns)  [QC5211 Gibbering Ghoul] [OC]
 [G53.9,65.8Eastern Plaguelands]Complete [QC5181,2 Villains of Darrowshire] 
 [G85.8,62.5Western Plaguelands]Turn in [QT6024 Hameya's Plea] 
 [G63.8,57.2Western Plaguelands]Complete [QC5168,2 Heroes of Darrowshire] 
-Kill [QC5225 Cauldron Lord Soulwrath] 
+Kill [QC5225,1 Cauldron Lord Soulwrath] 
 [G62.5,58.5Western Plaguelands]Turn in [QT5225 Target: Gahrron's Withering] 
 [G62.5,58.5Western Plaguelands]Accept [QA5226 Return to Chillwind Point] 
 [G53.7,64.7Western Plaguelands]Accept [QA4984 The Wildlife Suffers Too p1] 
@@ -34,7 +34,7 @@ Run south to hill blood of heroes spawn then run east to run over mountain
 [G51.9,28.1Western Plaguelands]Accept [QA6025 Unfinished Business p3] Dismiss pet then run through sneakily towards tower
 Kill two paladins blocking tower then sneak in, watch for rare and pull him away to discover top of tower [QC6025 Unfinished Business p3] 
 Jump off tower w/o cheetah to land on ramp side pillar
-[G99.9,31Tirisfal Glades]Kill [QC5168 Scarlet Paladin] carefully pull paladins 1 by 1 until book is visable, then trap and pet tank while looting and run [O]
+[G99.9,31Tirisfal Glades]carefully pull paladins 1 by 1 until book is visable, then trap and pet tank while looting and run  [QC5168 Scarlet Paladin] [O]
 Complete [QC5168 Heroes of Darrowshire] 
 [G51.9,28.1Western Plaguelands]Turn in [QT6025 Unfinished Business p3] 
 Kill [QC4984 Diseased Wolf] 
@@ -57,11 +57,11 @@ Swim/waterwalking across lake Lordamere
 [G81.5,59.8Eastern Plaguelands]Turn in [QT5168 Heroes of Darrowshire] 
 [G81.5,59.8Eastern Plaguelands]Turn in [QT5181 Villains of Darrowshire] 
 [G81.5,59.8Eastern Plaguelands]Accept [QA5206 Marauders of Darrowshire] 
-[G59.2,47.7Eastern Plaguelands]Kill [QC5211 Diseased Flayer] if not enough spawns, then go just north to small camp of ghouls, 65,40[O]
-[G64.8,49.5Eastern Plaguelands]Kill [QC5206 Scourge Champion] Use crystal on skulls, need 5 resonating
+[G59.2,47.7Eastern Plaguelands]if not enough spawns, then go just north to small camp of ghouls, 65,40 [QC5211 Diseased Flayer] [O]
+[G64.8,49.5Eastern Plaguelands]Use crystal on skulls, need 5 resonating [QC5206 Scourge Champion] 
 [G81.5,59.8Eastern Plaguelands]Turn in [QT5211 Defenders of Darrowshire] 
 [G81.5,59.8Eastern Plaguelands]Turn in [QT5206 Marauders of Darrowshire] 
-HS Stormwind
+[H]HS Stormwind
 Need 2 thorium bars by now try AH
 Human runecloth turnin
 [G34.7,21.6Elwynn Forest]Turn in [QT6186 The Blightcaller Cometh] 

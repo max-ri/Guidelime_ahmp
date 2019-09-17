@@ -20,22 +20,22 @@ Guidelime.registerGuide([[
 [G77.2,77.4Thousand Needles]Accept [QA1194 Rizzle's Schematics] 
 [G77.8,77.3Thousand Needles]Accept [QA1118 Back to Booty Bay] 
 [G80.2,75.9Thousand Needles]Turn in [QT1194 Rizzle's Schematics] 
-[G62.7,29.3Tanaris]Kill [QC1707,1 Wastewander Thief] [OC]
-[G62.8,29.2Tanaris]Kill [QC1707,1 Wastewander Bandit] [OC]
+[G62.7,29.3Tanaris]Kill [QC1690,2-][QC1707,1 Wastewander Thief] [OC]
+[G62.8,29.2Tanaris]Kill [QC1690,1-][QC1707,1 Wastewander Bandit] [OC]
 [G67.1,24Tanaris]Turn in [QT2872 Stoley's Debt] 
-[G62.7,29.3Tanaris]Kill [QC1707,1 Wastewander Thief] [O]
-[G62.8,29.2Tanaris]Kill [QC1707,1 Wastewander Bandit] 
+[G62.7,29.3Tanaris]Kill [QC1690,2-][QC1707,1 Wastewander Thief] [O]
+[G62.8,29.2Tanaris]Kill [QC1690,1-][QC1707,1 Wastewander Bandit] 
 [G52.5,28.4Tanaris]Turn in [QT1707 Water Pouch Bounty p1] 
 [G52.5,28.5Tanaris]Turn in [QT1690 Wastewander Justice] 
 Accept [QA3022 Handle With Care] 
 [G50.2,27.5Tanaris]Accept [QA992 Gadgetzan Water Survey] 
-[G48.9,32.4Tanaris]Kill [QC1452 Roc] Kill on the way to pool[O]
+[G48.9,32.4Tanaris]Kill [QC1452,1 Roc] Kill on the way to pool[O]
 [G38,29Tanaris]Complete [QC992 Gadgetzan Water Survey] 
 [G50.2,27.5Tanaris]Turn in [QT992 Gadgetzan Water Survey] 
 [F]Fly Thalanaar
-Kill [QC1452 Ironfur Bear] Kill on the way[OC]
-Kill [QC1452 Groddoc Ape] [OC]
-[G12.2,99The Barrens]Kill [QC3520 Vale Screecher] [OC]
+Kill [QC1452,2 Ironfur Bear] Kill on the way[OC]
+Kill [QC1452,3 Groddoc Ape] [OC]
+[G12.2,99The Barrens]Use Yeh'kinya's Bramble on corpse [QC3520 Vale Screecher] [OC]
 Swim to Feathermoon Stronghold
 [G30.4,46.2Feralas]Accept [QA4124 The Missing Courier p1] 
 [G30.3,46.2Feralas]Accept [QA2866 The Ruins of Solarsal] 
@@ -48,7 +48,7 @@ Swim to Feathermoon Stronghold
 [G31.8,45.6Feralas]Accept [QA2982 The High Wilderness] 
 [G31.9,45.1Feralas]Turn in [QT4124 The Missing Courier p1] 
 [G31.9,45.1Feralas]Accept [QA4125 The Missing Courier p2] 
-[G30.6,43.4Feralas][V]Stock up ammo + Set HS
+[G30.6,43.4Feralas][S]Stock up ammo + Set HS
 [G30.6,42.7Feralas]Accept [QA2821 The Mark of Quality] 
 Get FP Feathermoon Stronghold
 [G28.8,53.5Feralas]Kill [QC2869,1 Hatecrest Warrior] [O]
@@ -58,7 +58,7 @@ Go to coordinate 35,74 and swim directly east to opposite shore (follow the fati
 Fatigue ends at 41,74 should have plenty of time to finish
 [G45.4,65Feralas]Turn in [QT4125 The Missing Courier p2] avoid giant, it's just underwater on the coast
 [G45.4,65Feralas]Accept [QA4127 Boat Wreckage] 
-HS Feathermoon Stronghold
+[H]HS Feathermoon Stronghold
 Restock
 Turn in [QT4127 Boat Wreckage] 
 Accept [QA4129 The Knife Revealed] 
@@ -70,12 +70,12 @@ Accept [QA4130 Psychometric Reading]
 [G30.4,46.2Feralas]Accept [QA2870 Against Lord Shalzaru] 
 [G28.5,70.5Feralas]Kill [QC2870,1 Lord Shalzaru] Rare mob if drop down center hole
 Grind until level 44
-HS Feathermoon Stronghold
+[H]HS Feathermoon Stronghold
 [G30.4,46.2Feralas]Turn in [QT2870 Against Lord Shalzaru] 
 [G30.4,46.2Feralas]Accept [QA2871 Delivering the Relic] 
 [G30.4,46.2Feralas]Turn in [QT2871 Delivering the Relic] 
 [F]Fly Thalanaar
-Kill [QC1452 Ironfur Bear] Kill on the way[O]
+Kill [QC1452,2 Ironfur Bear] Kill on the way[O]
 [G22.5,97.5The Barrens]Turn in [QT4131 The Woodpaw Gnolls] 
 [G22.5,97.5The Barrens]Accept [QA4135 The Writhing Deep] 
 Don't accept Thalanaar Delivery yet [QS4281 Thalanaar Delivery]
@@ -95,15 +95,15 @@ Turn in [QT2969 Freedom for All Creatures]
 [G19.6,88.6The Barrens]Kill [QC2982,3 Gordunni Brute] [O]
 [G59.8,64.7Feralas]Kill [QC2982,1 Gordunni Warlock] [O]
 [G60.8,67.8Feralas]Kill [QC2982,2 Gordunni Shaman] [O]
-Kill [QC1451 Groddoc Ape] [O]
-[G58.6,75.5Feralas]Loot [QC2741 Hippogryph Egg] [O]
-[G12.2,99The Barrens]Kill [QC3520 Vale Screecher] 
+Kill [QC1452,3 Groddoc Ape] [O]
+[G58.6,75.5Feralas]Fill on wildlife and egg collection while waiting for ogre respawns [QC2741 Hippogryph Egg] [O]
+[G12.2,99The Barrens]Use Yeh'kinya's Bramble on corpse [QC3520 Vale Screecher] 
 [G9.6,97.8The Barrens]Kill [QC2821,1 Feral Scar Yeti] [O]
 Kill [QC2821,1 Enraged Feral Scar] 
 Accept [QA2766 Find OOX-22/FE!] If grinding was 55k+ xp/hr then skip the escort but still turn in [O]
 [G8.8,97.1The Barrens]Turn in [QT2766 Find OOX-22/FE!] 
 [G8.8,97.1The Barrens]Accept [QA2767 Rescue OOX-22/FE!] 3 packs spawn, 3 level 45-46 yetis approaching the tree -- 3 43-44 groddoc apes 1/2 way down slope -- 4 woodpaw gnolls 42-44, assorted type[OC]
-HS Feathermoon Stronghold
+[H]HS Feathermoon Stronghold
 [G30.6,42.7Feralas]Turn in [QT2821 The Mark of Quality] 
 [V]Restock to epic proportions, buy some 45 food/water for when you level up
 [G31.8,45.5Feralas]Accept [QA2939 In Search of Knowledge] 
@@ -113,7 +113,7 @@ HS Feathermoon Stronghold
 [G30.3,46.2Feralas]Turn in [QT4266 A Hero's Welcome] staff
 [G30.3,46.2Feralas]Accept [QA162 Rise of the Silithid p1] 
 While grinding try to find gold loan for mount 90g total
-[G26.4,67.6Feralas]Grind nagas to ~45.25 then HS to Feathermoon when it's up
+[G26.4,67.6Feralas][H]Grind nagas to ~45.25 then HS to Feathermoon when it's up
 [F]fly darnassus
 Turn in [QT3022 Handle With Care] 
 [G55.5,92Teldrassil]Accept [QA3661 Favored of Elune?] 

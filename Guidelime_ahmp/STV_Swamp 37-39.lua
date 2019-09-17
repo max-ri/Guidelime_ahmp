@@ -27,10 +27,10 @@ go towards north troll camp
 [G22,11.3Stranglethorn Vale]Grind until level 38 on the upper level save silk cloth and pages
 [G22,11.3Stranglethorn Vale]Kill [QC189,1 Bloodscalp Witch Doctor] [OC]
 1  ,4  ,6  ,8 10,11,14,16 18,20,21,24 25,26,27
-[G24.7,8.9Stranglethorn Vale]Complete [QC207,4 Kurzen's Mystery] 
-[G22.9,12Stranglethorn Vale]Complete [QC207,3 Kurzen's Mystery] 
+[G24.7,8.9Stranglethorn Vale]Upper platform [QC207,4 Kurzen's Mystery] 
+[G22.9,12Stranglethorn Vale]Near STV Raptor p1 quest [QC207,3 Kurzen's Mystery] 
 [G20.9,23.3Stranglethorn Vale]Kill [QC601,1 Lesser Water Elemental] 
-[G24.8,23Stranglethorn Vale]Complete [QC207,2 Kurzen's Mystery] 
+[G24.8,23Stranglethorn Vale]Use a Water Breathing, pet tank + freezing trap  [QC207,2 Kurzen's Mystery] 
 [G34.6,13.7Stranglethorn Vale]Kill [QC605,1 Crystal Spine Basilisk] Try to finish now[OC]
 [G30,19.2Stranglethorn Vale]Kill [QC189,1 Bloodscalp Shaman] [OC]
 [G29.5,19.1Stranglethorn Vale]Complete [QC207,1 Kurzen's Mystery] 
@@ -39,7 +39,7 @@ Kill [QC195,1 Lashtail Raptor]
 [G40.3,23.5Stranglethorn Vale]Kill [QC577,1 Snapjaw Crocolisk] kill up river
 [G42.9,19.1Stranglethorn Vale]Kill [QC213,1 Venture Co. Geologist] grind to panthers[OC][OC]
 [G47,21Stranglethorn Vale]Kill [QC192,1 Shadowmaw Panther] Kill 3-5 shadowmaw panthers then go back[OC]
-[G47,21Stranglethorn Vale]Kill [QC1182 Foreman Cozzle] Loot Cozzle's Key
+[G47,21Stranglethorn Vale]Loot Cozzle's Key [QC1182 Foreman Cozzle] 
 [G43.3,20.3Stranglethorn Vale]Complete [QC1182,1 Goblin Sponsorship] [O]
 [G42.9,19.1Stranglethorn Vale]Kill [QC213,1 Venture Co. Geologist] 
 [G47,21Stranglethorn Vale]Kill [QC192,1 Shadowmaw Panther] Finish panthers then go to Kurzen cave
@@ -90,11 +90,11 @@ Accept [QA1389 Draenethyst Crystals]
 [G39.2,0.8Blasted Lands]Kill [QC1116,1 Adolescent Whelp] Probably need 3-4 total whelp passes to complete
 [G80.1,40.1Deadwind Pass]Turn in [QT1396 Encroaching Wildlife] 
 [G80.1,40.1Deadwind Pass]Accept [QA1421 The Lost Caravan] 
-[G98.8,20.9Deadwind Pass]Kill [QC1392 Noboru the Cudgel] He drops the quest item[O]
+[G98.8,20.9Deadwind Pass]He drops the quest item [QC1392 Noboru the Cudgel] [O]
 Accept [QA1392 Noboru the Cudgel] 
 [G97.8,96.9Redridge Mountains]Accept [QA1423 The Lost Supplies] Loot Scattered Crate if you find one, will start this quest[OC]
 [G98.5,96.2Redridge Mountains]Complete [QC1389,1 Draenethyst Crystals] [O]
-[G98.2,91.6Redridge Mountains]Complete [QC1421,1 The Lost Caravan] 
+[G98.2,91.6Redridge Mountains]In the broken cart, ignore caged man [QC1421,1 The Lost Caravan] 
 [G79.4,14.1Deadwind Pass]Turn in [QT1389 Draenethyst Crystals] 
 Turn in [QT1392 Noboru the Cudgel] 
 [G80.1,40.1Deadwind Pass]Turn in [QT1421 The Lost Caravan] 
@@ -102,7 +102,7 @@ Go Blasted Lands
 [G67.6,19.2Blasted Lands]Turn in [QT1364 Mazen's Behest] 
 [G66.5,21.4Blasted Lands]Turn in [QT1364 The Lost Supplies] 
 Get FP Nethergarde Keep
-HS Booty Bay
+[H]HS Booty Bay
 [G27.1,77.2Stranglethorn Vale]Turn in [QT605 Singing Blue Shards] 
 [G27,77.1Stranglethorn Vale]Turn in [QT213 Hostile Takeover] 
 [G27,77.1Stranglethorn Vale]Turn in [QT189 Bloodscalp Ears] 
@@ -127,6 +127,6 @@ Tram to IF
 [G63.1,23Dun Morogh]Accept [QA525 Further Mysteries] 
 [L58,26.2Dun Morogh]Silk turnin Dwarves [QS7808 A donation of Silk][OC]
 [F]Fly to Menethil Harbor
-Set HS Menethil Harbor
+[S]Set HS Menethil Harbor
 Boat to Theramore
 ]],GetAddOnMetadata(addonName, "title"))

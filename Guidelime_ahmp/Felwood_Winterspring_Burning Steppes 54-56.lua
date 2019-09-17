@@ -23,9 +23,9 @@ Accept [QA5202 A Strange Red Key]
 Complete [QC5156 Verifying the Corruption] 
 [G54.1,47.1Darkshore]Kill [QC4906,4 Xavaric] 
 Accept [QA939 Flute of Xavaric] drops
-[G55.8,46.7Darkshore]Kill [QC4906,1 Jadefire Hellcaller] [O]
-[G56.5,43.8Darkshore]Kill [QC4906,2 Jadefire Betrayer] [O]
-[G57.2,44.4Darkshore]Kill [QC4906,3 Jadefire Trickster] 
+[G55.8,46.7Darkshore]Kill [QC4906,1-][QC939,1 Jadefire Hellcaller] [O]
+[G56.5,43.8Darkshore]Kill [QC4906,2-][QC939,1 Jadefire Betrayer] [O]
+[G57.2,44.4Darkshore]Kill [QC4906,3-][QC939,1 Jadefire Trickster] 
 Complete [QC939 Flute of Xavaric] 
 [G63.6,47.8Darkshore]Kill [QC4084,2 Irontree Stomper] [OC]
 [G69,43.3Darkshore]Kill [QC4084,1 Angerclaw Grizzly] [OC]
@@ -35,14 +35,14 @@ Complete [QC939 Flute of Xavaric]
 [G70.1,45Darkshore]Kill [QC4084,1 Felpaw Ravager] finish then go to north town
 [F]Fly Everlook
 [G60.7,38.2Winterspring]Accept [QA6603 Trouble in Winterspring!] 
-Set HS Everlook
+[S]Set HS Everlook
 [G83.6,44.4Darkshore]Turn in [QT980 The New Springs] 
 [G83.6,44.4Darkshore]Accept [QA4842 Strange Sources] 
 [G83.6,44.4Darkshore]Turn in [QT6603 Trouble in Winterspring!] 
 [G83.6,44.4Darkshore]Accept [QA5082 Threat of the Winterfall] 
 [G79.8,32.8Darkshore]Accept [QA8464 Winterfall Activity] 
 [G89.4,38.4Darkshore]Kill [QC5082,1 Winterfall Pathfinder] [O]
-[G58.1,35.9Winterspring]Kill [QC8464,2 Winterfall Den Watcher] Rotate between camps South/North between respawns[O]
+[G58.1,35.9Winterspring]Kill [QC8464,2-][QC5082,2 Winterfall Den Watcher] Rotate between camps South/North between respawns[O]
 [G88.9,39.2Darkshore]Kill [QC5082,3 Winterfall Totemic] [O]
 Grind these furbolgs until you get an Empty Firewater Flask
 Accept [QA5083 Winterfall Firewater] 
@@ -75,7 +75,7 @@ South felwood turn in
 [G64.9,99.5Darkshore]Accept [QA5204 Retribution of the Light] 
 [G55,22.6Ashenvale]Turn in [QT4101 Cleansing Felwood] 
 Pick up a cenarian beacon, talk to her again
-HS Everlook
+[H]HS Everlook
 [G61.1,38.4Winterspring]Accept [QA6604 Enraged Wildkin ?] 
 Bank some runecloth
 Keep good luck charm and black dragonflight molt ready

@@ -28,7 +28,7 @@ Go to Stonetalon
 [G4.6,52.6Ashenvale]Turn in [QT1056 Journey to Stonetalon Peak] 
 [G4,51.8Ashenvale]Get FP Stonetalon Peak
 [G3.2,50.9Ashenvale][V]Buy arrows here
-HS Auberdine
+[H]HS Auberdine
 [G36.6,45.6Darkshore]Turn in [QT4725 Beached Sea Turtle] 
 [G36.6,45.6Darkshore]Turn in [QT4727 Beached Sea Turtle] 
 [G36.6,45.6Darkshore]Turn in [QT4728 Beached Sea Creature] 
@@ -48,9 +48,9 @@ Take eggs out of bank
 [G36.6,49.6Ashenvale]Turn in [QT1054 Culling the Threat] 
 [G37.4,51.8Ashenvale]Turn in [QT1033 Elune's Tear] 
 [G37.4,51.8Ashenvale]Accept [QA1034 The Ruins of Stardust] 
-[G33.1,68.6Ashenvale]Complete [QC1034,1 The Ruins of Stardust] 
+[G33.1,68.6Ashenvale]Careful of mobs in water [QC1034,1 The Ruins of Stardust] 
 Climb the ramp looking mountain NE towards demons
-[G25.3,60.7Ashenvale]Kill [QC973 Ilkrud Magthrull] Use Restoring Balm and Healing Potion, Freezing trap the succubus after 5s (conc shot pull off pet)
+[G25.3,60.7Ashenvale]Kill [QC973,1 Ilkrud Magthrull] Use Restoring Balm and Healing Potion, Freezing trap the succubus after 5s (conc shot pull off pet)
 [G26.2,38.7Ashenvale]Turn in [QT973 The Tower of Althalaxx p5] 
 [G26.2,38.7Ashenvale]Accept [QA981 The Tower of Althalaxx p6] 
 [G20.3,42.3Ashenvale]Turn in [QT991 Raene's Cleansing p1] 
@@ -70,14 +70,14 @@ Climb the ramp looking mountain NE towards demons
 [G36.6,49.6Ashenvale]Turn in [QT1023 Raene's Cleansing p2] 
 [G37.4,51.8Ashenvale]Turn in [QT1034 The Ruins of Stardust] 
 [G34.8,50.9Ashenvale][V]Buy 2x Simple Wood and Flint and Tinder
-HS Auberdine
+[H]HS Auberdine
 Boat to Menethil and level cooking while waiting
 [G8.3,58.5Wetlands]Accept [QA279 Claws from the Deep] 
 Get FP Menethil Harbor
 [G10.9,59.7Wetlands]Accept [QA463 The Greenwarden] 
 [G10.9,59.7Wetlands]Accept [QA288 The Third Fleet] 
 [G10.7,61Wetlands][V]Buy 20 Mutton Chop/20 Melon Juice
-[G10.7,61Wetlands]Kill [QC288 Innkeeper Helbrek] 
+[G10.7,61Wetlands]Complete [QC288 Innkeeper Helbrek] 
 [G10.8,60.4Wetlands]Turn in [QT942 The Absent Minded Prospector p4] 
 [G10.9,59.7Wetlands]Turn in [QT288 The Third Fleet] 
 [G10.7,56.8Wetlands]Check bronze tube insdide Menethil Keep

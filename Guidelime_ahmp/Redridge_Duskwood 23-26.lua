@@ -24,7 +24,7 @@ Accept [QA347 Rethban Ore]
 [G33.5,49Redridge Mountains]Accept [QA20 Blackrock Menace] 
 [G31,47.3Redridge Mountains]Accept [QA118 The Price of Shoes] 
 [G27.7,47.4Redridge Mountains]Accept [QA127 Selling Fish] 
-Set HS Lakeshire
+[S]Set HS Lakeshire
 [G26.7,44.3Redridge Mountains]Accept [QA129 A Free Lunch] 
 [G47.4,50.7Redridge Mountains]Kill [QC127,1 Murloc Scout] [OC]
 [G41.5,54.7Redridge Mountains]Complete [QC125,1 The Lost Tools] 
@@ -55,7 +55,7 @@ Set HS Lakeshire
 Go to Goldshire
 [G41.7,65.5Elwynn Forest]Turn in [QT118 The Price of Shoes] 
 [G41.7,65.5Elwynn Forest]Accept [QA119 Return to Verner] 
-HS Lakeshire
+[H]HS Lakeshire
 [G26.8,46.4Redridge Mountains]Accept [QA180 Wanted: Lieutenant Fangore] 
 [G21.9,46.3Redridge Mountains]Turn in [QT130 Visit the Herbalist] 
 [G21.9,46.3Redridge Mountains]Accept [QA131 Delivering Daffodils] 
@@ -69,9 +69,9 @@ HS Lakeshire
 [G31,47.3Redridge Mountains]Accept [QA124 A Baying of Gnolls] 
 [G63,60.2Redridge Mountains]Kill [QC20,1 Blackrock Outrunner] [OC]
 [G43.7,67.4Redridge Mountains]Kill [QC122,1 Black Dragon Whelp] [OC]
-[G29.2,29Redridge Mountains]Kill [QC89,1 Redridge Mystic] [O]
-[G29,34.8Redridge Mountains]Kill [QC89,1 Redridge Brute] [O]
-[G58.7,93.4Burning Steppes]Kill [QC347,1 Redridge Drudger] 
+[G29.2,29Redridge Mountains]Kill [QC124,2-][QC89,1-][QC89,2 Redridge Mystic] [O]
+[G29,34.8Redridge Mountains]Kill [QC124,1-][QC89,1-][QC89,2 Redridge Brute] [O]
+[G58.7,93.4Burning Steppes]Kill [QC347,1-][QC89,1-][QC89,2 Redridge Drudger] 
 [G31,47.3Redridge Mountains]Turn in [QT124 A Baying of Gnolls] 
 [G31,47.3Redridge Mountains]Accept [QA126 Howling in the Hills] 
 [G32.1,48.6Redridge Mountains]Turn in [QT89 The Everstill Bridge] 
@@ -85,7 +85,7 @@ HS Lakeshire
 [G63.9,50.1Redridge Mountains]Kill [QC20,1 Blackrock Renegade] 
 [G88.3,71Redridge Mountains][V]Vendor/buy Bracers
 [G84.5,46.8Redridge Mountains]Turn in [QT94 A Watchful Eye] 
-[G80.2,37.1Redridge Mountains]Kill [QC91,1 Lieutenant Fangore] [O]
+[G80.2,37.1Redridge Mountains]Kill [QC180,1-][QC91,1 Lieutenant Fangore] [O]
 [G74.2,51Redridge Mountains]Kill [QC91,1 Rabid Shadowhide Gnoll] 
 [G33.5,49Redridge Mountains]Turn in [QT20 Blackrock Menace] 
 [G31,47.3Redridge Mountains]Turn in [QT122 Underbelly Scales] 
@@ -103,12 +103,12 @@ HS Lakeshire
 [G15.2,39.9Deadwind Pass]Accept [QA149 Ghost Hair Thread] 
 [G15.2,39.9Deadwind Pass]Accept [QA66 The Legend of Stalvan p1] 
 [G15.2,39.9Deadwind Pass]Accept [QA101 The Totem of Infliction] 
-Set HS Darkshire
+[S]Set HS Darkshire
 [G12.8,41.6Deadwind Pass]Turn in [QT56 The Night Watch p1] 
 [G12.8,41.6Deadwind Pass]Accept [QA57 The Night Watch p2] 
 [G11.7,41.6Deadwind Pass]Turn in [QT66 The Legend of Stalvan p1] 
 [G11.7,41.6Deadwind Pass]Accept [QA67 The Legend of Stalvan p2] 
-[G43.8,51.4Duskwood]Kill [QC57,2 Skeletal Horror] [OC]
+[G43.8,51.4Duskwood]Kill [QC57,2-][QC101,3 Skeletal Horror] [OC]
 [G15.2,39.9Deadwind Pass]Accept [QA149 Ghost Hair Thread] 
 [G4.1,9.6Blasted Lands]Turn in [QT149 Ghost Hair Thread] 
 [G4.1,9.6Blasted Lands]Accept [QA154 Return the Comb] 
@@ -119,7 +119,7 @@ Set HS Darkshire
 [G15.2,39.9Deadwind Pass]Turn in [QT154 Return the Comb] 
 [G15.2,39.9Deadwind Pass]Accept [QA157 Deliver the Thread] 
 Go North of Darkshire to coast, killing wolves 
-[G32.9,36.5Duskwood]Kill [QC245,1 Pygmy Venom Web Spider] [O]
+[G32.9,36.5Duskwood]Kill [QC245,1-][QC101,2 Pygmy Venom Web Spider] [O]
 [G48.4,95.8Elwynn Forest]Kill [QC226,1 Starving Dire Wolf] [O]
 [G27.7,31.2Duskwood]Kill [QC226,2 Rabid Dire Wolf] Need to have 10 Lean Wolf Flank
 [G28.1,31.5Duskwood]Turn in [QT157 Deliver the Thread] 
@@ -134,7 +134,7 @@ Get FP Sentinel Hill
 Kill [QC1076,1 Dust Devil] A few spawns north of Moonbrook[OC]
 [G41.5,66.7Westfall]Turn in [QT67 The Legend of Stalvan p2] Avoid the curse by freezing trap and resetting the ghost
 [G41.5,66.7Westfall]Accept [QA68 The Legend of Stalvan p3] 
-HS Darkshire
+[H]HS Darkshire
 [G13.1,37.9Deadwind Pass]Turn in [QT5 Jitters' Growling Gut] 
 [G13.1,37.9Deadwind Pass]Accept [QA93 Dusky Crab Cakes] 
 [G13.1,37.9Deadwind Pass]Turn in [QT93 Dusky Crab Cakes] 
@@ -153,23 +153,23 @@ HS Darkshire
 [G13,39Deadwind Pass]Accept [QA156 Gather Rot Blossoms] 
 run along North coast
 [G23.1,30.2Duskwood]Kill [QC101,1 Brain Eater] [OC]
-[G43.8,51.4Duskwood]Kill [QC156,1 Skeletal Horror] Path towards Jitters[OC]
-[G19.9,44.2Duskwood]Kill [QC156,1 Skeletal Fiend] [OC]
+[G43.8,51.4Duskwood]Kill [QC57,2-][QC156,1-][QC101,3 Skeletal Horror] Path towards Jitters[OC]
+[G19.9,44.2Duskwood]Kill [QC57,1-][QC156,1-][QC101,3 Skeletal Fiend] [OC]
 [G18.4,56.4Duskwood]Turn in [QT240 Return to Jitters] 
 [G18.4,56.4Duskwood]Turn in [QT453 Finding the Shadowy Figure] 
 [G18.4,56.4Duskwood]Accept [QA268 Return to Sven] 
-[G43.8,51.4Duskwood]Kill [QC156,1 Skeletal Horror] Path towards Sven[OC]
-[G19.9,44.2Duskwood]Kill [QC156,1 Skeletal Fiend] [OC]
+[G43.8,51.4Duskwood]Kill [QC57,2-][QC156,1-][QC101,3 Skeletal Horror] Path towards Sven[OC]
+[G19.9,44.2Duskwood]Kill [QC57,1-][QC156,1-][QC101,3 Skeletal Fiend] [OC]
 [G7.8,34.1Duskwood]Turn in [QT268 Return to Sven] 
 [G7.8,34.1Duskwood]Accept [QA323 Proving Your Worth] 
-[G43.8,51.4Duskwood]Kill [QC156,1 Skeletal Horror] [O]
-[G19.9,44.2Duskwood]Kill [QC156,1 Skeletal Fiend] [O]
+[G43.8,51.4Duskwood]Kill [QC57,2-][QC156,1-][QC101,3 Skeletal Horror] [O]
+[G19.9,44.2Duskwood]Kill [QC57,1-][QC156,1-][QC101,3 Skeletal Fiend] [O]
 Complete [QC156 Gather Rot Blossoms] 
 Go Goldshire
 [G43.8,65.8Elwynn Forest]Turn in [QT69 The Legend of Stalvan p4] 
 [G43.8,65.8Elwynn Forest]Accept [QA70 The Legend of Stalvan p5] 
 [G44.3,65.8Elwynn Forest]Complete [QC70,1 The Legend of Stalvan] 
-[G49.6,40.4Elwynn Forest]Turn in [QT347 Rethban Ore] in Northshire Valley
+[G49.6,40.4Elwynn Forest]Turn in [QT347 Rethban Ore] [H]in Northshire Valley
 [G49.6,40.4Elwynn Forest]Accept [QA346 Return to Kristoff] 
 [G21.1,45.8Elwynn Forest]Turn in [QT1076 Devils in Westfall] in Stormwind
 [G14.7,45.1Elwynn Forest]Accept [QA335 A Noble Brew p1] 

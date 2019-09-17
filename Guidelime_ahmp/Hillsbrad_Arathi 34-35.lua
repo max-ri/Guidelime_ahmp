@@ -21,14 +21,14 @@ Accept [QA540 Preserving Knowledge]
 [G93.4,90.3Silverpine Forest]Accept [QA505 Syndicate Assassins] 
 [G55.4,52Alterac Mountains]Kill [QC564,2 Hulking Mountain Lion] Go north west (1 notch west of yeti cave) (33,91 side)[OC]
 Kill [QC564,1 Mountain Lion] [OC]
-[G40,94.8Alterac Mountains]Complete [QC658,1 Hints of a New Plague?] 
+[G40,94.8Alterac Mountains]Complete [QC658,1 Hints of a New Plague?][QC689,1 A King's Tribute] 
 [G55.4,52Alterac Mountains]Kill [QC564,2 Hulking Mountain Lion] Check above yeti cave for respawns[O]
 Kill [QC564,1 Mountain Lion] [O]
 [G53.1,75.4Alterac Mountains]Kill [QC505,2 Syndicate Thief] [O]
 [G58.3,67.9Alterac Mountains]Accept [QA511 Encrypted Letter] Document quests on the camp tables[O]
 [G58.3,67.9Alterac Mountains]Accept [QA510 Foreboding Plans] [O]
 [G54.5,72.3Alterac Mountains]Kill [QC505,1 Syndicate Footpad] Finish at the camp nearest to horde AV, then go due north towards ogres
-[G49.1,45.4Alterac Mountains]Kill [QC500,1 Crushridge Brute] [O]
+[G49.1,45.4Alterac Mountains]Kill [QC540,1-][QC500,1 Crushridge Brute] [O]
 Grind until 5 books, hold onto these [QC540 Preserving Knowledge] 
 Get FP Chillwind Camp
 [F]Fly Southshore
@@ -42,7 +42,7 @@ Run to road, following east to Arathi
 [G32.4,28.9Arathi Highlands]Kill [QC681,1 Syndicate Highwayman] [O]
 [G32.3,28.3Arathi Highlands]Kill [QC681,2 Syndicate Mercenary] 
 Back south to road and follow the rest of the way to Go'shek Farm
-Kill [QC658 Forsaken Courier] Nice people kill the guards so it respawns
+Nice people kill the guards so it respawns [QC658 Forsaken Courier] 
 [G60.2,53.8Arathi Highlands]Turn in [QT658 Hints of a New Plague? p2] 
 Accept [QA657 Hints of a New Plague? p3] 
 [G60.2,53.9Arathi Highlands]Turn in [QT657 Hints of a New Plague? p3] 
@@ -51,8 +51,8 @@ Complete [QC660 Hints of a New Plague? p4]
 [G60.2,53.8Arathi Highlands]Turn in [QT660 Hints of a New Plague? p4] 
 [G60.2,53.8Arathi Highlands]Accept [QA661 Hints of a New Plague? p5] 
 [G68.4,75.4Arathi Highlands]Kill [QC691,1 Witherbark Headhunter] [O]
-[G64.8,68.4Arathi Highlands]Kill [QC691,1 Witherbark Witch Doctor] [O]
-[G68,80.6Arathi Highlands]Kill [QC691,1 Witherbark Shadow Hunter] 
+[G64.8,68.4Arathi Highlands]Kill [QC691,1-][QC691,2 Witherbark Witch Doctor] [O]
+[G68,80.6Arathi Highlands]Kill [QC691,1-][QC691,3 Witherbark Shadow Hunter] 
 Deathwarp to Refuge Pointe
 Turn in [QT681 Northfold Manor] 
 [G46.2,47.8Arathi Highlands]Turn in [QT691 Worth Its Weight in Gold] 

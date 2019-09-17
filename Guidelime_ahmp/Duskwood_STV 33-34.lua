@@ -11,7 +11,7 @@ Booty bay
 [G27.4,74.1Stranglethorn Vale]Accept [QA1041 The Caravan Road] 
 [G28.3,75.5Stranglethorn Vale]Optional Buy: Big Stick/ Staff of protection[OC]
 [G28.3,77.6Stranglethorn Vale]Accept [QA575 Supply and Demand] 
-Set HS Booty Bay
+[S]Set HS Booty Bay
 [G26.9,77.2Stranglethorn Vale]Turn in [QT1115 The Rumormonger] 
 [G26.9,77.2Stranglethorn Vale]Accept [QA198 Supplies to Private Thorsen] 
 [G26.9,77.2Stranglethorn Vale]Accept [QA201 Investigate the Camp] 
@@ -25,11 +25,11 @@ Get FP Booty Bay
 [G11.7,41.6Deadwind Pass]Accept [QA1042 The Carevin Family] 
 [G14.7,43.9Deadwind Pass]Turn in [QT1042 The Carevin Family] 
 [G14.7,43.9Deadwind Pass]Accept [QA1043 The Scythe of Elune] 
-[G6.1,77.8Deadwind Pass]Kill [QC222 Nightbane Tainted One] At the mine camp[OC]
-[G9,70.3Deadwind Pass]Kill [QC222 Nightbane Vile Fang] [OC]
+[G6.1,77.8Deadwind Pass]Kill [QC222,2 Nightbane Tainted One] At the mine camp[OC]
+[G9,70.3Deadwind Pass]Kill [QC222,1 Nightbane Vile Fang] [OC]
 [G73.5,79.1Duskwood]Back of cave dirt mound [QC1043 The Scythe of Elune] 
-[G6.1,77.8Deadwind Pass]Kill [QC222 Nightbane Tainted One] At mountain camp   [O]
-[G9,70.3Deadwind Pass]Kill [QC222 Nightbane Vile Fang] 
+[G6.1,77.8Deadwind Pass]Kill [QC222,2 Nightbane Tainted One] At mountain camp   [O]
+[G9,70.3Deadwind Pass]Kill [QC222,1 Nightbane Vile Fang] 
 Go STV
 Private Thorsen should patrol immedietely when you get in range of him if he wasn't loaded before[OC]
 [G38.5,88.5Duskwood]Accept [QA204 Bad Medicine] 
@@ -57,7 +57,7 @@ Kill [QC185,1 Young Stranglethorn Tiger]
 [G44.9,10.2Stranglethorn Vale]Kill [QC203,1 Kurzen Jungle Fighter] [O]
 [G44.7,10.1Stranglethorn Vale]Kill [QC204,1 Kurzen Medicine Man] [O]
 [G44.1,9.5Stranglethorn Vale]Complete [QC204,2 Bad Medicine] [O]
-Kill [QC186 Stranglethorn Tiger] East of Kurzen camp
+East of Kurzen camp [QC186 Stranglethorn Tiger] 
 [G38.5,88.5Duskwood]Turn in [QT204 Bad Medicine] 
 [G38.5,88.5Duskwood]Turn in [QT203 The Second Rebellion] 
 [G37.8,88.5Duskwood]Accept [QA210 Krazek's Cookery] 
@@ -72,7 +72,7 @@ Kill [QC186 Stranglethorn Tiger] East of Kurzen camp
 [G35.6,10.5Stranglethorn Vale]Turn in [QT191 Panther Mastery p2] 
 [G35.7,10.8Stranglethorn Vale]Turn in [QT194 Raptor Mastery p1] 
 [G35.6,10.6Stranglethorn Vale]Turn in [QT187 Tiger Mastery p3] 
-HS Booty Bay
+[H]HS Booty Bay
 [G26.9,77.2Stranglethorn Vale]Turn in [QT210 Krazek's Cookery] 
 [G26.9,77.2Stranglethorn Vale]Turn in [QT201 Investigate the Camp] 
 Bank any pages

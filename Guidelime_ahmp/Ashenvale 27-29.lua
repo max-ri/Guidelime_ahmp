@@ -8,7 +8,7 @@ In Auberdine
 [G38.3,43Darkshore]Turn in [QT3765 The Corruption Abroad] 
 [F]Fly to Stonetalon Peak
 [G4.6,52.6Ashenvale]Accept [QA1057 Reclaiming the Charred Vale] 
-[G10,15.3The Barrens]Kill [QC1078 Scorched Basilisk] If unlucky on drops then abandon[OC]
+[G10,15.3The Barrens]If unlucky on drops then abandon [QC1078 Scorched Basilisk] [OC]
 [G9.9,9.6The Barrens]Kill [QC1057,1 Bloodfury Harpy] [O]
 [G9.2,10.7The Barrens]Kill [QC1057,2 Bloodfury Ambusher] [O]
 [G9.5,14The Barrens]Kill [QC1057,3 Bloodfury Slayer] [O]
@@ -23,11 +23,11 @@ Get FP Nijel's Point
 [G34.7,48.8Ashenvale]Accept [QA4581 Kayneth Stillwind] in Astranaar
 [G36.6,49.6Ashenvale]Accept [QA1025 An Aggressive Defense] 
 [G36.6,49.6Ashenvale]Accept [QA1024 Raene's Cleansing p3] 
-[G37,49.2Ashenvale]Set HS to Astranaar
+[G37,49.2Ashenvale][S]Set HS to Astranaar
 [G37.4,51.8Ashenvale]Accept [QA1035 Fallen Sky Lake] 
 [G53.5,46.2Ashenvale]Turn in [QT1024 Raene's Cleansing p3] Go north run over mountains to dryad moonwell
 [G53.5,46.2Ashenvale]Accept [QA1026 Raene's Cleansing p4] 
-[G59.4,39.2Ashenvale]Kill [QC1026 Crazed Ancient] Acquire the Wooden Key
+[G59.4,39.2Ashenvale]Acquire the Wooden Key [QC1026 Crazed Ancient] 
 [G54.4,35.4Ashenvale]Complete [QC1026,1 Raene's Cleansing] 
 [G50.5,39.1Ashenvale]Complete [QC1022,1 The Howling Vale] 
 Grind towards Forest Song (East)[OC]
@@ -37,7 +37,7 @@ Grind towards Forest Song (East)[OC]
 [G85.2,44.7Ashenvale]Turn in [QT4581 Kayneth Stillwind] 
 [G85.2,44.7Ashenvale]Accept [QA1011 Forsaken Diseases] 
 Get FP Talrendis Point
-HS Astranaar
+[H]HS Astranaar
 [G22,52Ashenvale]Turn in [QT1031 The Branch of Cenarius] 
 [G22,52Ashenvale]Accept [QA1032 Satyr Slaying!] 
 [G22,52Ashenvale]Turn in [QT1022 The Howling Vale] 
@@ -47,7 +47,7 @@ HS Astranaar
 [G53.7,63Ashenvale]Kill [QC1025,3 Foulweald Totemic] [OC]
 [G53.3,62.5Ashenvale]Kill [QC1025,4 Foulweald Warrior] [OC]
 [G49.8,67.2Ashenvale]Accept [QA1016 Elemental Bracers] 
-[G49,70.4Ashenvale]Kill [QC1016 Befouled Water Elemental] for 5 intact Elemental Bracers
+[G49,70.4Ashenvale]for 5 intact Elemental Bracers [QC1016 Befouled Water Elemental] 
 Use Divining Scroll [QC1016 Elemental Bracers] 
 [G49.8,67.2Ashenvale]Turn in [QT1016 Elemental Bracers] 
 [G52.2,60.8Ashenvale]Kill [QC1025,2 Foulweald Ursa] [O]
@@ -55,21 +55,21 @@ Use Divining Scroll [QC1016 Elemental Bracers]
 [G53.7,63Ashenvale]Kill [QC1025,3 Foulweald Totemic] [O]
 [G53.3,62.5Ashenvale]Kill [QC1025,4 Foulweald Warrior] 
 [G3.5,8.3Durotar]Kill [QC1035,1 Shadethicket Oracle] 
-[G11.3,0Durotar]Kill [QC1027 Rotting Slime] Loot the boxes
-[G75.3,71.9Ashenvale]Complete [QC1011,1 Forsaken Diseases] 
+[G11.3,0Durotar]Loot the boxes [QC1027 Rotting Slime] 
+[G75.3,71.9Ashenvale]Beware of stealth mobs [QC1011,1 Forsaken Diseases] 
 Go to north satyr camp, discover Felfire Hill and Warsong Lumber Camp
 [G80.9,50.2Ashenvale]Kill [QC1032,1 Bleakheart Hellcaller] Clear satyrs to the back and up ramp to turn in[OC]
-[G81.6,48.6Ashenvale]
+[G81.6,48.6Ashenvale]Rune on the ground
 [G85.2,44.7Ashenvale]Turn in [QT1011 Forsaken Diseases] 
 [G67.1,54.3Ashenvale]Kill [QC1032,1 Felmusk Felsworn] 
-[G66.6,57Ashenvale]
+[G66.6,57Ashenvale]Rune on the ground
 [G53.5,46.2Ashenvale]Turn in [QT1027 Raene's Cleansing p5] At the moonwell
 [G53.5,46.2Ashenvale]Accept [QA1028 Raene's Cleansing p6] 
 [G56.4,49.2Ashenvale]Turn in [QT1028 Raene's Cleansing p6] Head out of moonwell area and head east, up mountain path
 [G56.4,49.2Ashenvale]Accept [QA1055 Raene's Cleansing p7] 
 [G53.5,46.2Ashenvale]Turn in [QT1055 Raene's Cleansing p7] 
 [G53.5,46.2Ashenvale]Accept [QA1029 Raene's Cleansing p8] 
-HS Astranaar
+[H]HS Astranaar
 [G36.6,49.6Ashenvale]Turn in [QT1025 An Aggressive Defense] 
 [G36.6,49.6Ashenvale]Turn in [QT1029 Raene's Cleansing p8] 
 Accept [QA1030 Raene's Cleansing p9] 
@@ -78,7 +78,7 @@ Run to east side of Fallen Sky Lake
 Turn in [QT1030 Raene's Cleansing p9] Use Dartol's Rod of Transformation
 Accept [QA1030 Raene's Cleansing p9] 
 Kill [QC1030 Bloodtooth Guard] 
-Kill [QC1030 Ran Bloodtooth] Loot skull
+Loot skull [QC1030 Ran Bloodtooth] 
 Turn in [QT1030 Raene's Cleansing p9] Use Dartol's Rod of Transformation
 Accept [QA1045 Raene's Cleansing p10] 
 Deathwarp to Astranaar

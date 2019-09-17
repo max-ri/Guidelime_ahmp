@@ -35,7 +35,7 @@ Guidelime.registerGuide([[
 [G46.7,37.8Darkshore]Kill [QC956,1 Deth'ryll Satyr] 
 [G44.2,36.3Darkshore]Turn in [QT956 Bashal'Aran p3] 
 [G44.2,36.3Darkshore]Accept [QA957 Bashal'Aran p4] 
-[G47.3,48.7Darkshore]Loot [QA4813 ] 
+[G47.3,48.7Darkshore]Complete [QC4811 The Red Crystal] 
 Grind to town and collect 10 [Small Egg] from Moonkins[OC]
 [V]Cook Herb Baked Egg to 10/75 Cooking, restock to 11 stacks of arrows and buy 8 slot quiver
 [G37.7,43.4Darkshore]Turn in [QT4811 The Red Crystal] 
@@ -72,17 +72,17 @@ Grind to Level 15.5 here unless very contested[OC]
 [G39,43.6Darkshore]Accept [QA965 The Tower of Althalaxx p1] 
 [G42,49Darkshore]Finish grinding Moonkins now, a total of 43 more eggs to ensure level 50 cooking
 [G44.2,36.3Darkshore]Turn in [QT957 Bashal'Aran p4] 
-[G41.9,31.5Darkshore]Loot [QA4723 ] 
-[G38.2,28.8Darkshore]Complete [QC982,1 Deep Ocean, Vast Sea] 
+[G41.9,31.5Darkshore]Accept [QA4731 Beached Sea Creature] 
+[G38.2,28.8Darkshore]Back bottom of the ship [QC982,1 Deep Ocean, Vast Sea] 
 A few threshers North West if needed[OC]
-[G39.6,27.5Darkshore]Complete [QC982,2 Deep Ocean, Vast Sea] 
+[G39.6,27.5Darkshore]Back bottom of the ship [QC982,2 Deep Ocean, Vast Sea] 
 [G42,28.6Darkshore]Turn in [QT1001 Buzzbox 411] 
 [G42,28.6Darkshore]Accept [QA1002 Buzzbox 323] 
-[G44.2,20.6Darkshore]Loot [QA4725 ] 
+[G44.2,20.6Darkshore]Accept [QA4732 Beached Sea Turtle] 
 Kill [QC2138,1 Rabid Thistle Bear] Get 15/20 South of river, then go Naga Cave[OC]
 Kill [QC1002,1 Moonstalker] [OC]
 [G55.1,34.6Darkshore]Complete [QC947,1 Cave Mushrooms] [O]
-[G56.3,34.9Darkshore]Complete [QC947,2 Cave Mushrooms] 
+[G56.3,34.9Darkshore]Back of the cave [QC947,2 Cave Mushrooms] 
 Kill [QC2138,1 Rabid Thistle Bear] 
 [G55,24.9Darkshore]Turn in [QT965 The Tower of Althalaxx p1] 
 [G55,24.9Darkshore]Accept [QA966 The Tower of Althalaxx p2] 
@@ -90,7 +90,7 @@ Kill [QC2138,1 Rabid Thistle Bear]
 [G55,24.9Darkshore]Turn in [QT966 The Tower of Althalaxx p2] 
 [G55,24.9Darkshore]Accept [QA967 The Tower of Althalaxx p3] 
 [G50,25Darkshore]Use Empty Sampling Tube [QC4762 The Cliffspring River] 
-[G53.1,18.1Darkshore]Loot [QA4727 ] 
+[G53.1,18.1Darkshore]Accept [QA4733 Beached Sea Turtle] 
 [H]Hearthstone to Darnassus
 [G28,49.5Teldrassil][T]Train Journeyman First Aid
 [G25.6,48.7Teldrassil][T]Train: Mend Pet Arcane Shot Distracting Shot Wing Clip Immolation Trap[O]
@@ -104,7 +104,7 @@ Kill [QC2138,1 Rabid Thistle Bear]
 [G36.6,45.6Darkshore]Turn in [QT4731 Beached Sea Creature] 
 [G36.6,45.6Darkshore]Turn in [QT4732 Beached Sea Turtle] 
 [G36.6,45.6Darkshore]Turn in [QT4733 Beached Sea Turtle] 
-Set HS to Auberdine
+[S]Set HS to Auberdine
 [G37.2,44.2Darkshore]Accept [QA4740 WANTED: Murkdeep!] 
 [G37.3,43.6Darkshore]Turn in [QT947 Cave Mushrooms] 
 [G37.3,43.6Darkshore]Accept [QA948 Onu] 
@@ -118,7 +118,7 @@ Set HS to Auberdine
 [G38.8,43.4Darkshore]Accept [QA2139 Tharnariun's Hope] 
 Use bowl in moonwell
 [G44.6,54Darkshore]Kill [QC1002,1 Moonstalker] Kill towards the lake, continue south[OC][OC]
-[G47.9,57.2Darkshore]Kill [QC986,1 Moonstalker Matriarch] Clear around lake, then clear to Onu to start respawns[OC]
+[G47.9,57.2Darkshore]Kill [QC986,1-][QC1002,1 Moonstalker Matriarch] Clear around lake, then clear to Onu to start respawns[OC]
 [G43.6,76.3Darkshore]Turn in [QT952 Grove of the Ancients] 
 [G43.6,76.3Darkshore]Turn in [QT948 Onu] 
 [G43.6,76.3Darkshore]Accept [QA944 The Master's Glaive] 
@@ -130,7 +130,7 @@ Use bowl in moonwell
 [G38.6,87.3Darkshore]Accept [QA945 Therylune's Escape] 
 [G43.6,76.3Darkshore]Turn in [QT950 Return to Onu] [V]Vendor and wait
 [G43.6,76.3Darkshore]Accept [QA951 Mathystra Relics] 
-[G47.9,57.2Darkshore]Kill [QC986,1 Moonstalker Matriarch] Clear around lake again then to coast
+[G47.9,57.2Darkshore]Kill [QC986,1-][QC1002,1 Moonstalker Matriarch] Clear around lake again then to coast
 [G36,70.9Darkshore]Accept [QA4723 Beached Sea Creature] 
 [G37.1,62.2Darkshore]Accept [QA4722 Beached Sea Turtle] 
 [G36.6,45.6Darkshore]Turn in [QT4723 Beached Sea Creature] 
@@ -138,12 +138,12 @@ Use bowl in moonwell
 [G39.4,43.5Darkshore]Turn in [QT986 A Lost Master p1] 
 [G39.4,43.5Darkshore]Accept [QA993 A Lost Master p2] 
 Fruit/Grain/Nuts and use Filled Cleansing Bowl
-[G52,33Darkshore]Kill [QC4763 Xabraxxis] Loot the basket he drops[O]
+[G52,33Darkshore]Loot the basket he drops [QC4763 Xabraxxis] [O]
 [G51.5,38.3Darkshore]Kill [QC2139,1 Den Mother] 
 Grind these Blackwood Furbolgs until level 18.8
 [G51.3,24.6Darkshore]Turn in [QT1002 Buzzbox 323] 
 [G51.3,24.6Darkshore]Accept [QA1003 Buzzbox 525] 
-[G60.8,23.2Darkshore]Complete [QC951,1 Mathystra Relics] 
+[G60.8,23.2Darkshore]get all 5 relics start from the two near tower then clear through towards shore [QC951,1 Mathystra Relics] 
 [G56.7,13.5Darkshore]Accept [QA2098 Gyromast's Retrieval] 
 [G44.3,49.8Darkshore]Kill [QC2098,3 Raging Reef Crawler] [O]
 [G40.3,57.8Darkshore]Kill [QC2098,2 Greymist Tidehunter] [O]
@@ -152,11 +152,11 @@ Grind these Blackwood Furbolgs until level 18.8
 [G56.7,13.5Darkshore]Accept [QA2078 Gyromast's Revenge] 
 Complete [QC2078 Gyromast's Revenge] 
 [G56.7,13.5Darkshore]Turn in [QT2078 Gyromast's Revenge] 
-HS to Auberdine
+[H]HS to Auberdine
 [G37.4,40.1Darkshore]Turn in [QT4763 The Blackwood Corrupted] 
 [V]Ammo
 [G38.8,43.4Darkshore]Turn in [QT2139 Tharnariun's Hope] 
-[G36,76Darkshore]Kill [QC4740 Murkdeep] Run along coast from town
+[G36,76Darkshore]Run along coast from town [QC4740 Murkdeep] 
 [G32.7,80.8Darkshore]Accept [QA4725 Beached Sea Turtle] [O]
 [G31.7,83.7Darkshore]Accept [QA4727 Beached Sea Turtle] [O]
 [G31.2,85.6Darkshore]Accept [QA4728 Beached Sea Creature] [O]
@@ -168,7 +168,7 @@ HS to Auberdine
 Save 1 HP Pot for later!![OC]
 [G43.6,76.3Darkshore]Turn in [QT951 Mathystra Relics] 
 [G44.4,76.4Darkshore]Accept [QA5321 The Sleeper Has Awakened] 
-[G44.4,76.3Darkshore]Complete [QC5321,1 The Sleeper Has Awakened] 
+[G44.4,76.3Darkshore]Stay off the road to avoid ambush mobs [QC5321,1 The Sleeper Has Awakened] 
 [G45,85.3Darkshore]Turn in [QT993 A Lost Master p2] 
 [G45,85.3Darkshore]Accept [QA995 Escape Through Stealth] 
 [G27.3,35.6Ashenvale]Turn in [QT5321 The Sleeper Has Awakened] 

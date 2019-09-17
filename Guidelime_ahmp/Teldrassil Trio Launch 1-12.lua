@@ -19,25 +19,25 @@ Kill Young Thistle Boar [OC]
 Kill Webwood Spider [OC]
 [G54.6,33Teldrassil]Turn in [QT4495 A Good Friend] 
 [G54.6,33Teldrassil]Accept [QA3519 A Friend in Need] 
-HS Shadowglen
+[H]HS Shadowglen
 [G60.9,42Teldrassil]Turn in [QT3519 A Friend in Need] [H]Delete Hearthstone
 [G60.9,42Teldrassil]Accept [QA3521 Iverron's Antidote p1] 
 [G59.2,36.2Teldrassil]Kill [QC457,2 Thistle Boar] [OC]
 [G61.4,36.4Teldrassil]Kill [QC457,1 Mangy Nightsaber] Head towards moonwell side kill 7 nightsabers and hopefully finish balance of nature (skippable)
 Complete [QC3521 Iverron's Antidote p1] [OC]
 Loot while moving to grells, try to find close mushrooms [QC3521 Iverron's Antidote p1] 
-[G55.9,40.2Teldrassil]Kill [QC459,1 Grellkin] [O]
-[G55.9,40.2Teldrassil]Kill [QC459,1 Grellkin] 
+[G55.9,40.2Teldrassil]Kill [QC459,1-][QC3521,1 Grellkin] [O]
+[G55.9,40.2Teldrassil]Kill [QC459,1-][QC3521,1 Grellkin] 
 [G57.8,45.2Teldrassil]Turn in [QT459 The Woodland Protector p2] 250 xp
 [G58.7,44.3Teldrassil]Turn in [QT457 The Balance of Nature p2] 250 xp
 [G58.7,44.3Teldrassil]Accept [QA3117 Etched Sigil] 40 xp
 [G57.8,41.7Teldrassil]Accept [QA916 Webwood Venom] 
 [T]Train level 4
-[G56.9,28.9Teldrassil]Kill [QC3521,3 Webwood Spider] 
+[G56.9,28.9Teldrassil]Kill [QC3521,3-][QC916,1 Webwood Spider] 
 deathwarp or grind back if mobs
 [G57.8,41.7Teldrassil]Turn in [QT916 Webwood Venom] 
 [G57.8,41.7Teldrassil]Accept [QA917 Webwood Egg] 
-[G57,26.5Teldrassil]Complete [QC917,1 Webwood Egg] 
+[G57,26.5Teldrassil]grind everything towards it [QC917,1 Webwood Egg] 
 deathwarp or grind back if mobs
 Turn in [QT917 Webwood Egg] 
 [G57.8,41.7Teldrassil]Accept [QA920 Tenaron's Summons] 
@@ -102,16 +102,16 @@ Accept [QA927 The Moss-twined Heart]
 [G58.4,57.7Teldrassil]Kill [QC488,2 Strigid Owl] [OC]
 [G42,67Teldrassil]Complete [QC933 Crown of the Earth p4] 
 Kill [QC488,3 Webwood Venomfang] leg farm north then go burrows[OC]
-[G43.7,61.2Teldrassil]Complete [QC483,2 The Relics of Wakening] [O]
-[G44.4,60.7Teldrassil]Complete [QC483,4 The Relics of Wakening] 
+[G43.7,61.2Teldrassil]Relic on right bridge [QC483,2 The Relics of Wakening] [O]
+[G44.4,60.7Teldrassil]Relic on left bridge [QC483,4 The Relics of Wakening] 
 [G44.9,61.6Teldrassil]Accept [QA2541 The Sleeping Druid] Drop under bridges and go through lower tunnel
-[G44.7,62.4Teldrassil]Complete [QC483,3 The Relics of Wakening] 
+[G44.7,62.4Teldrassil]Lower tunnel below bridge, earth shocker [QC483,3 The Relics of Wakening] 
 [G44,60Teldrassil]Kill [QC2541,1 Gnarlpine Shaman] Go kill shamans towards rageclaw
 [G44.9,61.6Teldrassil]Turn in [QT2541 The Sleeping Druid] 
 [G44.9,61.6Teldrassil]Accept [QA2561 Druid of the Claw] 
 [G45.5,58.6Teldrassil]Kill [QC2561,1 Rageclaw] [O]
 [G45.5,58.6Teldrassil]Use Voodoo Charm on the corpse of Rageclaw [QC2561 Druid of the Claw] 
-[G45.7,57.4Teldrassil]Complete [QC483,1 The Relics of Wakening] 
+[G45.7,57.4Teldrassil]Up the close ramp and take the right bridge, follow tunnel to balcony [QC483,1 The Relics of Wakening] 
 [G44.9,61.6Teldrassil]Turn in [QT2561 Druid of the Claw] 
 Deathwarp to Dolanaar, maybe go closer towards the town first
 [G56,57.3Teldrassil]Turn in [QT483 The Relics of Wakening] all quests (staff from relics hold onto it!)
@@ -121,7 +121,7 @@ Deathwarp to Dolanaar, maybe go closer towards the town first
 [G56.1,61.7Teldrassil]Turn in [QT933 Crown of the Earth p4] 
 [G56.1,61.7Teldrassil]Accept [QA934 Crown of the Earth p5] 
 [G54.2,65.5Teldrassil]Complete [QC489,1 Seek Redemption!] [OC]
-[G47.6,68.4Teldrassil]Kill Webwood Venomfang Spider legs[OC]
+[G47.6,68.4Teldrassil]Spider legs Webwood Venomfang [OC]
 [G42.6,76.2Teldrassil]Accept [QA930 The Glowing Fruit] 
 [G38.8,79.8Teldrassil]Kill [QC486,1 Ursal the Mauler] secret jump?
 unstuck to darnassus
@@ -131,10 +131,10 @@ Accept [QA2519 The Temple of the Moon]
 [G24.8,64.8Teldrassil]Turn in [QT2519 The Temple of the Moon] 
 [G24.8,64.8Teldrassil]Accept [QA2518 Tears of the Moon] 
 [V]Buy 20 meat for later
-[G40.8,39.4Teldrassil]Kill Strigid Hunter KILL ONLY LEVEL 8 ONES[OC]
+[G40.8,39.4Teldrassil]KILL ONLY LEVEL 8 ONES Strigid Hunter [OC]
 [G46.3,51.9Teldrassil]Kill [QC923,1 Timberling Trampler] [OC]
 [G42.9,33.8Teldrassil]Kill [QC923,1 Timberling Mire Beast] [OC]
-[G48.1,25.1Teldrassil]Kill [QC2518,1 Lady Sathrah] Check North East spawn, then 2 Norths
+[G48.1,25.1Teldrassil]Kill [QC2518,1 Lady Sathrah] [H]Check North East spawn, then 2 Norths
 [G38,34Teldrassil]Complete [QC934 Crown of the Earth p5] 
 [G38.3,34.4Teldrassil]Accept [QA937 The Enchanted Glade] 
 [G35.9,38.1Teldrassil]Kill [QC937,1 Bloodfeather Rogue] [OC]
@@ -156,7 +156,7 @@ Deathwarp darnassus, don't unstuck
 [G24.8,64.8Teldrassil]Accept [QA2520 Sathrah's Sacrifice] [O]
 Use Sathrah's Sacrifice in water [QC2520 Sathrah's Sacrifice] 
 [G24.8,64.8Teldrassil]Turn in [QT2520 Sathrah's Sacrifice] 
-HS Dolanaar
+[H]HS Dolanaar
 [G56,57.3Teldrassil]Turn in [QT486 Ursal the Mauler] 
 [G56.7,59.5Teldrassil]Accept [QA6063 Taming the Beast] [T]Train 10
 Tame spider [QC6063 Taming the Beast] 
@@ -176,20 +176,20 @@ Kill Bogling [OC]
 [G60.9,68.5Teldrassil]Accept [QA941 Planting the Heart] 
 [G60.8,68.6Teldrassil]Turn in [QT941 Planting the Heart] 
 [G60.8,68.6Teldrassil]Turn in [QT2399 The Sprouted Fronds] 
-[G48.6,69.8Teldrassil]Kill [QC6101 Nightsaber Stalker] 
+[G48.6,69.8Teldrassil]Complete [QC6101 Nightsaber Stalker] 
 [G53.8,75.1Teldrassil]Kill [QC2499,1 Oakenscowl] 
 [G56.7,59.5Teldrassil]Turn in [QT6101 Taming the Beast] 
 [G56.7,59.5Teldrassil]Accept [QA6102 Taming the Beast] 
 [V]Buy level 11 bow/arrows
 [G60.9,68.5Teldrassil]Turn in [QT2499 Oakenscowl] 
-[G47.5,66.4Teldrassil]Kill [QC6102 Strigid Screecher] 
+[G47.5,66.4Teldrassil]Complete [QC6102 Strigid Screecher] 
 Deathwarp dolanaar
 [G56.7,59.5Teldrassil]Turn in [QT6102 Taming the Beast] 
 [G56.7,59.5Teldrassil]Accept [QA6103 Taming the Beast] 
 [G55.9,58.8Teldrassil]Turn in [QT487 The Road to Darnassus] If didn't earlier[OC]
 [G40.8,39.4Teldrassil]Tame a level 9 Strigid hunter, level 8 is fine too...
 [G31.9,56.4Teldrassil]Accept [QA6344 Nessa Shadowsong] 
-SET HS IN DARNASSUS
+[S]SET HS IN DARNASSUS
 [G25.6,48.7Teldrassil]Turn in [QT6103 Taming the Beast] 
 [G56.3,92.4Teldrassil]Turn in [QT6344 Nessa Shadowsong] 
 [G56.3,92.4Teldrassil]Accept [QA6341 The Bounty of Teldrassil] 

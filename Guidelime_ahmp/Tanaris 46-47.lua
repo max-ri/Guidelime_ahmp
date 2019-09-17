@@ -10,17 +10,17 @@ Guidelime.registerGuide([[
 [G67,22.4Tanaris]Turn in [QT3520 Screecher Spirits] 
 [G67.1,23.9Tanaris]Accept [QA8366 Southsea Shakedown] 
 [G67.1,24Tanaris]Accept [QA2873 Stoley's Shipment] 
-[G65.7,36.7Tanaris]Loot [QC49 Sack of Corn] [O]
-[G61.8,37.1Tanaris]Kill [QC1691 Wastewander Shadow Mage] [O]
-[G61.8,37.9Tanaris]Kill [QC1691 Wastewander Assassin] [O]
-[G62.2,37.4Tanaris]Kill [QC1691 Wastewander Rogue] [O]
-[G61.8,38.2Tanaris]Kill [QC2781 Caliph Scorpidsting] 
-[G72,58.8Tanaris]Kill [QC8365,1 Southsea Freebooter] East to Pirates[O]
-[G70.4,69.2Tanaris]Kill [QC8365,1 Southsea Pirate] [O]
+[G65.7,36.7Tanaris]Discover Zalashji's Den from south side then loot sack [QC49,2 Sweet Amber] [O]
+[G61.8,37.1Tanaris]Kill [QC1691,3 Wastewander Shadow Mage] [O]
+[G61.8,37.9Tanaris]Kill [QC1691,2 Wastewander Assassin] [O]
+[G62.2,37.4Tanaris]Kill [QC1691,1 Wastewander Rogue] [O]
+[G61.8,38.2Tanaris]Kill [QC2781,1 Caliph Scorpidsting] 
+[G72,58.8Tanaris]Kill [QC8365,1-][QC8366,2 Southsea Freebooter] East to Pirates[O]
+[G70.4,69.2Tanaris]Kill [QC8365,1-][QC8366,1 Southsea Pirate] [O]
 [G72.2,46.8Tanaris]Complete [QC2873,1 Stoley's Shipment] [O]
-[G73.8,53.1Tanaris]Kill [QC8365,1 Southsea Swashbuckler] [O]
-[G73.4,47.1Tanaris]Kill [QC8365,1 Andre Firebeard] [O]
-[G74.1,47.7Tanaris]Kill [QC8365,1 Southsea Dock Worker] 
+[G73.8,53.1Tanaris]Kill [QC8365,1-][QC8366,4 Southsea Swashbuckler] [O]
+[G73.4,47.1Tanaris]Kill [QC8365,1-][QC2875,1 Andre Firebeard] [O]
+[G74.1,47.7Tanaris]Kill [QC8365,1-][QC8366,3 Southsea Dock Worker] 
 Grind & farm chests until 46.8
 [G67.1,23.9Tanaris]Turn in [QT2875 WANTED: Andre Firebeard] 
 [G67.1,23.9Tanaris]Turn in [QT8366 Southsea Shakedown] 
@@ -43,7 +43,7 @@ Grind & farm chests until 46.8
 [G40.9,57.3Tanaris]Kill [QC5863,1 Dunemaul Brute] [OC]
 Complete [QC3161,1 Gahz'ridian] [OC]
 [G41.5,57.8Tanaris]Kill [QC5863,3 Gor'marok the Ravager] May want to grind until pet levels up
-Complete [QC3161,1 Gahz'ridian] 
+Bounce between the North and South ogre ruins collecting Gahzridian [QC3161,1 Gahz'ridian] 
 Discover Uldum when leaving then go to Thistleshrub
 [G29.3,65.9Tanaris]Kill [QC2605,1 Thistleshrub Dew Collector] [O]
 [G29.4,65.5Tanaris]Kill [QC3362,2 Thistleshrub Rootshaper] [O]
@@ -56,7 +56,7 @@ Turn in [QT3845 It's a Secret to Everybody p2] Open pouch
 Accept [QA3908 It's a Secret to Everybody p3] 
 Restock in Marshal's Refuge (arrows)
 Get FP Marshal's Refuge
-HS Gadgetzan
+[H]HS Gadgetzan
 [G51.8,28.7Tanaris]Turn in [QT2605 The Thirsty Goblin] 
 [G51.8,28.7Tanaris]Accept [QA2606 In Good Taste] 
 [G52.8,27.4Tanaris]Turn in [QT5863 The Dunemaul Compound] 
@@ -68,7 +68,7 @@ HS Gadgetzan
 [G50.2,27.5Tanaris]Accept [QA10 The Scrimshank Redemption] 
 [G52.7,45.9Tanaris]Turn in [QT3161 Gahz'ridian] 
 Grind to 47.75 on ogres[OC]
-[G56,71.2Tanaris]Complete [QC10,1 The Scrimshank Redemption] 
+[G56,71.2Tanaris]Enter the north sink hole and go north, hug right wall until there [QC10,1 The Scrimshank Redemption] 
 Accept [QA351 Find OOX-17/TN!] 
 [G60.2,64.7Tanaris]Turn in [QT351 Find OOX-17/TN!] Backtrack and head north
 [G60.2,64.7Tanaris]Accept [QA648 Rescue OOX-17/TN!] 

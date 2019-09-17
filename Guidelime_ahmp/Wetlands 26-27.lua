@@ -9,7 +9,7 @@ Guidelime.registerGuide([[
 [G8.3,58.5Wetlands]Accept [QA281 Reclaiming Goods] 
 [G8.5,55.7Wetlands]Accept [QA484 Young Crocolisk Skins] 
 [G9.9,57.5Wetlands]Accept [QA464 War Banners] 
-Set HS Menethil
+[S]Set HS Menethil
 [G11.8,58Wetlands]Accept [QA470 Digging Through the Ooze] 
 [G10.8,55.9Wetlands]Accept [QA472 Fall of Dun Modr] 
 [G11.5,52.1Wetlands]Accept [QA305 In Search of The Excavation Team p1] 
@@ -24,14 +24,14 @@ Accept [QA286 Return the Statuette]
 [G38.9,52.3Wetlands]Turn in [QT305 In Search of The Excavation Team p1] 
 [G38.9,52.3Wetlands]Accept [QA306 In Search of The Excavation Team p2] 
 [G38.8,52.4Wetlands]Accept [QA299 Uncovering the Past] 
-[G49.5,40.2Wetlands]Kill [QC277 Mosshide Fenrunner] [O]
-[G37.9,33.1Wetlands]Kill [QC277 Mosshide Trapper] 
+[G49.5,40.2Wetlands]Kill [QC277,1 Mosshide Fenrunner] [O]
+[G37.9,33.1Wetlands]Kill [QC277,1 Mosshide Trapper] 
 Kill [QC470 Black Ooze] [OC]
 [G49.9,39.4Wetlands]Accept [QA469 Daily Delivery] 
 [G56.4,40.4Wetlands]Turn in [QT277 Fire Taboo] 
 [G56.4,40.4Wetlands]Accept [QA275 Blisters on The Land] 
-[G98.9,10.6Dun Morogh]Loot [QC335 Musquash Root] 
-HS to Menethil
+[G98.9,10.6Dun Morogh]Complete [QC335,2 A Noble Brew] 
+[H]HS to Menethil
 [G10.9,59.7Wetlands]Accept [QA289 The Cursed Crew] 
 [G8.3,58.5Wetlands]Turn in [QT286 Return the Statuette] 
 [G8.5,55.7Wetlands]Turn in [QT469 Daily Delivery] 
@@ -50,7 +50,7 @@ HS to Menethil
 [G38.2,50.9Wetlands]Accept [QA296 Ormer's Revenge p3] 
 [G33.3,51.5Wetlands]Kill [QC296,1 Sarltooth] 
 [G38.2,50.9Wetlands]Turn in [QT296 Ormer's Revenge p3] 
-[G38.9,52.2Wetlands]Loot [QC943 Flagongut's Fossil] 
+[G38.9,52.2Wetlands]Complete [QC943 Flagongut's Fossil] 
 [G38.8,52.4Wetlands]Turn in [QT299 Uncovering the Past] 
 [G48.5,34.1Wetlands]Kill [QC470,1 Black Ooze] 
 [G35.7,33.2Wetlands]Kill [QC275,1 Fen Creeper] [OC]
@@ -58,7 +58,7 @@ HS to Menethil
 [G13.9,29.6Wetlands]Kill [QC289,1 Cursed Sailor] [O]
 [G14.5,25.3Wetlands]Kill [QC289,2 Cursed Marine] [O]
 [G13.8,30.2Wetlands]Kill [QC289,3 First Mate Snellig] 
-HS Menethil
+[H]HS Menethil
 [G10.8,60.4Wetlands]Turn in [QT943 The Absent Minded Prospector p5] 
 [G10.9,59.7Wetlands]Turn in [QT289 The Cursed Crew] 
 [G11.8,58Wetlands]Turn in [QT470 Digging Through the Ooze] 

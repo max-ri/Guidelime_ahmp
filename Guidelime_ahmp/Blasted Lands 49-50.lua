@@ -7,11 +7,11 @@ Guidelime.registerGuide([[
 [G29.4,22.7Elwynn Forest]Turn in [QT1469 Rhapsody's Tale] 
 If no truesilver bar then check AH now
 [F]Fly Westfall
-Set HS Sentinel Hill
+[S]Set HS Sentinel Hill
 [G12,2.4Stranglethorn Vale]Turn in [QT49 Sweet Amber p2] 
 [G12,2.4Stranglethorn Vale]Accept [QA50 Sweet Amber p3] Truesilver bar from earlier, high drop from chests/guildies
 [G12,2.4Stranglethorn Vale]Turn in [QT50 Sweet Amber p3] 
-HS Sentinel Hill
+[H]HS Sentinel Hill
 [F]Fly Booty Bay[O]
 [T]While in flight sort bags and seperate quest items: Standard Issue Flare Gun, Wildkin Feather, Prayer to Elune, Snapshot of Gammerita, Package of Empty Ooze Containers, Drawing Kit, Insect Analysis Report, Violet Tragan, Super Snapper FX, Linken's Training Sword, Faded Photograph, Black Dragonflight Molt
 [G28.4,76.4Stranglethorn Vale]Turn in [QT648 Rescue OOX-17/TN!] 
@@ -21,7 +21,7 @@ HS Sentinel Hill
 [V]Bank the sorted items, buy extra arrows
 [G27.1,77.4Stranglethorn Vale]Turn in [QT580 Whiskey Slim's Lost Grog] 
 [G27.1,77.2Stranglethorn Vale]Turn in [QT1122 Report Back to Fizzlebub] 
-Set HS Booty Bay
+[S]Set HS Booty Bay
 [F]Fly Nethergarde Keep
 Accept quests then do loops around the entire zone killing everything (mobs share some spawn locations)
 Accept [QA3501 Everything Counts In Large Amounts] To be safe
@@ -32,11 +32,11 @@ Accept [QA3501 Everything Counts In Large Amounts] To be safe
 [G50.6,14.3Blasted Lands]Accept [QA2603 Vulture's Vigor] 
 Turn in The Decisive Striker ASAP for agility buff[OC]
 Prio as follows: Basilisk>Vulture=Boar>Scorpion>Hyena[O]
-Kill [QC2583,1 Ashmane Boar] 6 Blasted Boar Lung[O]
-Kill [QC2583,2 Scorpok Stinger]  6 Scorpok Pincer[O]
-Kill [QC2601,2 Black Slayer] 14 Vulture Gizzard[O]
-Kill [QC2583,3 Redstone Basilisk] 11 Basilisk Brain[O]
-Kill [QC3501,1 Snickerfang Hyena] 5 Snickerfang Jowl
+Kill [QC3501,1-][QC2583,1-][QC2585,3-][QC2581,2 Ashmane Boar] 6 Blasted Boar Lung[O]
+Kill [QC3501,1-][QC2583,2-][QC2585,1-][QC2581,3 Scorpok Stinger]  6 Scorpok Pincer[O]
+Kill [QC3501,1-][QC2601,2-][QC2585,2-][QC2603,1 Black Slayer] 14 Vulture Gizzard[O]
+Kill [QC3501,1-][QC2601,1-][QC2583,3 Redstone Basilisk] 11 Basilisk Brain[O]
+Kill [QC3501,1-][QC2581,1-][QC2603,2 Snickerfang Hyena] 5 Snickerfang Jowl
 [G50.6,14.2Blasted Lands]Turn in [QT2581 Snickerfang Jowls] 
 [G50.6,14.2Blasted Lands]Turn in [QT2585 The Decisive Striker] 
 [G50.6,14.2Blasted Lands]Turn in [QT2583 A Boar's Vitality] 
@@ -49,7 +49,7 @@ Grind level 50 if not yet[O]
 [G52.8,2.9Blasted Lands]Turn in [QT2783 Petty Squabbles] Go to SOS border
 [G52.8,2.9Blasted Lands]Accept [QA2801 A Tale of Sorrow] [H]Talk to him while hearthing
 [G52.8,2.9Blasted Lands]Turn in [QT2801 A Tale of Sorrow] 
-HS Booty Bay
+[H]HS Booty Bay
 Boat Ratchet
 Withdraw banked items[OC]
 Leave un'goro crystals, Violet Tragan, Black Dragonflight Molt

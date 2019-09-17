@@ -30,7 +30,7 @@ Get FP Morgan's Vigil
 [G4,97.1Badlands]Accept [QA4726 Broodling Essence] 
 [G3.9,97Badlands]Accept [QA4296 Tablet of the Seven] 
 loot relics [QC3702 The Smoldering Ruins of Thaurissan p1] 
-[G54.1,40.8Burning Steppes]Loot [QC4296 Tablet Transcript] 
+[G54.1,40.8Burning Steppes]Complete [QC4296 Tablet Transcript] 
 [G87.9,38.4Burning Steppes]Kill [QC4182,1 Black Broodling] [OC]
 use item on whelps [QC4726 Broodling Essence] 
 [G95.1,31.6Burning Steppes]Accept [QA4022 A Taste of Flame p1a] 
@@ -57,7 +57,7 @@ Complete [QC4283 FIFTY! YEP!]
 [F]Fly redridge
 [G30,44.5Redridge Mountains]Turn in [QT4183 The True Masters p1] 
 [G30,44.5Redridge Mountains]Accept [QA4184 The True Masters p2] 
-HS Winterspring
+[H]HS Winterspring
 [G61.6,38.6Winterspring]Turn in [QT4808 Felnok Steelspring] 
 [G61.6,38.6Winterspring]Accept [QA4809 Chillwind Horns] 
 [G60.9,37.6Winterspring]Accept [QA3783 Are We There, Yeti? p1] 
@@ -68,7 +68,7 @@ Optional frostmaul shards quest[OC]
 [G59,59.8Winterspring]Accept [QA4863 Enraged Wildkin p2] 
 [G61.4,60.7Winterspring]Turn in [QT4863 Enraged Wildkin p2] 
 [G61.4,60.7Winterspring]Accept [QA4864 Enraged Wildkin p3] 
-[G61.4,60.7Winterspring]Complete [QC4864,1 Enraged Wildkin] 
+[G61.4,60.7Winterspring]loot box next to wagon [QC4864,1 Enraged Wildkin] 
 Shouldnt have to kill anything just run there and back [QC4842 Strange Sources] 
 frost shards maybe[OC]
 [G63.1,59.5Winterspring]Turn in [QT979 Find Ranshalla] 
@@ -99,13 +99,13 @@ Run to moonglade
 [G84.2,12.3Darkshore]Accept [QA1124 Wasteland] 
 [G84.2,12.3Darkshore]Accept [QA5527 A Reliquary of Purity] [OC]
 [F]Fly Auberdine
-Set HS Auberdine
+[S]Set HS Auberdine
 [F]Fly Rut'theran Village
 [G55.5,92Teldrassil]Turn in [QT4901 Guardians of the Altar] 
 [G55.5,92Teldrassil]Accept [QA4902 Wildkin of Elune] 
 [G38,84Darnassus]Fill vial in moonwell (priest trainer) [QC4441 Felbound Ancients] 
 runecloth turnin darnassus[OC]
 [G24.4,48.9Teldrassil]Turn in [QT4902 Wildkin of Elune] ez bow
-HS Auberdine
+[H]HS Auberdine
 Boat Menethil
 ]],GetAddOnMetadata(addonName, "title"))
