@@ -92,7 +92,8 @@ Turn in [QT3481 Trinkets...] Loot the chest again
 [G56.1,21.9Dun Morogh]Accept [QA3449 Arcane Runes] Drawing kit for Azshara
 [G56.1,21.9Dun Morogh]Accept [QA3450 An Easy Pickup] 
 [G62.5,36.3Dun Morogh]Turn in [QT3450 An Easy Pickup] 
-[G62.5,36.3Dun Morogh]Turn in [QT3451 Signal for Pickup p1] Flare gun for azshara, don't delete either items
+[G62.5,36.3Dun Morogh]Accept [QA3451 Signal for Pickup p1] Flare gun for azshara, don't delete either items
+[G62.5,36.3Dun Morogh]Turn in [QT3451 Signal for Pickup p1] 
 Gnome Mageweave turnin [QS7809 A Donation of Mageweave][OC]
 Tram Stormwind
 ]],GetAddOnMetadata(addonName, "title"))

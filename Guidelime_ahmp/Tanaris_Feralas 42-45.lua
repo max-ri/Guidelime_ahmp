@@ -15,7 +15,8 @@ Guidelime.registerGuide([[
 [G80.2,75.9Thousand Needles]Accept [QA1190 Keeping Pace] 
 [G80.3,76.1Thousand Needles]Turn in [QT1186 The Eighteenth Pilot] 
 [G80.3,76.1Thousand Needles]Accept [QA1187 Razzeric's Tweaking] 
-[G79.8,77Thousand Needles]Turn in [QT1191 Zamek's Distraction] This baits the gnome out of his house, loot his plans
+[G79.8,77Thousand Needles]Accept [QA1191 Zamek's Distraction] This baits the gnome out of his house, loot his plans
+[G79.8,77Thousand Needles]Turn in [QT1191 Zamek's Distraction] 
 [G77.2,77.4Thousand Needles]Turn in [QT1190 Keeping Pace] 
 [G77.2,77.4Thousand Needles]Accept [QA1194 Rizzle's Schematics] 
 [G77.8,77.3Thousand Needles]Accept [QA1118 Back to Booty Bay] 

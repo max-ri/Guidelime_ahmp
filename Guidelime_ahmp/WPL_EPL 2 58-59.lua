@@ -49,6 +49,7 @@ Kill [QC4984 Diseased Wolf]
 Swim/waterwalking across lake Lordamere
 [G65.8,75.4Western Plaguelands]Turn in [QT5846 Of Love and Family] 
 [G79.1,29.8Alterac Mountains]Turn in [QT5226 Return to Chillwind Point] 
+[G78.7,29.1Alterac Mountains]Accept [QA5238 Mission Accomplished!] 
 [G78.7,29.1Alterac Mountains]Turn in [QT5238 Mission Accomplished!] 
 [G78.6,28.7Alterac Mountains]Accept [QA5538 Mold Rhymes With...] 
 [G80.1,29.8Alterac Mountains]Accept [QA6186 The Blightcaller Cometh] 

@@ -13,7 +13,8 @@ Boat Menethil
 [F]Fly Chillwind Point
 [G78.7,29.1Alterac Mountains]Turn in [QT5066 A Call to Arms: The Plaguelands!] 
 [G78.7,29.1Alterac Mountains]Accept [QA5092 Clear the Way] 
-[G79.1,28.3Alterac Mountains]Turn in [QT5401 Argent Dawn Commission] Trinket
+[G79.1,28.3Alterac Mountains]Accept [QA5401 Argent Dawn Commission] Trinket
+[G79.1,28.3Alterac Mountains]Turn in [QT3721 Argent Dawn Commission] 
 [G80.2,3.4Alterac Mountains]Kill [QC5092,1 Skeletal Flayer] [O]
 [G84.1,8.5Alterac Mountains]Kill [QC5092,2 Slavering Ghoul] 
 [G78.7,29.1Alterac Mountains]Turn in [QT5092 Clear the Way] 

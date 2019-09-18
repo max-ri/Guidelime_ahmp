@@ -16,6 +16,7 @@ If no truesilver bar then check AH now
 [T]While in flight sort bags and seperate quest items: Standard Issue Flare Gun, Wildkin Feather, Prayer to Elune, Snapshot of Gammerita, Package of Empty Ooze Containers, Drawing Kit, Insect Analysis Report, Violet Tragan, Super Snapper FX, Linken's Training Sword, Faded Photograph, Black Dragonflight Molt
 [G28.4,76.4Stranglethorn Vale]Turn in [QT648 Rescue OOX-17/TN!] 
 [G28.4,76.4Stranglethorn Vale]Turn in [QT836 Rescue OOX-09/HL!] 
+[G28.4,76.4Stranglethorn Vale]Accept [QA3721 An OOX of Your Own] 
 [G28.4,76.4Stranglethorn Vale]Turn in [QT3721 An OOX of Your Own] 
 [G27.8,77.1Stranglethorn Vale]Turn in [QT2874 Deliver to MacKinley] 
 [V]Bank the sorted items, buy extra arrows
