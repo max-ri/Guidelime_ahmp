@@ -46,7 +46,7 @@ Loot any chests at murloc camps, need to find Truesilver bar
 [G66.5,21.4Blasted Lands]Turn in [QT1395 Supplies for Nethergarde] 
 [F]Fly Booty Bay
 [G26.7,73.6Stranglethorn Vale]Turn in [QT614 The Captain's Chest] 
-[G23.3,72.1Stranglethorn Vale]Only do if have a grp [QC8552 Mok'rash] [OC]
+[G23.3,72.1Stranglethorn Vale]Only do if have a grp [QA8552 Mok'rash] [OC]
 [G26.7,73.6Stranglethorn Vale]Turn in [QT8552 The Monogrammed Sash] optional[OC]
 [G26.7,73.6Stranglethorn Vale]Accept [QA615 The Captain's Cutlass] [OC]
 [G26.7,73.6Stranglethorn Vale]Turn in [QT615 The Captain's Cutlass] [OC]

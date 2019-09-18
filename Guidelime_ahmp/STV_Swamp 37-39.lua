@@ -91,7 +91,7 @@ Accept [QA1389 Draenethyst Crystals]
 [G39.2,0.8Blasted Lands]Kill [QC1116,1 Adolescent Whelp] Probably need 3-4 total whelp passes to complete
 [G80.1,40.1Deadwind Pass]Turn in [QT1396 Encroaching Wildlife] 
 [G80.1,40.1Deadwind Pass]Accept [QA1421 The Lost Caravan] 
-[G98.8,20.9Deadwind Pass]He drops the quest item [QC1392 Noboru the Cudgel] [O]
+[G98.8,20.9Deadwind Pass]He drops the quest item [QA1392 Noboru the Cudgel] [O]
 [G97.8,96.9Redridge Mountains]Accept [QA1423 The Lost Supplies] Loot Scattered Crate if you find one, will start this quest[OC]
 [G98.5,96.2Redridge Mountains]Complete [QC1389,1 Draenethyst Crystals] [O]
 [G98.2,91.6Redridge Mountains]In the broken cart, ignore caged man [QC1421,1 The Lost Caravan] 
