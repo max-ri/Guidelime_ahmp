@@ -76,6 +76,7 @@ Accept [QA4281 Thalanaar Delivery] Undelivered Parcel in bags
 [S]Set HS Gadgetzan
 [G52.8,27.4Tanaris]Accept [QA5863 The Dunemaul Compound] 
 [G52.4,26.9Tanaris]Turn in [QT2941 The Borrower] 
+[G52.4,27Tanaris]Accept [QA2741 The Super Egg-O-Matic] 
 [G52.4,27Tanaris]Turn in [QT2741 The Super Egg-O-Matic] Also do whatever egg quest you got
 [G51.8,27Tanaris]Accept [QA2781 WANTED: Caliph Scorpidsting] 
 [G51.8,27Tanaris]Accept [QA2875 WANTED: Andre Firebeard] 

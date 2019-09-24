@@ -56,6 +56,7 @@ Get FP Theramore
 [G58.9,66.7The Barrens]Accept [QA1324 The missing Diplomat p16] 
 [G45.2,24.6Dustwallow Marsh]Turn in [QT1324 The missing Diplomat p16] 
 [G45.2,24.6Dustwallow Marsh]Accept [QA1267 The missing Diplomat p17] 
+[G45.2,24.6Dustwallow Marsh]Turn in [QT1267 The missing Diplomat p17] 
 [G50.9,78.6The Barrens]Accept [QA1284 Suspicious Hoofprints] [O]
 [G50.9,79.1The Barrens]Accept [QA1253 The Black Shield p1] [O]
 [G51,79The Barrens]Accept [QA1252 Lieutenant Paval Reethe p1] 
@@ -85,7 +86,6 @@ Stable pet and tame level 32 vulture, attack until you learn screech rank 2
 [H]HS Theramore
 [G69.9,77.6The Barrens]Turn in [QT1135 Highperch Venom] 
 Abandon vulture and unstable owl, teach screech rank 2
-[G66.3,49Dustwallow Marsh]Turn in [QT1267 The Missing Diplomat p17] 
 [G70.8,79.1The Barrens]Turn in [QT1284 Suspicious Hoofprints] 
 [G70.8,79.1The Barrens]Turn in [QT1253 The Black Shield p1] 
 [G70.8,79.1The Barrens]Accept [QA1319 The Black Shield p2] 
@@ -124,7 +124,7 @@ Get FP Ratchet
 [G77.8,77.3Thousand Needles]Accept [QA1114 Delivery to the Gnomes] 
 [G78.1,77.1Thousand Needles]Turn in [QT1114 Delivery to the Gnomes] 
 [G77.8,77.3Thousand Needles]Accept [QA1115 The Rumormonger] 
-[H]Grind on basilisks until hearthstone is up, or tame a vulture if there was no level 32 earlier [QS5762 Hemet Nesingwary]
+[G77.8,77.3Thousand Needles][H]Grind on basilisks until hearthstone is up, or tame a vulture if there was no level 32 earlier
 [H]HS ratchet
 Bank Fizzle Brassbolts' Letter
 [G33.4,75Durotar]Turn in [QT1178 Goblin Sponsorship p1] 

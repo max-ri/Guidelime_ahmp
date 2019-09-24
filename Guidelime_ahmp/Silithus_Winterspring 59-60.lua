@@ -10,7 +10,7 @@ Boat Ratchet
 [F]Fly Gadgetzan
 Scare Sprinkle [QC5163 Are We There, Yeti? p3] [OC]
 [G51.5,28.8Tanaris]Turn in [QT5538 Mold Rhymes With...] completely optional doesnt increase leveling speed, but nice to get key for later if have 2 bars already[OC]
-[G51.5,28.8Tanaris]Accept [QA5801 Fire Plume Forged] [OC]
+[G51.5,28.8]Accept [QA5801 Fire Plume Forged] [OC]
 [G70,49Tanaris]past pirates, Eridan's Supplies [QC4005 Aquementas] 
 [F]Fly Marshal's Refuge
 [G13.3,70.5Thousand Needles]Turn in [QT4005 Aquementas] 

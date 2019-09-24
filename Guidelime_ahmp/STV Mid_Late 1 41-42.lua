@@ -78,5 +78,4 @@ send extra pages to charity case[OC]
 [G27.8,77.1Stranglethorn Vale]Turn in [QT607 Return to MacKinley] [OC]
 Boat Ratchet
 [T]possibly stop at theramore for bandages training, SAVE 15 SILK CLOTH
-[H]STV>Tanaris/Feralas 46>Tanaris>Theramore>Searing Gorge>STV>swamp>ratchet>dustwallow>shimmering flats>theramore(hs?)>menethil>hinterlands>searing gorge>westfall(sweetamberx2)>blasted lands>stv>ratchet>astranaar?
 ]],GetAddOnMetadata(addonName, "title"))
