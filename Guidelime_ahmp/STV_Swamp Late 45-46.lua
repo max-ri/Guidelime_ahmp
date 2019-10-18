@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N45-46STV/Swamp Late]
 [NX46-47Tanaris]
-[F]Fly Booty Bay
+Fly to [F Booty Bay]
 [G27.2,77Stranglethorn Vale]Accept [QA608 The Bloodsail Buccaneers p5] 
 [G27.1,77.2Stranglethorn Vale]Turn in [QT1118 Back to Booty Bay] 
 [G27.1,77.2Stranglethorn Vale]Accept [QA621 Zanzil's Secret] 
@@ -21,14 +21,14 @@ Accept [QA614 The Captain's Chest]
 [G41,83.9Stranglethorn Vale]Kill [QC630,1 King Mukla] [OC]
 [G38.5,80.6Stranglethorn Vale]Turn in [QT630 Message in a Bottle p2] [OC]
 [G37,69.7Stranglethorn Vale]Back to shore [QC614 Gorlash] 
-Advertise LFM 35+ for Mok'rash (giant on island near BB) 
+Advertise LFM 35+ for Mok'rash (giant on island near BB)
 [G37.8,55.4Stranglethorn Vale]Kill [QC621,1 Zanzil Zombie] [O]
 [G40,58.2Stranglethorn Vale]Kill [QC609,3-][QC621,1 Chucky "Ten Thumbs"] [O]
 [G34.9,51.8Stranglethorn Vale]Kill [QC609,2-][QC621,1 Jon-Jon the Crow] [O]
 [G35.2,51.3Stranglethorn Vale]Kill [QC609,1 Maury "Club Foot" Wilkins] 
 [G38.2,35.6Stranglethorn Vale]Kill [QC208,1 King Bangalash] 
 [G35.7,10.8Stranglethorn Vale]Turn in [QT208 Big Game Hunter] 
-[F]Fly Darkshire
+Fly to [F Darkshire]
 [G15.2,40.8Deadwind Pass]Turn in [QT1477 Vital Supplies] 
 [G15.2,40.8Deadwind Pass]Accept [QA1395 Supplies for Nethergarde] 
 [G76.6,29.5Deadwind Pass]Turn in [QT624 Cortello's Riddle p1] under bridge between 2 pillars
@@ -44,7 +44,7 @@ Loot any chests at murloc camps, need to find Truesilver bar
 [G80.1,40.1Deadwind Pass]Accept [QA1425 Deliver the Shipment] 
 [G66.5,21.4Blasted Lands]Turn in [QT1425 Deliver the Shipment] 
 [G66.5,21.4Blasted Lands]Turn in [QT1395 Supplies for Nethergarde] 
-[F]Fly Booty Bay
+Fly to [F Booty Bay]
 [G26.7,73.6Stranglethorn Vale]Turn in [QT614 The Captain's Chest] 
 [G23.3,72.1Stranglethorn Vale]Only do if have a grp [QA8552 Mok'rash] [OC]
 [G26.7,73.6Stranglethorn Vale]Turn in [QT8552 The Monogrammed Sash] optional[OC]
@@ -56,7 +56,7 @@ Loot any chests at murloc camps, need to find Truesilver bar
 [G27.1,77.2Stranglethorn Vale]Accept [QA1119 Zanzil's Mixture and a Fool's Stout] 
 [G27.2,77Stranglethorn Vale]Turn in [QT608 The Bloodsail Buccaneers p5] 
 Boat Ratchet
-[F]Fly Theramore
+Fly to [F Theramore]
 [G71.2,81.5The Barrens]Turn in [QT623 Akiris by the Bundle p2] 
 [G69.9,77.5The Barrens]Turn in [QT1258 ... and Bugs] 
 Go to the first tower then head to other shore
@@ -66,11 +66,11 @@ Go to the first tower then head to other shore
 [G51.6,88.2The Barrens]Accept [QA626 Cortello's Riddle p3] 
 [H]HS Feathermoon Stronghold
 [G31.8,45.6Feralas]Accept [QA3445 The Sunken Temple] 
-[F]Fly Thalanaar
+Fly to [F Thalanaar]
 Accept [QA4281 Thalanaar Delivery] Undelivered Parcel in bags
 [G33.7,90.8The Barrens]Turn in [QT4281 Thalanaar Delivery] 
 [G17.4,90.2The Barrens]Accept [QA3841 An Orphan Looking For a Home] At Grimtotems, then go back thalanaar
-[F]Fly Gadgetzan
+Fly to [F Gadgetzan]
 [G51.5,28.8Tanaris]Turn in [QT4450 Ledger from Tanaris] 
 [G52.5,28.5Tanaris]Accept [QA1691 More Wastewander Justice] 
 [S]Set HS Gadgetzan

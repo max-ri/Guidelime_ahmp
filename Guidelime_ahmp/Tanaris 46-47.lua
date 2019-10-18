@@ -86,5 +86,5 @@ go to shimmering flats
 [G78.3,74.7Thousand Needles]Accept [QA3843 The Newest Member of the Family] 
 [G80.3,76.1Thousand Needles]Turn in [QT1189 Safety First p2] 
 Go Gadgetzan
-[F]Fly Theramore
+Fly to [F Theramore]
 ]],GetAddOnMetadata(addonName, "title"))

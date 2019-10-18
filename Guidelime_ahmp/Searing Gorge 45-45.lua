@@ -10,7 +10,7 @@ run through badlands potential to do whelp heart quest if behind on XP [QS706 Fi
 [G54.7,83.9Badlands]Complete [QC692,1-][QC692,2-][QC692,3 The Lost Fragments] 
 [G51.4,76.9Badlands]Turn in [QT692 The Lost Fragments] 
 [G51.4,76.9Badlands]Accept [QA656 Summoning the Princess] 
-First on enter Searing Gorge go south and run past all the mobs, accept outhouse quest 
+First on enter Searing Gorge go south and run past all the mobs, accept outhouse quest
 [G72.9,95.9Dun Morogh]Accept [QA4449 Caught!] 
 [G72.8,90.5Dun Morogh]Kill [QC4449,1-][QC4449,2 Dark Iron Geologist] Clear camp[OC]
 [G72.1,95.3Dun Morogh]Accept [QA3367 Suntara Stones p1] 
@@ -26,7 +26,7 @@ Complete [QC3367 Suntara Stones p1]
 Don't accept the horn quest yet, just hold onto it [QS3181 The Horn of the Beast]
 [G72.9,90.1Dun Morogh]Kill [QC4450,2 Glassweb Spider] Finish and wrap towards Thorium Point
 Get FP Thorium Point
-[F]Fly Ironforge
+Fly to [F Ironforge]
 [G62.6,23.7Dun Morogh]Turn in [QT3368 Suntara Stones p2] 
 Tram SW
 ]],GetAddOnMetadata(addonName, "title"))

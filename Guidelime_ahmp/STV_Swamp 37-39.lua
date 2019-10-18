@@ -12,7 +12,7 @@ Guidelime.registerGuide([[
 [G27.2,76.9Stranglethorn Vale]Accept [QA1182 Goblin Sponsorship p4] 
 Bank the following Items: Recovered Tome, Karnitol's Satchel, Leftwitch's Package, Letter of Commendation, Soothing Spices, Arcmetal Shoulders
 [G28.3,77.6Stranglethorn Vale]Accept [QA577 Some Assembly Required] 
-[F]Fly Sentinel Hill
+Fly to [F Sentinel Hill]
 [G7.8,34.1Duskwood]Turn in [QT325 Armed and Ready] 
 [G34,99.4Elwynn Forest]Turn in [QT231 A Daughter's Love] 
 [G7.8,34.1Duskwood]Accept [QA55 Morbent Fel] 
@@ -31,7 +31,7 @@ go towards north troll camp
 [G24.7,8.9Stranglethorn Vale]Upper platform [QC207,4 Kurzen's Mystery] 
 [G22.9,12Stranglethorn Vale]Near STV Raptor p1 quest [QC207,3 Kurzen's Mystery] 
 [G20.9,23.3Stranglethorn Vale]Kill [QC601,1 Lesser Water Elemental] 
-[G24.8,23Stranglethorn Vale]Use a Water Breathing, pet tank + freezing trap  [QC207,2 Kurzen's Mystery] 
+[G24.8,23Stranglethorn Vale]Use a Water Breathing, pet tank + freezing trap [QC207,2 Kurzen's Mystery] 
 [G34.6,13.7Stranglethorn Vale]Kill [QC605,1 Crystal Spine Basilisk] Try to finish now[OC]
 [G30,19.2Stranglethorn Vale]Kill [QC189,1 Bloodscalp Shaman] [OC]
 [G29.5,19.1Stranglethorn Vale]Complete [QC207,1 Kurzen's Mystery] 
@@ -64,14 +64,14 @@ Don't turn in pages yet
 [G35.7,10.8Stranglethorn Vale]Turn in [QT195 Raptor Mastery p2] 
 [G35.7,10.8Stranglethorn Vale]Accept [QA196 Raptor Mastery p3] 
 Go to Sentinel Hill, Westfall
-[F]Fly Stormwind
+Fly to [F Stormwind]
 [L21.6,43.3Elwynn Forest]Silk turnin Stormwind [QS7793 A donation of Silk][OC]
 [G20.5,39.6Elwynn Forest]Accept [QA1363 Mazen's Behest] 
 [G20.3,39.4Elwynn Forest]Turn in [QT1363 Mazen's Behest] 
 [G20.3,39.4Elwynn Forest]Accept [QA1364 Mazen's Behest] 
 [T]Train 38 + Pet skills, tram to
 [G29.4,22.7Elwynn Forest]Accept [QA1448 In Search of The Temple] 
-[F]Fly Darkshire
+Fly to [F Darkshire]
 Go to Swamp of Sorrows
 [G39.2,0.8Blasted Lands]Kill [QC1116,1 Adolescent Whelp] Clear whelps to start respawns[OC]
 [G67.9,40.4Deadwind Pass]Kill [QC1116,1 Dreaming Whelp] [OC]
@@ -115,7 +115,7 @@ Get FP Nethergarde Keep
 Withdraw all from bank, bank pages
 Note which are missing 1  ,4  ,6  ,8 10,11,14,16 18,20,21,24 25,26,27
 [G28.3,77.6Stranglethorn Vale]Turn in [QT577 Some Assembly Required] 
-[F]Fly to Stormwind
+Fly to [F Stormwind]
 [G29.4,22.7Elwynn Forest]Turn in [QT1448 In Search of The Temple] 
 [G29.4,22.7Elwynn Forest]Accept [QA1449 To The Hinterlands] 
 Tram to IF
@@ -126,7 +126,7 @@ Tram to IF
 [G63.1,23Dun Morogh]Accept [QA707 Ironband Wants You!] 
 [G63.1,23Dun Morogh]Accept [QA525 Further Mysteries] 
 [L58,26.2Dun Morogh]Silk turnin Dwarves [QS7808 A donation of Silk][OC]
-[F]Fly to Menethil Harbor
+Fly to [F Menethil Harbor]
 [S]Set HS Menethil Harbor
 Boat to Theramore
 ]],GetAddOnMetadata(addonName, "title"))

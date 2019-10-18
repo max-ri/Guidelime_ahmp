@@ -29,5 +29,5 @@ Complete [QC1222 Stinky's Escape]
 [G70.8,79.1The Barrens]Turn in [QT1220 Captain Vimes] 
 Turn in [QT1287 The Deserters p2] 
 [H]HS Menethil
-[F]Fly Southshore
+Fly to [F Southshore]
 ]],GetAddOnMetadata(addonName, "title"))

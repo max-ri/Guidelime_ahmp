@@ -7,7 +7,7 @@ Guidelime.registerGuide([[
 Optional princess/pirates in arathi (not entirely worth for xp but okay for items)[OC]
 Turn in [QT670 Sunken Treasure p5] [OC]
 Turn in [QT656 Summoning the Princess] [OC]
-[F]Fly Aerie Peak
+Fly to [F Aerie Peak]
 [G97.6,62.9Alterac Mountains]Accept [QA2989 The Altar of Zul] 
 jump down carefully and enter right
 [G14.8,44.6The Hinterlands]Accept [QA2877 Skulk Rock Clean-up] 
@@ -44,7 +44,7 @@ Rare mob turtle just at waterfall
 [G14.8,44.6The Hinterlands]Turn in [QT2880 Troll Necklace Bounty] 
 [G97.6,62.9Alterac Mountains]Turn in [QT2989 The Altar of Zul] 
 [G97.6,62.9Alterac Mountains]Accept [QA2990 Thadius Grimshade] BL
-[F]Fly Loch Modan
+Fly to [F Loch Modan]
 Accept [QA3181 The Horn of the Beast] In bags from earlier
 [S]Set HS Thelsamar
 ]],GetAddOnMetadata(addonName, "title"))

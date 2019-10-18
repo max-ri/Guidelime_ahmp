@@ -6,13 +6,13 @@ Guidelime.registerGuide([[
 [NX50-52Azshara/Felwood/Feralas]
 [G29.4,22.7Elwynn Forest]Turn in [QT1469 Rhapsody's Tale] 
 If no truesilver bar then check AH now
-[F]Fly Westfall
+Fly to [F Westfall]
 [S]Set HS Sentinel Hill
 [G12,2.4Stranglethorn Vale]Turn in [QT49 Sweet Amber p2] 
 [G12,2.4Stranglethorn Vale]Accept [QA50 Sweet Amber p3] Truesilver bar from earlier, high drop from chests/guildies
 [G12,2.4Stranglethorn Vale]Turn in [QT50 Sweet Amber p3] 
 [H]HS Sentinel Hill
-[F]Fly Booty Bay[O]
+Fly to [F Booty Bay][O]
 [T]While in flight sort bags and seperate quest items: Standard Issue Flare Gun, Wildkin Feather, Prayer to Elune, Snapshot of Gammerita, Package of Empty Ooze Containers, Drawing Kit, Insect Analysis Report, Violet Tragan, Super Snapper FX, Linken's Training Sword, Faded Photograph, Black Dragonflight Molt
 [G28.4,76.4Stranglethorn Vale]Turn in [QT648 Rescue OOX-17/TN!] 
 [G28.4,76.4Stranglethorn Vale]Turn in [QT836 Rescue OOX-09/HL!] 
@@ -23,7 +23,7 @@ If no truesilver bar then check AH now
 [G27.1,77.4Stranglethorn Vale]Turn in [QT580 Whiskey Slim's Lost Grog] 
 [G27.1,77.2Stranglethorn Vale]Turn in [QT1122 Report Back to Fizzlebub] 
 [S]Set HS Booty Bay
-[F]Fly Nethergarde Keep
+Fly to [F Nethergarde Keep]
 Accept quests then do loops around the entire zone killing everything (mobs share some spawn locations)
 Accept [QA3501 Everything Counts In Large Amounts] To be safe
 [G50.6,14.2Blasted Lands]Accept [QA2581 Snickerfang Jowls] 
@@ -34,7 +34,7 @@ Accept [QA3501 Everything Counts In Large Amounts] To be safe
 Turn in The Decisive Striker ASAP for agility buff[OC]
 Prio as follows: Basilisk>Vulture=Boar>Scorpion>Hyena[O]
 Kill [QC3501,1-][QC2583,1-][QC2585,3-][QC2581,2 Ashmane Boar] 6 Blasted Boar Lung[O]
-Kill [QC3501,1-][QC2583,2-][QC2585,1-][QC2581,3 Scorpok Stinger]  6 Scorpok Pincer[O]
+Kill [QC3501,1-][QC2583,2-][QC2585,1-][QC2581,3 Scorpok Stinger] 6 Scorpok Pincer[O]
 Kill [QC3501,1-][QC2601,2-][QC2585,2-][QC2603,1 Black Slayer] 14 Vulture Gizzard[O]
 Kill [QC3501,1-][QC2601,1-][QC2583,3 Redstone Basilisk] 11 Basilisk Brain[O]
 Kill [QC3501,1-][QC2581,1-][QC2603,2 Snickerfang Hyena] 5 Snickerfang Jowl
@@ -54,5 +54,5 @@ Grind level 50 if not yet[O]
 Boat Ratchet
 Withdraw banked items[OC]
 Leave un'goro crystals, Violet Tragan, Black Dragonflight Molt
-[F]Fly Talrendis Point
+Fly to [F Talrendis Point]
 ]],GetAddOnMetadata(addonName, "title"))

@@ -199,5 +199,5 @@ Deathwarp dolanaar
 [G56.3,92.4Teldrassil]Accept [QA6341 The Bounty of Teldrassil] 
 [G58.4,94Teldrassil]Turn in [QT6341 The Bounty of Teldrassil] 
 [G58.4,94Teldrassil]Accept [QA6342 Flight to Auberdine] 
-[F]Fly Auberdine
+Fly to [F Auberdine]
 ]],GetAddOnMetadata(addonName, "title"))

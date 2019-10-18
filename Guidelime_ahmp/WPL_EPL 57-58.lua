@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N57-58WPL/EPL]
 [NX58-59WPL/EPL 2]
-[F]Fly Ironforge
+Fly to [F Ironforge]
 [G57.2,30Dun Morogh]Turn in [QT3701 The Smoldering Ruins of Thaurissan p2] 
 Tram SW
 [G34.7,21.6Elwynn Forest]Turn in [QT4184 The True Masters p2] 
@@ -20,10 +20,10 @@ Talk to Katrana [QC4185 The True Masters p3]
 [G24.7,31Elwynn Forest]Turn in [QT5048 Good Natured Emma] 
 [G24.7,31Elwynn Forest]Accept [QA5050 Good Luck Charm] 
 [S]Set HS Stormwind
-[F]Fly Lakeshire
+Fly to [F Lakeshire]
 [G30,44.5Redridge Mountains]Turn in [QT4186 The True Masters p4] 
 [G30,44.5Redridge Mountains]Accept [QA4223 The True Masters p5] 
-[F]Fly Morgan's Vigil
+Fly to [F Morgan's Vigil]
 [G84.7,69Burning Steppes]Turn in [QT4223 The True Masters p5] 
 [G84.7,69Burning Steppes]Accept [QA4224 The True Masters p6] 
 [G84.6,68.7Burning Steppes]Accept [QA3825 Ogre Head On A Stick = Party] 
@@ -32,7 +32,7 @@ talk to ragged john [QC4224 The True Masters p6]
 top of dreadmaul rock [QC3825 Ogre Head On A Stick = Party] 
 [G84.7,69Burning Steppes]Turn in [QT4224 The True Masters p6] 
 [G84.6,68.7Burning Steppes]Turn in [QT3825 Ogre Head On A Stick = Party] 
-[F]Fly Chillwind Camp
+Fly to [F Chillwind Camp]
 [G79.1,29.8Alterac Mountains]Turn in [QT5217 Return to Chillwind Camp p1] 
 [G79.1,29.8Alterac Mountains]Accept [QA5219 Target: Dalson's Tears] 
 [G78.7,29.1Alterac Mountains]Accept [QA5097 All Along the Watchtowers] 
@@ -137,5 +137,5 @@ kill skeletons [QC5537 Skeletal Fragments]
 [G73.7,2.5Alterac Mountains]Accept [QA5210 Brother Carlin] 
 [G78.6,28.7Alterac Mountains]Turn in [QT5537 Skeletal Fragments] 
 [G78.7,29.1Alterac Mountains]Turn in [QT211 Alas, Andorhal] [OC]
-[F]Fly Light's Hope Chapel
+Fly to [F Light's Hope Chapel]
 ]],GetAddOnMetadata(addonName, "title"))

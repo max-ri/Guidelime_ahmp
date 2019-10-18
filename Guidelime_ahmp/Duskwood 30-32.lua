@@ -26,14 +26,14 @@ Accept [QA538 Southshore]
 [G32.8,45Elwynn Forest]Accept [QA1242 The Missing Diplomat p3] 
 [G27.7,39.5Elwynn Forest]Turn in [QT1242 The Missing Diplomat p3] 
 [G27.7,39.5Elwynn Forest]Accept [QA1243 The Missing Diplomat p4] 
-[F]Fly Darkshire
+Fly to [F Darkshire]
 [G13,39Deadwind Pass]Turn in [QT156 Gather Rot Blossoms] 
 [G13,39Deadwind Pass]Accept [QA159 Juice Delivery] 
 [G12.8,41.6Deadwind Pass]Turn in [QT57 The Night Watch p2] 
 [G12.8,41.6Deadwind Pass]Accept [QA58 The Night Watch p3] 
 [G15.1,42.4Deadwind Pass]Accept [QA173 Worgen in the Woods p1] 
 [G2.4,0.6Blasted Lands]Accept [QA181 Look To The Stars p4] 
-[G11.7,27.2Deadwind Pass]Turn in [QT1243 The Missing Diplomat p4]  
+[G11.7,27.2Deadwind Pass]Turn in [QT1243 The Missing Diplomat p4] 
 [G11.7,27.2Deadwind Pass]Accept [QA1244 The Missing Diplomat p5] 
 [G1.6,50.3Deadwind Pass]Kill [QC173,1 Nightbane Shadow Weaver] Just west of darkshire
 Turn in [QT74 The Legend of Stalvan p7] 
@@ -105,5 +105,5 @@ If still no book, then grind lvl 29-30 ogres until it drops
 [G13.8,40.8Deadwind Pass]Accept [QA231 A Daughter's Love] 
 [G15.1,42.4Deadwind Pass]Turn in [QT221 Worgen in the Woods p2] 
 [G15.1,42.4Deadwind Pass]Accept [QA222 Worgen in the Woods p3] 
-[F]Fly Stormwind
+Fly to [F Stormwind]
 ]],GetAddOnMetadata(addonName, "title"))

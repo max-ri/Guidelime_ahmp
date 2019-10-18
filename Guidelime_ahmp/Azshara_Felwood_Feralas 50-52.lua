@@ -27,14 +27,14 @@ Waterwalking elixir if have any, run to helipad[OC]
 [G77,91Azshara]Turn in [QT3449 Arcane Runes] Use flare gun
 [G77,91Azshara]Accept [QA3461 Return to Tymor] 
 [H]HS Ratchet
-[F]Fly Talrendis Point
+Fly to [F Talrendis Point]
 [G96.3,51.4Ashenvale]Turn in [QT5535 Spiritual Unrest] 
 [G96.3,51.4Ashenvale]Turn in [QT5536 A Land Filled with Hatred] 
 Run felwood
 [G51.8,20.8Ashenvale]Accept [QA8460 Timbermaw Ally] 
 [G64.8,99.6Darkshore]Accept [QA5155 Forces of Jaedenar] 
 [G64.9,99Darkshore]Accept [QA4421 The Corruption of the Jadefire] 
-Abandon owl and tame 49 Ironbeak Owl for new screech [OC]
+Abandon owl and tame 49 Ironbeak Owl for new screech[OC]
 [G48.8,26.1Ashenvale]Kill [QC8460,3 Deadwood Gardener] [O]
 [G48.4,26.4Ashenvale]Kill [QC8460,2 Deadwood Pathfinder] [O]
 [G49.3,27.1Ashenvale]Kill [QC8460,1 Deadwood Warrior] 
@@ -66,9 +66,9 @@ Get FP Talonbranch Glade
 [G83.6,44.4Darkshore]Turn in [QT3908 It's a Secret to Everybody p3] 
 [G83.6,44.4Darkshore]Accept [QA3909 The Videre Elixir p1] 
 Get FP Moonglade
-[F]Fly Auberdine
+Fly to [F Auberdine]
 [S]Set HS Auberdine
-[F]Fly Rut'theran Village
+Fly to [F Rut'theran Village]
 [G55.5,92Teldrassil]Turn in [QT3661 Favored of Elune?] 
 [G55.4,92.2Teldrassil]Turn in [QT2944 The Super Snapper FX] 
 [G55.4,92.2Teldrassil]Accept [QA2943 Return to Troyas] 
@@ -76,7 +76,7 @@ Get FP Moonglade
 [G25.9,64.7Teldrassil]Accept [QA4493 March of the Silithid] 
 [G25.2,63.8Teldrassil]Turn in [QT3378 Prayer to Elune p2] 
 [H]HS Auberdine
-[F]Fly Feathermoon Stronghold
+Fly to [F Feathermoon Stronghold]
 [G30.6,42.7Feralas]Accept [QA7733 Improved Quality A] 
 [G31.8,45.5Feralas]Turn in [QT2943 Return to Troyas] 
 [G31.8,45.5Feralas]Accept [QA2879 The Stave of Equinex] 

@@ -53,5 +53,5 @@ Kill [QC559 Torn Fin Murlocs]
 [G10.6,60.6Wetlands]Turn in [QT292 The Eye of Paleth] 
 [G10.6,60.6Wetlands]Accept [QA293 Cleansing the Eye] 
 [G9.9,57.5Wetlands]Turn in [QT474 Defeat Nek'rosh] 
-[F]Fly Ironforge
+Fly to [F Ironforge]
 ]],GetAddOnMetadata(addonName, "title"))

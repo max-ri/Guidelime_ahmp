@@ -100,7 +100,7 @@ Kill [QC2138,1 Rabid Thistle Bear]
 [G30.4,60.7Teldrassil][V]Buy Reinforced Bow + Heavy Recurve Bow
 [G23.7,64.5Teldrassil]Accept [QA730 Trouble In Darkshore?] 
 [G56.3,92.4Teldrassil]Turn in [QT6343 Return to Nessa] 
-[F]Fly to Darkshore
+Fly to [F Darkshore]
 [G36.6,45.6Darkshore]Turn in [QT4731 Beached Sea Creature] 
 [G36.6,45.6Darkshore]Turn in [QT4732 Beached Sea Turtle] 
 [G36.6,45.6Darkshore]Turn in [QT4733 Beached Sea Turtle] 

@@ -10,7 +10,7 @@ Guidelime.registerGuide([[
 [G62.6,23.7Dun Morogh]Accept [QA3201 At Last!] 
 [G62.6,23.7Dun Morogh]Accept [QA3371 Dwarven Justice] 
 Restock lots of arrows
-[F]Fly Thorium Point
+Fly to [F Thorium Point]
 [G37,26Searing Gorge]Accept [QA7729 JOB OPPORTUNITY: Culling the Competition] 
 [G60.6,80.3Dun Morogh]Accept [QA7724 Fiery Menace!] 
 [G60.6,80.3Dun Morogh]Accept [QA7723 Curse These Fat Fingers] 
@@ -84,7 +84,7 @@ Turn in [QT3481 Trinkets...] Loot the chest again
 [G60.2,79.7Dun Morogh]Turn in [QT7701 WANTED: Overseer Maltorius] 
 [G60.8,80.2Dun Morogh]Turn in [QT7728 STOLEN: Smithing Tuyere and Lookout's Spyglass] 
 [G60.7,80.6Dun Morogh]Turn in [QT7722 What the Flux?] 
-[F]Fly Ironforge
+Fly to [F Ironforge]
 [L58,26.2Dun Morogh]Dwarf Mageweave turnin [QS7804 A Donation of Mageweave][OC]
 [G63.5,23Dun Morogh]Accept [QA3448 Passing the Burden] 
 [G63.2,24.8Dun Morogh]Accept [QA4512 A Little Slime Goes a Long Way p1] 

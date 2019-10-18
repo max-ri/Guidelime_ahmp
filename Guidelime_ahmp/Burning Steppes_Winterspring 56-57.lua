@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N56-57Burning Steppes/Winterspring]
 [NX57-58WPL/EPL]
-[F]Fly Ironforge
+Fly to [F Ironforge]
 [G57.2,30Dun Morogh]Accept [QA3702 The Smoldering Ruins of Thaurissan p1] 
 talk to her [QC3702 The Smoldering Ruins of Thaurissan p1] 
 [G57.2,30Dun Morogh]Turn in [QT3702 The Smoldering Ruins of Thaurissan p1] 
@@ -19,13 +19,13 @@ make sure you learned track undead
 [G24.7,31Elwynn Forest]Turn in [QT5048 Good Natured Emma] [OC]
 [G24.7,31Elwynn Forest]Accept [QA5050 Good Luck Charm] [OC]
 [V]Buy arrows here, none in Burning Steppes
-[F]Fly Lakeshire
+Fly to [F Lakeshire]
 Get FP Morgan's Vigil
 [G84.6,68.7Burning Steppes]Accept [QA3823 Extinguish the Firegut] 
 [G84.6,68.7Burning Steppes]Accept [QA4283 FIFTY! YEP!] 
 [G85.8,68.9Burning Steppes]Accept [QA4182 Dragonkin Menace] skip if scared
 [G78.9,46.9Burning Steppes]Kill [QC3823,2 Firegut Ogre] try to finish plain ogres[OC]
-[G80.1,42.6Burning Steppes]Kill [QC3823,1 Firegut Ogre Mage] Kill a few on the way [OC]
+[G80.1,42.6Burning Steppes]Kill [QC3823,1 Firegut Ogre Mage] Kill a few on the way[OC]
 [G4.9,94.7Badlands]Turn in [QT4324 Yuka Screwspigot] 
 [G4,97.1Badlands]Accept [QA4726 Broodling Essence] 
 [G3.9,97Badlands]Accept [QA4296 Tablet of the Seven] 
@@ -54,7 +54,7 @@ Complete [QC4283 FIFTY! YEP!]
 [G3.9,97Badlands]Turn in [QT4296 Tablet of the Seven] 
 [G84.6,68.7Burning Steppes]Turn in [QT3824 Gor'tesh the Brute Lord] 
 [G84.6,68.7Burning Steppes]Turn in [QT4283 FIFTY! YEP!] 
-[F]Fly redridge
+Fly to [F redridge]
 [G30,44.5Redridge Mountains]Turn in [QT4183 The True Masters p1] 
 [G30,44.5Redridge Mountains]Accept [QA4184 The True Masters p2] 
 [H]HS Winterspring
@@ -98,9 +98,9 @@ Run to moonglade
 [G84.2,12.3Darkshore]Turn in [QT6762 Rabine Saturna] 
 [G84.2,12.3Darkshore]Accept [QA1124 Wasteland] 
 [G84.2,12.3Darkshore]Accept [QA5527 A Reliquary of Purity] [OC]
-[F]Fly Auberdine
+Fly to [F Auberdine]
 [S]Set HS Auberdine
-[F]Fly Rut'theran Village
+Fly to [F Rut'theran Village]
 [G55.5,92Teldrassil]Turn in [QT4901 Guardians of the Altar] 
 [G55.5,92Teldrassil]Accept [QA4902 Wildkin of Elune] 
 [G38,84Darnassus]Fill vial in moonwell (priest trainer) [QC4441 Felbound Ancients] 

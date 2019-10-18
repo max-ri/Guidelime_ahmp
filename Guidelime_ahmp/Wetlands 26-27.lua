@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N26-27Wetlands]
 [NX27-29Ashenvale]
-[F]Fly Menethil
+Fly to [F Menethil]
 [G8.3,58.5Wetlands]Turn in [QT279 Claws from the Deep] 
 [G8.3,58.5Wetlands]Accept [QA281 Reclaiming Goods] 
 [G8.5,55.7Wetlands]Accept [QA484 Young Crocolisk Skins] 

@@ -33,7 +33,7 @@ Complete [QC939 Flute of Xavaric]
 [G69.7,44.1Darkshore]Kill [QC4101,1 Warpwood Moss Flayer] 
 [G69,43.3Darkshore]Kill [QC4084,1 Angerclaw Grizzly] [O]
 [G70.1,45Darkshore]Kill [QC4084,1 Felpaw Ravager] finish then go to north town
-[F]Fly Everlook
+Fly to [F Everlook]
 [G60.7,38.2Winterspring]Accept [QA6603 Trouble in Winterspring!] 
 [S]Set HS Everlook
 [G83.6,44.4Darkshore]Turn in [QT980 The New Springs] 
@@ -90,6 +90,6 @@ Keep good luck charm and black dragonflight molt ready
 [G98.7,32.9Darkshore]Kill [QC5087,1 Winterfall Runner] Back of the Deadwood camp
 If feathers/beads in, then grind deadwood furbolgs for the totem now
 grind to 55.75 on furbolgs or north satyrs in felwood[OC]
-[F]Fly Auberdine
+Fly to [F Auberdine]
 Boat Menethil
 ]],GetAddOnMetadata(addonName, "title"))

@@ -95,7 +95,7 @@ Go to Goldshire
 [G27.7,47.4Redridge Mountains]Turn in [QT127 Selling Fish] 
 [G27.7,47.4Redridge Mountains]Accept [QA150 Murloc Poachers] 
 [G27.7,47.4Redridge Mountains]Turn in [QT150 Murloc Poachers] 
-[F]Fly Darkshire
+Fly to [F Darkshire]
 [G2.4,0.6Blasted Lands]Accept [QA174 Look To The Stars p1] 
 [G2.4,0.6Blasted Lands]Turn in [QT174 Look To The Stars p1] 
 [G2.4,0.6Blasted Lands]Accept [QA175 Look To The Stars p2] 
@@ -117,7 +117,7 @@ Go to Goldshire
 [G2.4,0.6Blasted Lands]Turn in [QT177 Look To The Stars p3] 
 [G15.2,39.9Deadwind Pass]Turn in [QT154 Return the Comb] 
 [G15.2,39.9Deadwind Pass]Accept [QA157 Deliver the Thread] 
-Go North of Darkshire to coast, killing wolves 
+Go North of Darkshire to coast, killing wolves
 [G32.9,36.5Duskwood]Kill [QC245,1-][QC101,2 Pygmy Venom Web Spider] [O]
 [G48.4,95.8Elwynn Forest]Kill [QC226,1 Starving Dire Wolf] [O]
 [G27.7,31.2Duskwood]Kill [QC226,2 Rabid Dire Wolf] Need to have 10 Lean Wolf Flank

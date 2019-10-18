@@ -5,14 +5,14 @@ Guidelime.registerGuide([[
 [N59-60Silithus/Winterspring]
 Boat Ratchet
 [G33,79.8Durotar]Turn in [QT4502 Volcanic Activity] 
-[F]Fly Theramore
+Fly to [F Theramore]
 [S]Set HS Theramore
-[F]Fly Gadgetzan
+Fly to [F Gadgetzan]
 Scare Sprinkle [QC5163 Are We There, Yeti? p3] [OC]
 [G51.5,28.8Tanaris]Turn in [QT5538 Mold Rhymes With...] completely optional doesnt increase leveling speed, but nice to get key for later if have 2 bars already[OC]
 [G51.5,28.8]Accept [QA5801 Fire Plume Forged] [OC]
 [G70,49Tanaris]past pirates, Eridan's Supplies [QC4005 Aquementas] 
-[F]Fly Marshal's Refuge
+Fly to [F Marshal's Refuge]
 [G13.3,70.5Thousand Needles]Turn in [QT4005 Aquementas] 
 [G13.3,70.5Thousand Needles]Accept [QA3961 Linken's Adventure] 
 [G15.6,75Thousand Needles]Turn in [QT3961 Linken's Adventure] 
@@ -36,7 +36,7 @@ Check Cenarion Hold quests
 [G82.8,87Feralas]Turn in [QT1126 Hive in the Tower] 
 [G82.8,87Feralas]Accept [QA6844 Umber, Archivist] 
 [H]HS Theramore, assuming no quests in Cenarion Hold
-[F]Fly Winterspring
+Fly to [F Winterspring]
 [G69.6,38.3Winterspring]Kill [QC5121,1 High Chief Winterfall] 
 Accept [QA5123 The Final Piece] 
 grind timbermaw mobs to  xp value 144050 w/o purity or  137450 w/ purity

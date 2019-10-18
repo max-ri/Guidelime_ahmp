@@ -6,7 +6,7 @@ Guidelime.registerGuide([[
 [NX29-30Wetlands 2]
 In Auberdine
 [G38.3,43Darkshore]Turn in [QT3765 The Corruption Abroad] 
-[F]Fly to Stonetalon Peak
+Fly to [F Stonetalon Peak]
 [G4.6,52.6Ashenvale]Accept [QA1057 Reclaiming the Charred Vale] 
 [G10,15.3The Barrens]Kill [QC1078,1 Scorched Basilisk] If unlucky on drops then abandon[OC]
 [G9.9,9.6The Barrens]Kill [QC1057,1 Bloodfury Harpy] [O]
@@ -14,10 +14,10 @@ In Auberdine
 [G9.5,14The Barrens]Kill [QC1057,3 Bloodfury Slayer] [O]
 [G9.9,13.9The Barrens]Kill [QC1057,4 Bloodfury Roguefeather] 
 Get FP Nijel's Point
-[F]Fly Stonetalon Peak
+Fly to [F Stonetalon Peak]
 [G4.6,52.6Ashenvale]Turn in [QT1057 Reclaiming the Charred Vale] 
 [G4.6,52.6Ashenvale]Accept [QA1059 Reclaiming the Charred Vale] 
-[F]Fly Astranaar
+Fly to [F Astranaar]
 [G22,52Ashenvale]Accept [QA1022 The Howling Vale] South West dryad area
 [G22,52Ashenvale]Accept [QA1021 Vile Satyr! Dryads in Danger!] 
 [G34.7,48.8Ashenvale]Accept [QA4581 Kayneth Stillwind] in Astranaar
@@ -84,12 +84,12 @@ Turn in [QT1045 Raene's Cleansing p10] Can skip this turnin if you want to keep 
 [G22,52Ashenvale]Turn in [QT1032 Satyr Slaying!] South West dryad area
 [G26.2,38.7Ashenvale]Turn in [QT1140 The Tower of Althalaxx p6] 
 Deathwarp to Astranaar
-[F]Fly Darnassus
+Fly to [F Rut'theran Village]
 [G30,55.1Teldrassil]Turn in [QT1037 Velinde Starsong] 
 [G30,55.1Teldrassil]Accept [QA1038 Velinde's Effects] 
 [G30.2,64.3Teldrassil]Complete [QC1038,1 Velinde's Effects] 
 [G30,55.1Teldrassil]Turn in [QT1038 Velinde's Effects] 
 [G30,55.1Teldrassil]Accept [QA1039 The Barrens Port] 
-[F]Fly Auberdine
+Fly to [F Auberdine]
 Boat to Menethil
 ]],GetAddOnMetadata(addonName, "title"))

@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N39-40Arathi/Alterac]
 [NX40-41Badlands]
-[S] Set HS
+[S]Set HS
 [G96,89.7Silverpine Forest]Turn in [QT1052 Down the Scarlet Path p2] upstairs
 [G93.4,90.3Silverpine Forest]Turn in [QT525 Further Mysteries] 
 [G93.4,90.3Silverpine Forest]Accept [QA537 Dark Council] 
@@ -27,7 +27,7 @@ Turn in [QT540 Preserving Knowledge]
 Accept [QA542 Return to Milton] 
 [G93.4,90.3Silverpine Forest]Turn in [QT512 Noble Deaths] 
 [G93.4,90.3Silverpine Forest]Turn in [QT537 Dark Council] 
-[F]Fly Refuge Pointe
+Fly to [F Refuge Pointe]
 [G46.7,47Arathi Highlands]Accept [QA693 Wand over Fist] 
 [G62.5,33.7Arathi Highlands]Accept [QA642 The Princess Trapped] North crystal
 Discover Hammerfall
@@ -50,7 +50,7 @@ Get FP Aerie Peak
 [G23.3,58.8The Hinterlands]Check First cage [QC2988,1 Witherbark Cages] [O]
 [G23.1,58.8The Hinterlands]Check Second cage [QC2988,2 Witherbark Cages] 
 [G97.6,62.9Alterac Mountains]Turn in [QT2988 Witherbark Cages] 
-[F]Fly Refuge Pointe
+Fly to [F Refuge Pointe]
 [G36.2,57.4Arathi Highlands]Turn in [QT651 Stones of Binding] 
 [G36.2,57.4Arathi Highlands]Accept [QA652 Breaking the Keystone] 
 [G61.4,48.1Arathi Highlands]Kill [QC652,1 Fozruk] Kite him towards the eastern side of arathi to eliminate some travel time AVOID ROAD (courier)[OC]
@@ -80,7 +80,7 @@ Mini escort
 [G36.2,57.4Arathi Highlands]Turn in [QT652 Breaking the Keystone] Freezing trap down before turning in
 [G36.2,57.4Arathi Highlands]Accept [QA653 Myzrael's Allies] Run from elite
 [G46.7,47Arathi Highlands]Turn in [QT693 Wand over Fist] 
-[F]Fly Ironforge
+Fly to [F Ironforge]
 [G59.2,22Dun Morogh]Turn in [QT653 Myzrael's Allies] 
 [G59.2,22Dun Morogh]Accept [QA687 Theldurin the Lost] 
 [G62,23.9Dun Morogh]Turn in [QT1457 The Karnitol Shipwreck p4] 
@@ -88,5 +88,5 @@ Mini escort
 [G63.1,23Dun Morogh]Turn in [QT554 Stormpike's Deciphering] 
 [G63.1,23Dun Morogh]Accept [QA707 Ironband Wants You!] 
 IMPORTANT Restock on a lot of arrows!!!
-[F]Fly to loch modan
+Fly to [F loch modan]
 ]],GetAddOnMetadata(addonName, "title"))

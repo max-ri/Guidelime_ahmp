@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N42-45Tanaris/Feralas]
 [NX45-45Searing Gorge]
-[F]Fly Gadget 
+Fly to [F Gadget]
 [G52.5,28.4Tanaris]Accept [QA1707 Water Pouch Bounty p1] 
 [G52.5,28.5Tanaris]Accept [QA1690 Wastewander Justice] 
 [G51.6,26.8Tanaris]Turn in [QT2864 Tran'rek] 
@@ -34,7 +34,7 @@ Accept [QA3022 Handle With Care]
 [G48.9,32.4Tanaris]Kill [QC1452,1 Roc] Kill on the way to pool[O]
 [G38,29Tanaris]Complete [QC992 Gadgetzan Water Survey] 
 [G50.2,27.5Tanaris]Turn in [QT992 Gadgetzan Water Survey] 
-[F]Fly Thalanaar
+Fly to [F Thalanaar]
 Kill [QC1452,2 Ironfur Bear] Kill on the way[OC]
 Kill [QC1452,3 Groddoc Ape] [OC]
 [G12.2,99The Barrens]Use Yeh'kinya's Bramble on corpse [QC3520 Vale Screecher] [L57.65,59.38Feralas][L57.06,54.79Feralas][L58.19,57.76Feralas][L60.22,62.16Feralas][OC]
@@ -76,7 +76,7 @@ Grind until level 44
 [G30.4,46.2Feralas]Turn in [QT2870 Against Lord Shalzaru] 
 [G30.4,46.2Feralas]Accept [QA2871 Delivering the Relic] 
 [G30.4,46.2Feralas]Turn in [QT2871 Delivering the Relic] 
-[F]Fly Thalanaar
+Fly to [F Thalanaar]
 Kill [QC1452,2 Ironfur Bear] Kill on the way[O]
 [G22.5,97.5The Barrens]Turn in [QT4131 The Woodpaw Gnolls] 
 [G22.5,97.5The Barrens]Accept [QA4135 The Writhing Deep] 
@@ -102,7 +102,7 @@ Kill [QC1452,3 Groddoc Ape] [O]
 [G12.2,99The Barrens]Use Yeh'kinya's Bramble on corpse [QC3520 Vale Screecher] [L57.65,59.38Feralas][L57.06,54.79Feralas][L58.19,57.76Feralas][L60.22,62.16Feralas]
 [G9.6,97.8The Barrens]Kill [QC2821,1 Feral Scar Yeti] [O]
 Kill [QC2821,1 Enraged Feral Scar] 
-Accept [QA2766 Find OOX-22/FE!] If grinding was 55k+ xp/hr then skip the escort but still turn in [O]
+Accept [QA2766 Find OOX-22/FE!] If grinding was 55k+ xp/hr then skip the escort but still turn in[O]
 [G8.8,97.1The Barrens]Turn in [QT2766 Find OOX-22/FE!] 
 [G8.8,97.1The Barrens]Accept [QA2767 Rescue OOX-22/FE!] 3 packs spawn, 3 level 45-46 yetis approaching the tree -- 3 43-44 groddoc apes 1/2 way down slope -- 4 woodpaw gnolls 42-44, assorted type[OC]
 [H]HS Feathermoon Stronghold
@@ -116,7 +116,7 @@ Accept [QA2766 Find OOX-22/FE!] If grinding was 55k+ xp/hr then skip the escort 
 [G30.3,46.2Feralas]Accept [QA4267 Rise of the Silithid] 
 While grinding try to find gold loan for mount 90g total
 [G26.4,67.6Feralas][H]Grind nagas to ~45.25 then HS to Feathermoon when it's up
-[F]fly darnassus
+Fly to [F Rut'theran Village]
 Turn in [QT3022 Handle With Care] 
 [G55.5,92Teldrassil]Accept [QA3661 Favored of Elune?] 
 [G55.4,92.2Teldrassil]Turn in [QT2939 In Search of Knowledge] 
@@ -128,7 +128,7 @@ Temple of the moon, circle left
 [G25.3,63.9Teldrassil]Turn in [QT2972 Doling Justice p2] 
 Withdraw 15 SILK CLOTH from bank
 [T]Train and BUY MOUNT, acquire Elixir of Fortitude
-[F]Fly to Auberdine
+Fly to [F Auberdine]
 Boat Menethil
-[F]Fly Loch Modan
+Fly to [F Loch Modan]
 ]],GetAddOnMetadata(addonName, "title"))

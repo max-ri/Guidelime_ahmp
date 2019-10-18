@@ -12,7 +12,7 @@ Turn in [QT6021 Zaeldarr the Outcast]
 [G71.3,34Eastern Plaguelands]Complete [QC5845,1 Of Lost Honor] 
 [G70.7,16.5Eastern Plaguelands]Kill [QC6024,1 Infiltrator Hameya] in zombie troll area, avoid graves
 [G51.1,49.9Eastern Plaguelands]Complete [QC5181,1 Villains of Darrowshire] 
-[G60.6,69.2Eastern Plaguelands]free 5-10 darrowshire spirits (based on spawns)  [QC5211 Gibbering Ghoul] [L59.31,68.96Eastern Plaguelands][L60.41,65.08Eastern Plaguelands][L60.14,73.59Eastern Plaguelands][L60.92,72.98Eastern Plaguelands][L62.2,67.82Eastern Plaguelands][L61.21,66.96Eastern Plaguelands][L61.92,65.38Eastern Plaguelands][L58.41,72.95Eastern Plaguelands][OC]
+[G60.6,69.2Eastern Plaguelands]free 5-10 darrowshire spirits (based on spawns) [QC5211 Gibbering Ghoul] [L59.31,68.96Eastern Plaguelands][L60.41,65.08Eastern Plaguelands][L60.14,73.59Eastern Plaguelands][L60.92,72.98Eastern Plaguelands][L62.2,67.82Eastern Plaguelands][L61.21,66.96Eastern Plaguelands][L61.92,65.38Eastern Plaguelands][L58.41,72.95Eastern Plaguelands][OC]
 [G53.9,65.8Eastern Plaguelands]Complete [QC5181,2 Villains of Darrowshire] 
 [G85.8,62.5Western Plaguelands]Turn in [QT6024 Hameya's Plea] 
 [G63.8,57.2Western Plaguelands]Complete [QC5168,2 Heroes of Darrowshire] 
@@ -27,14 +27,14 @@ Kill [QC4984 Diseased Wolf] [OC]
 Kill all [QC6004 Unfinished Business] 
 [G51.9,28.1Western Plaguelands]Turn in [QT6004 Unfinished Business] 
 [G51.9,28.1Western Plaguelands]Accept [QA6023 Unfinished Business p2] 
-Run south to hill blood of heroes spawn then run east to run over mountain 
+Run south to hill blood of heroes spawn then run east to run over mountain
 [G57.8,36.1Western Plaguelands]Kill [QC6023,1 Huntsman Radley] CAREFUL 63 ELITE
 [G55.2,23.6Western Plaguelands]Kill [QC6023,2 Cavalier Durgen] 
 [G51.9,28.1Western Plaguelands]Turn in [QT6023 Unfinished Business p2] 
 [G51.9,28.1Western Plaguelands]Accept [QA6025 Unfinished Business p3] Dismiss pet then run through sneakily towards tower
 Kill two paladins blocking tower then sneak in, watch for rare and pull him away to discover top of tower [QC6025 Unfinished Business p3] 
 Jump off tower w/o cheetah to land on ramp side pillar
-carefully pull paladins 1 by 1 until book is visable, then trap and pet tank while looting and run  [QC5168 Heroes of Darrowshire] 
+carefully pull paladins 1 by 1 until book is visable, then trap and pet tank while looting and run [QC5168 Heroes of Darrowshire] 
 [G51.9,28.1Western Plaguelands]Turn in [QT6025 Unfinished Business p3] 
 Kill [QC4984 Diseased Wolf] 
 [G53.7,64.7Western Plaguelands]Turn in [QT4984 The Wildlife Suffers Too p1] 
@@ -53,7 +53,7 @@ Swim/waterwalking across lake Lordamere
 [G78.6,28.7Alterac Mountains]Accept [QA5538 Mold Rhymes With...] 
 [G80.1,29.8Alterac Mountains]Accept [QA6186 The Blightcaller Cometh] 
 [G79.8,30.3Alterac Mountains]Turn in [QT6389 A Plague Upon Thee p3] 
-[F]Fly Light's Hope Chapel
+Fly to [F Light's Hope Chapel]
 [G81.5,59.8Eastern Plaguelands]Turn in [QT5168 Heroes of Darrowshire] 
 [G81.5,59.8Eastern Plaguelands]Turn in [QT5181 Villains of Darrowshire] 
 [G81.5,59.8Eastern Plaguelands]Accept [QA5206 Marauders of Darrowshire] 
@@ -65,5 +65,5 @@ Swim/waterwalking across lake Lordamere
 Need 2 thorium bars by now try AH
 Human runecloth turnin
 [G34.7,21.6Elwynn Forest]Turn in [QT6186 The Blightcaller Cometh] 
-[F]Fly Booty Bay
+Fly to [F Booty Bay]
 ]],GetAddOnMetadata(addonName, "title"))

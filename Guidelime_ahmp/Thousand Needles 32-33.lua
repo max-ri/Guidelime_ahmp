@@ -104,7 +104,7 @@ Run to Ratchet
 [G34.7,79.3Durotar]Turn in [QT1039 The Barrens Port] 
 [G34.7,79.3Durotar]Accept [QA1040 Passage to Booty Bay] 
 Get FP Ratchet
-[F]Fly Gadget
+Fly to [F Gadget]
 [G74.7,60.2Thousand Needles]Kill [QC1175,1 Saltstone Basilisk] [O]
 [G79.6,75.3Thousand Needles]Kill [QC1175,2 Saltstone Crystalhide] [O]
 [G77.8,87.7Thousand Needles]Kill [QC1175,3 Saltstone Gazer] [O]

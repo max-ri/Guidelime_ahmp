@@ -17,7 +17,7 @@ finish off stack for slow fall
 [G53.9,23.3Tanaris]Accept [QA3913 A Grave Situation] 
 [G53.8,29.1Tanaris]Turn in [QT3913 A Grave Situation] 
 [G53.8,29.1Tanaris]Accept [QA3914 Linken's Sword] 
-[F]Fly Marshal's Refuge
+Fly to [F Marshal's Refuge]
 [G15,74.2Thousand Needles]Accept [QA3881 Expedition Salvation] 
 [G14.9,74.3Thousand Needles]Accept [QA3883 Alien Ecology] 
 [G14.6,74.4Thousand Needles]Accept [QA3882 Roll the Bones] 
@@ -61,7 +61,7 @@ Finish crystals, heading north towards apes
 [G13.3,70.5Thousand Needles]Accept [QA4285 The Northern Pylon] 
 [G13.3,70.5Thousand Needles]Accept [QA4287 The Eastern Pylon] 
 [G13.3,70.5Thousand Needles]Accept [QA4288 The Western Pylon] 
-[F]Fly Gadgetzan
+Fly to [F Gadgetzan]
 [G50.9,27Tanaris]Turn in [QT4496 Bungle in the Jungle] 
 [G50.9,27Tanaris]Accept [QA4507 Pawn Captures Queen] 
 [G52.7,45.9Tanaris]Turn in [QT3444 The Stone Circle] 
@@ -112,17 +112,17 @@ Complete [QC974 Finding the Source]
 [G13.3,70.5Thousand Needles]Turn in [QT4321 Making Sense of It] 
 [G14.9,74.3Thousand Needles]Turn in [QT3883 Alien Ecology] 
 grind to at least 53. 90% if somehow behind xp[OC]
-[F]Fly Gadgetzan
+Fly to [F Gadgetzan]
 [G51.6,26.8Tanaris]Turn in [QT4504 Super Sticky] 
 [G50.9,27Tanaris]Turn in [QT4507 Pawn Captures Queen] 
 [G50.9,27Tanaris]Accept [QA4508 Calm Before the Storm p1] 
 [G67,24Tanaris]Accept [QA4324 Yuka Screwspigot] 
 [H]HS Auberdine
-[F]Fly Rut'theran Village
+Fly to [F Rut'theran Village]
 [G55.5,92Teldrassil]Turn in [QT978 Moontouched Wildkin] 
 [G55.5,92Teldrassil]Accept [QA979 Find Ranshalla] 
 [G55.4,92.2Teldrassil]Accept [QA5250 Starfall] 
-[T]Train 
+[T]Train
 [G25.9,64.7Teldrassil]Turn in [QT4508 Calm Before the Storm p1] 
 [G25.9,64.7Teldrassil]Accept [QA4510 Calm Before the Storm p2] 
 [G27.1,64Teldrassil]Accept [QA1047 The New Frontier] 
@@ -133,5 +133,5 @@ grind to at least 53. 90% if somehow behind xp[OC]
 [G24.6,48.7Teldrassil]Turn in [QT6761 The New Frontier] 
 [G24.6,48.7Teldrassil]Accept [QA6762 Rabine Saturna] 
 [G23.8,48.6Teldrassil]Turn in [QT3764 Un'Goro Soil] 
-[F]Fly Ashenvale
+Fly to [F Ashenvale]
 ]],GetAddOnMetadata(addonName, "title"))

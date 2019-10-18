@@ -4,14 +4,14 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [N34-35Hillsbrad_Arathi]
 [NX35-37Desolace]
-[F]Fly Refuge Pointe
+Fly to [F Refuge Pointe]
 [G46.7,47Arathi Highlands]Turn in [QT690 Malin's Request p1] 
 [G46.2,47.8Arathi Highlands]Accept [QA691 Worth Its Weight in Gold] 
 [G45.8,47.6Arathi Highlands]Accept [QA681 Northfold Manor] 
 [G60.2,53.8Arathi Highlands]Turn in [QT659 Hints of a New Plague? p1] 
 [G60.2,53.8Arathi Highlands]Accept [QA658 Hints of a New Plague? p2] Check courier spawn, and run along road towards Refuge Pointe
-[F]Fly Southshore
-[L94,87.2Silverpine Forest][V]Buy 4x soothing spices, SAVE 3 FOR LATER  [QS1218 Soothing Spices]
+Fly to [F Southshore]
+[L94,87.2Silverpine Forest][V]Buy 4x soothing spices, SAVE 3 FOR LATER [QS1218 Soothing Spices]
 [G96.7,87.9Silverpine Forest]Accept [QA564 Costly Menace] 
 [G95.3,88.7Silverpine Forest]Turn in [QT538 Southshore] 
 Accept [QA540 Preserving Knowledge] 
@@ -31,7 +31,7 @@ Kill [QC564,1 Mountain Lion] [O]
 [G49.1,45.4Alterac Mountains]Kill [QC540,1-][QC500,1 Crushridge Brute] [O]
 Grind until 5 books, hold onto these [QC540 Preserving Knowledge] 
 Get FP Chillwind Camp
-[F]Fly Southshore
+Fly to [F Southshore]
 [G94.4,90Silverpine Forest]Turn in [QT500 Crushridge Bounty] 
 [G93.4,90.3Silverpine Forest]Turn in [QT510 Foreboding Plans] 
 [G93.4,90.3Silverpine Forest]Turn in [QT505 Syndicate Assassins] 
@@ -56,15 +56,15 @@ Complete [QC660 Hints of a New Plague? p4]
 Deathwarp to Refuge Pointe
 Turn in [QT681 Northfold Manor] 
 [G46.2,47.8Arathi Highlands]Turn in [QT691 Worth Its Weight in Gold] 
-[F]Fly Southshore
+Fly to [F Southshore]
 Turn in [QT661 Hints of a New Plague? p5] Very cool legs
-[F]Fly Menethil
+Fly to [F Menethil]
 [G57.3,35.2Dun Morogh]Turn in [QT689 A King's Tribute p2] 
 [G57.3,35.2Dun Morogh]Accept [QA700 A King's Tribute p3] Wait for RP, takes 30~ seconds
 [G57.4,30.1Dun Morogh]Turn in [QT700 A King's Tribute p3] 
 [G62,23.9Dun Morogh]Accept [QA1453 Reclaimers' Business in Desolace] 
 [G63.1,23Dun Morogh]Turn in [QT514 Letter to Stormpike] 
-[F]Fly Menethil
+Fly to [F Menethil]
 Take whatever boat comes first, if both there then take Auberdine
-[F]Fly Nijel's Point
+Fly to [F Nijel's Point]
 ]],GetAddOnMetadata(addonName, "title"))

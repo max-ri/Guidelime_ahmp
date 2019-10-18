@@ -56,7 +56,7 @@ Kill [QC2500 Feral Crag Coyote] [OC]
 [G97.8,46.3Dun Morogh]Turn in [QT2500 Badlands Reagent Run] 
 [G65.9,65.6Loch Modan]Turn in [QT739 Murdaloc] at Excavation Sight
 unstuck deathwarp to town[OC]
-[F]Fly Ironforge
+Fly to [F Ironforge]
 Turn in [QT653 Myzrael's Allies] 
 Accept [QA687 Theldurin the Lost] 
 Turn in [QT554 Stormpike's Deciphering] 
@@ -65,6 +65,6 @@ Tram SW
 Turn in [QT543 The Perenolde Tiara] 
 Turn in [QT542 Return to Milton] 
 Accept [QA1477 Vital Supplies] 
-[F]Fly Booty Bay
+Fly to [F Booty Bay]
 [V]Chests will start giving Truesilver Bar DO NOT VENDOR
 ]],GetAddOnMetadata(addonName, "title"))

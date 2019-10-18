@@ -20,7 +20,7 @@ Booty bay
 [G27.2,76.9Stranglethorn Vale]Accept [QA578 The Stone of the Tides] 
 [G27.2,76.9Stranglethorn Vale]Turn in [QT1181 Goblin Sponsorship p3] 
 Get FP Booty Bay
-[F]Fly Darkshire
+Fly to [F Darkshire]
 [G11.7,41.6Deadwind Pass]Turn in [QT1041 The Caravan Road] 
 [G11.7,41.6Deadwind Pass]Accept [QA1042 The Carevin Family] 
 [G14.7,43.9Deadwind Pass]Turn in [QT1042 The Carevin Family] 
@@ -28,7 +28,7 @@ Get FP Booty Bay
 [G6.1,77.8Deadwind Pass]Kill [QC222,2 Nightbane Tainted One] At the mine camp[OC]
 [G9,70.3Deadwind Pass]Kill [QC222,1 Nightbane Vile Fang] [OC]
 [G73.5,79.1Duskwood]Back of cave dirt mound [QC1043 The Scythe of Elune] 
-[G6.1,77.8Deadwind Pass]Kill [QC222,2 Nightbane Tainted One] At mountain camp   [O]
+[G6.1,77.8Deadwind Pass]Kill [QC222,2 Nightbane Tainted One] At mountain camp[O]
 [G9,70.3Deadwind Pass]Kill [QC222,1 Nightbane Vile Fang] 
 Go STV
 Private Thorsen should patrol immedietely when you get in range of him if he wasn't loaded before[OC]
@@ -78,16 +78,16 @@ East of Kurzen camp [QC186 Stranglethorn Tiger]
 [G27.2,76.9Stranglethorn Vale]Turn in [QT578 The Stone of the Tides] 
 Bank any pages
 [G28.3,77.6Stranglethorn Vale]Turn in [QT575 Supply and Demand] Abandon any Booty bay pickups, will be back
-[F]Fly Darkshire
+Fly to [F Darkshire]
 [G15.1,42.4Deadwind Pass]Turn in [QT222 Worgen in the Woods p3] 
 [G15.1,42.4Deadwind Pass]Accept [QA223 Worgen in the Woods p4] 
 [G14.7,43.9Deadwind Pass]Turn in [QT223 Worgen in the Woods p4] 
 [G14.7,43.9Deadwind Pass]Turn in [QT1043 The Scythe of Elune] 
-[F]Fly Stormwind
+Fly to [F Stormwind]
 [G20.5,49.3Elwynn Forest]Accept [QA1260 Morgan Stern] 
 [G20.9,24.1Elwynn Forest]Accept [QA6141 Brother Anton] In Cathedral torture chamber
 [G24.5,19.3Elwynn Forest]Turn in [QT322 Blessed Arm] 
 [G24.5,19.3Elwynn Forest]Accept [QA325 Armed and Ready] 
 [T]Train 34 + tram IF
-[F]Fly Southshore
+Fly to [F Southshore]
 ]],GetAddOnMetadata(addonName, "title"))

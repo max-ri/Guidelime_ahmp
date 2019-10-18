@@ -38,11 +38,11 @@ Go to Stonetalon
 [V]Buy 45 Mild Spices (9 clicks xD)
 [G37.4,41.8Darkshore]Turn in [QT731 The Absent Minded Prospector p2] 
 [G37.4,41.8Darkshore]Accept [QA741 The Absent Minded Prospector p3] 
-[F]Fly darn
+Fly to [F Rut'theran Village]
 Take eggs out of bank
 [G23.7,64.5Teldrassil]Turn in [QT741 The Absent Minded Prospector p3] 
 [G23.7,64.5Teldrassil]Accept [QA942 The Absent Minded Prospector p4] 
-[F]Fly Astranaar
+Fly to [F Astranaar]
 [G46.3,45.9Ashenvale]Complete [QC1033,1 Elune's Tear] 
 [G37.7,34.7Ashenvale]Kill [QC1054,1 Dal Bloodclaw] Kill wildlife to create a kite path, then pull him from east side of village and run towards town
 [G36.6,49.6Ashenvale]Turn in [QT1054 Culling the Threat] 
@@ -66,7 +66,7 @@ Climb the ramp looking mountain NE towards demons
 [G10.2,26.4Ashenvale]Kill [QC1008,1 Wrathtail Sea Witch] [O]
 [G25.5,95.6Darkshore]Kill [QC1009,1 Ruuzel] 
 [G14.8,31.3Ashenvale]Turn in [QT1009 Ruuzel] 
-[G34.7,48.8Ashenvale]Turn in [QT1008 The Zoram Strand] Grind to town [OC]
+[G34.7,48.8Ashenvale]Turn in [QT1008 The Zoram Strand] Grind to town[OC]
 [G36.6,49.6Ashenvale]Turn in [QT1023 Raene's Cleansing p2] 
 [G37.4,51.8Ashenvale]Turn in [QT1034 The Ruins of Stardust] 
 [G34.8,50.9Ashenvale][V]Buy 2x Simple Wood and Flint and Tinder
