@@ -1,6 +1,6 @@
 ## Title: Guidelime_ahmp
 ## Author: ahmp, Borick of Arthas(EU)
-## Version: 1.4
+## Version: 1.3
 ## Interface: 11403
 ## Dependencies: Guidelime
 ## Notes: ahmp's 1-60 guide

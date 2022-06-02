@@ -1,2 +1,5 @@
-
-release.lua
+*
+!Guidelime_ahmp
+!README.md
+!.pkgmeta
+!.gitignore
